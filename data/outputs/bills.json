@@ -1,0 +1,1322 @@
+[
+  {
+    "bill_id": "B001",
+    "bill_text": "Maple Packaging Ltd Toronto\nInvoice # 37866\nDate: Oct 24 2026\nPO: PO-8630\nCurrency: CAD\n\n812 x Jumbo Bag Scandinavian Blue Paisley @ $1.65\n24 x Pink Union Jack  Passport Cover @ $2.10\n\nSubtotal: $1,390.20\nTax (HST 13%): $180.73\nTotal: $1,570.93\n",
+    "body": "Hello,\n\nAttached is invoice Invoice # 37866 dated 2026-10-24. Payment terms net 30.\n\nRegards,\nJames Whitfield",
+    "from": "James Whitfield <billing@maplepackagingltd.example>",
+    "received_at": "2026-10-26T16:18:46.460113-04:00",
+    "seed_flags": [
+      "name_variant"
+    ],
+    "subject": "Invoice Invoice # 37866 attached"
+  },
+  {
+    "bill_id": "B002",
+    "bill_text": "Harbour Office Supply Inc\nNo. 89387\nDate: Oct 17 2026\nCurrency: CAD\n\n10 x Origami Sandlewood Incense/Cand Set @ $2.55\n5 x S/4 Cacti Candles @ $4.13\n20 x Red Retrospot Charlotte Bag @ $1.66\n10 x Tv Dinner Tray Air Hostess @ $4.13\n30 x Eight Piece Snake  Set @ $1.25\n50 x Blue Cushion Cover With Flower @ $6.95\n35 x Charlie + Lola Red Hot Water Bottle @ $3.29\n5 x Set/6 Green Spring Paper Cups @ $0.19\n50 x Wood Stamp Set Thank You @ $0.83\n20 x Space Cadet White @ $0.85\n60 x Pig Mug In Two Colour Designs @ $0.39\n\nSubtotal: $703.65\nTax (HST 13%): $91.47\nTotal: $795.12\n",
+    "body": "Hello,\n\nAttached is invoice No. 89387 dated 2026-10-17. Payment terms net 30.\n\nRegards,\nPriya Nair",
+    "from": "Priya Nair <billing@harbourofficesuppliesinc.example>",
+    "received_at": "2026-10-27T02:36:47.941511-04:00",
+    "seed_flags": [
+      "name_variant"
+    ],
+    "subject": "Invoice No. 89387 attached"
+  },
+  {
+    "bill_id": "B003",
+    "bill_text": "Northline Industrial Tools Ltd\nINV-28657\nDate: 2026-10-28\nCurrency: CAD\n\n134 x Cook With Wine Metal Sign @ $1.85\n1 x Vintage Pink Decorative Parasol @ $8.29\n4 x Wooden Advent Calendar Red @ $16.95\n19 x Victorian Sewing Kit @ $0.79\n8 x Garland With Stars And Bells @ $3.29\n11 x Felt Farm Animal White Bunny @ $1.63\n6 x Feltcraft Hairband Red And Blue @ $0.85\n1 x Hyacinth Bulb T-Light Candles @ $0.42\n18 x Set Of 72 Pink Heart Paper Doilies @ $2.92\n6 x Cute Cats Tape @ $0.43\n8 x Set/6 Collage Paper Plates @ $0.83\n25 x Pharmacie First Aid Tin @ $7.13\n7 x Blue Charlie+Lola Personal Doorsign @ $0.39\n6 x Pink Fairy Cake Cushion Cover @ $2.55\n25 x Star Decoration Painted Zinc @ $0.65\n1 x Dotcom Postage @ $171.46\n19 x Large Ivory Heart Wall Organiser @ $7.05\n3 x Wall Art Only One Person @ $10.79\n17 x Set Of 10 Lanterns Fairy Light Star @ $4.15\n3 x Wicker Star @ $3.29\n6 x Frying Pan Red Retrospot @ $4.25\n\nSubtotal: $1,106.78\nTax (HST 13%): $143.88\nTotal: $1,250.66\n",
+    "body": "Hello,\n\nAttached is invoice INV-28657 dated 2026-10-28. Payment terms net 30.\n\nRegards,\nLena Fischer",
+    "from": "Lena Fischer <billing@northlineindustrialtools.example>",
+    "received_at": "2026-11-01T23:32:10.240708-04:00",
+    "seed_flags": [
+      "name_variant"
+    ],
+    "subject": "Invoice INV-28657 attached"
+  },
+  {
+    "bill_id": "B004",
+    "bill_text": "GTA Paper and Board Corp\nINV-70050\nDate: 2026-10-23\nPO: PO-7585\nCurrency: CAD\n\n2 x Wood Stamp Set Flowers @ $1.63\n26 x Paperweight Save The Planet @ $0.85\n41 x Union Stripe With Fringe  Hammock @ $6.62\n2 x Christmas Lights 10 Santas @ $8.50\n2 x Jigsaw Tree With Birdhouse @ $3.29\n6 x Hearts Wrapping Tape @ $0.65\n154 x Spaceboy Birthday Card @ $0.36\n6 x Charlie + Lola Red Hot Water Bottle @ $2.95\n43 x Four Hook  White Lovebirds @ $2.10\n4 x Classic French Style Basket Natural @ $7.46\n6 x Painted Metal Heart With Holly Bell @ $0.83\n11 x Frying Pan Union Flag @ $4.25\n9 x Set Of 2 Round Tins Camembert @ $2.95\n9 x Antique Silver Tea Glass Engraved @ $1.25\n26 x Red Retrospot Peg Bag @ $2.10\n4 x Classic Bicycle Clips @ $1.45\n4 x Pink Diamante Pen In Gift Box @ $4.95\n923 x Angel Decoration 3 Buttons @ $0.36\n\nSubtotal: $1,019.55\nTax (HST 13%): $132.54\nTotal: $1,152.09\n",
+    "body": "Hi AP team,\n\nPlease find our invoice INV-70050 attached for payment.\n\nThanks,\nAisha Khan",
+    "from": "Aisha Khan <billing@gtapaperboardcorp.example>",
+    "received_at": "2026-11-01T06:19:12.375963-04:00",
+    "seed_flags": [
+      "name_variant"
+    ],
+    "subject": "Please process: INV-70050"
+  },
+  {
+    "bill_id": "B005",
+    "bill_text": "Lakeshore Janitorial Supplies\nInvoice # 92221\nDate: 18/10/2026\nCurrency: CAD\n\n9 x Midnight Blue Vintage Earrings @ $3.81\n28 x Queen Of The Skies Passport Cover @ $2.10\n248 x Wooden Tree Christmas Scandinavian @ $0.29\n18 x Feltcraft Cushion Butterfly @ $7.62\n46 x Set Of 6 Herb Tins Sketchbook @ $1.25\n9 x Fridge Magnets Us Diner Assorted @ $10.79\n276 x Pack Of 6 Pannetone Gift Boxes @ $2.55\n37 x Jumbo  Bag Baroque Black White @ $1.95\n9 x Ruby Glass Cluster Earrings @ $1.26\n18 x Blue Paisley Tissue Box @ $2.46\n9 x Paperweight Vintage Collage @ $2.55\n\nSubtotal: $1,311.30\nTax (HST 13%): $170.47\nTotal: $1,481.77\n",
+    "body": "Hi AP team,\n\nPlease find our invoice Invoice # 92221 attached for payment.\n\nThanks,\nMarc Dubois",
+    "from": "Marc Dubois <billing@lakeshorejanitorialsupply.example>",
+    "received_at": "2026-10-31T19:45:29.158613-04:00",
+    "seed_flags": [
+      "name_variant"
+    ],
+    "subject": "Please process: Invoice # 92221"
+  },
+  {
+    "bill_id": "B006",
+    "bill_text": "Beaver Lumber Wholesale Ltd\nINV-72205\nDate: Oct 20 2026\nPO: PO-1190\nCurrency: CAD\n\n320 x Ceramic Cake Design Spotted Mug @ $1.49\n40 x Landmark Frame London Bridge @ $12.50\n\nSubtotal: $976.80\nTax (HST 13%): $126.98\nTotal: $1,103.78\n",
+    "body": "Hi AP team,\n\nPlease find our invoice INV-72205 attached for payment.\n\nThanks,\nLena Fischer",
+    "from": "Lena Fischer <billing@beaverlumberwholesale.example>",
+    "received_at": "2026-10-26T21:24:37.541116-04:00",
+    "seed_flags": [
+      "name_variant"
+    ],
+    "subject": "Please process: INV-72205"
+  },
+  {
+    "bill_id": "B007",
+    "bill_text": "Maple Packaging Ltd.\nInvoice # 48291\nDate: 14/10/2026\nPO: PO-6603\nCurrency: CAD\n\n2 x Crochet Rose Purse With Suede Back @ $2.95\n1 x Kids Rain Mac Blue @ $1.63\n1 x 3D Sheet Of Dog Stickers @ $711.44\n\nSubtotal: $718.97\nTax (HST 13%): $93.47\nTotal: $812.44\n",
+    "body": "Hi AP team,\n\nPlease find our invoice Invoice # 48291 attached for payment.\n\nThanks,\nDan Petrov",
+    "from": "Dan Petrov <billing@maplepackagingltd.example>",
+    "received_at": "2026-10-24T00:00:00-04:00",
+    "seed_flags": [
+      "exact_resubmission"
+    ],
+    "subject": "Invoice Invoice # 48291 attached"
+  },
+  {
+    "bill_id": "B008",
+    "bill_text": "Don Mills Chemical Supply\nInvoice # 55017\nDate: 16/10/2026\nPO: PO-4236\nCurrency: CAD\n\n2 x 2 Picture Book Eggs Easter Ducks @ $1.25\n2 x Childrens Cutlery Polkadot Pink @ $8.33\n1 x Jumbo Bag Strawberry @ $2,051.73\n\nSubtotal: $2,070.89\nTax (HST 13%): $269.22\nTotal: $2,340.11\n",
+    "body": "Hi,\n\nSending over invoice Invoice # 55017. Let me know if you need anything else.\n\nBest,\nLena Fischer",
+    "from": "Lena Fischer <billing@donmillschemicalsupply.example>",
+    "received_at": "2026-10-23T00:00:00-04:00",
+    "seed_flags": [
+      "exact_resubmission"
+    ],
+    "subject": "Invoice Invoice # 55017 from Don Mills Chemical Supply"
+  },
+  {
+    "bill_id": "B009",
+    "bill_text": "Finch Corridor IT Hardware\nNo. 90312\nDate: 2026-10-12\nPO: PO-8668\nCurrency: CAD\n\n1 x Fairy Tale Cottage Nightlight @ $4.21\n1 x Small Glass Sundae Dish Clear @ $0.42\n1 x Etched Glass Coaster @ $363.29\n\nSubtotal: $367.92\nTax (HST 13%): $47.83\nTotal: $415.75\n",
+    "body": "Hi AP team,\n\nPlease find our invoice No. 90312 attached for payment.\n\nThanks,\nPriya Nair",
+    "from": "Priya Nair <billing@finchcorridorithardware.example>",
+    "received_at": "2026-10-21T00:00:00-04:00",
+    "seed_flags": [
+      "exact_resubmission"
+    ],
+    "subject": "Invoice No. 90312 attached"
+  },
+  {
+    "bill_id": "B010",
+    "bill_text": "Markham Machine Works\nINV-77120\nDate: Oct 19 2026\nPO: PO-4493\nCurrency: CAD\n\n2 x French Blue Metal Door Sign 4 @ $2.46\n2 x Dotcom Postage @ $283.00\n1 x Paper Chain Kit 50'S Christmas @ $1,088.37\n\nSubtotal: $1,659.29\nTax (HST 13%): $215.71\nTotal: $1,875.00\n",
+    "body": "Hi AP team,\n\nPlease find our invoice INV-77120 attached for payment.\n\nThanks,\nPriya Nair",
+    "from": "Priya Nair <billing@markhammachineworks.example>",
+    "received_at": "2026-10-28T00:00:00-04:00",
+    "seed_flags": [
+      "exact_resubmission"
+    ],
+    "subject": "Invoice INV-77120 from Markham Machine Works"
+  },
+  {
+    "bill_id": "B011",
+    "bill_text": "Don Mills Chemical Supply\nInvoice # 77547\nDate: Oct 29 2026\nPO: PO-7208\nCurrency: CAD\n\n3 x Pack Of 72 Retrospot Cake Cases @ $0.55\n2 x Recipe Box Blue Sketchbook Design @ $2.55\n1 x Fuschia Voile Pointy Shoe Dec @ $1,090.54\n\nSubtotal: $1,097.29\nTax (HST 13%): $142.65\nTotal: $1,239.94\n",
+    "body": "Hello,\n\nAttached is invoice Invoice # 77547 dated 2026-10-29. Payment terms net 30.\n\nRegards,\nLena Fischer",
+    "from": "Lena Fischer <billing@donmillschemicalsupply.example>",
+    "received_at": "2026-10-29T04:00:00-04:00",
+    "seed_flags": [
+      "near_duplicate"
+    ],
+    "subject": "Invoice Invoice # 77547 from Don Mills Chemical Supply"
+  },
+  {
+    "bill_id": "B012",
+    "bill_text": "Beaver Lumber Wholesale\nINV-17649\nDate: 27/10/2026\nPO: PO-7145\nCurrency: CAD\n\n3 x Heart T-Light Holder @ $2.92\n1 x Keep Out Boys Door Hanger @ $3.36\n1 x Ribbon Reel Making Snowmen @ $1.65\n1 x Advent Calendar Gingham Sack @ $2,536.70\n\nSubtotal: $2,550.47\nTax (HST 13%): $331.56\nTotal: $2,882.03\n",
+    "body": "Hello,\n\nAttached is invoice INV-17649 dated 2026-10-27. Payment terms net 30.\n\nRegards,\nJames Whitfield",
+    "from": "James Whitfield <billing@beaverlumberwholesale.example>",
+    "received_at": "2026-10-27T02:00:00-04:00",
+    "seed_flags": [
+      "near_duplicate"
+    ],
+    "subject": "Invoice INV-17649 from Beaver Lumber Wholesale"
+  },
+  {
+    "bill_id": "B013",
+    "bill_text": "Harbour Office Supplies Inc\nInvoice # 69642\nDate: Oct 28 2026\nPO: PO-4621\nCurrency: CAD\n\n1 x Vintage Christmas Gift Sack @ $4.15\n1 x Black Christmas Tree 60Cm @ $0.65\n1 x Belle Jardiniere Cushion Cover @ $564.01\n\nSubtotal: $568.81\nTax (HST 13%): $73.95\nTotal: $642.76\n",
+    "body": "Hello,\n\nAttached is invoice Invoice # 69642 dated 2026-10-28. Payment terms net 30.\n\nRegards,\nMarc Dubois",
+    "from": "Marc Dubois <billing@harbourofficesuppliesinc.example>",
+    "received_at": "2026-10-28T03:00:00-04:00",
+    "seed_flags": [
+      "near_duplicate"
+    ],
+    "subject": "Invoice Invoice # 69642 from Harbour Office Supplies Inc"
+  },
+  {
+    "bill_id": "B014",
+    "bill_text": "Oakville Oils & Lubricants\nDate: 26/10/2026\nPO: PO-8336\nCurrency: CAD\n\n3 x Plasters In Tin Skulls @ $4.21\n2 x Dotcom Postage @ $118.38\n1 x Etched Glass Coaster @ $3,416.36\n\nSubtotal: $3,665.75\nTax (HST 13%): $476.55\nTotal: $4,142.30\n",
+    "body": "Hello,\n\nAttached is invoice (no invoice number) dated 2026-10-26. Payment terms net 30.\n\nRegards,\nPriya Nair",
+    "from": "Priya Nair <billing@oakvilleoilslubricants.example>",
+    "received_at": "2026-10-26T17:00:00-04:00",
+    "seed_flags": [
+      "near_duplicate"
+    ],
+    "subject": "Please process: (no invoice number)"
+  },
+  {
+    "bill_id": "B015",
+    "bill_text": "Markham Machine Works\nNo. 14999\nDate: 27/10/2026\nPO: PO-5520\nCurrency: CAD\n\n1 x Antique Silver T-Light Glass @ $1.25\n1 x Set 3 Paper Vintage Chick Paper Egg @ $2.95\n1 x Set Of 72 Retrospot Paper  Doilies @ $4,066.60\n\nSubtotal: $4,070.80\nTax (HST 13%): $529.20\nTotal: $4,600.00\n",
+    "body": "Hi,\n\nSending over invoice No. 14999. Let me know if you need anything else.\n\nBest,\nDan Petrov",
+    "from": "Dan Petrov <billing@markhammachineworks.example>",
+    "received_at": "2026-10-27T09:00:00-04:00",
+    "seed_flags": [
+      "split_cluster"
+    ],
+    "subject": "Markham Machine Works - invoice for October"
+  },
+  {
+    "bill_id": "B016",
+    "bill_text": "Markham Machine Works\nNo. 74037\nDate: Oct 28 2026\nPO: PO-5520\nCurrency: CAD\n\n1 x Dotcom Postage @ $182.37\n2 x Black Candelabra T-Light Holder @ $1.63\n3 x White Glass Chunky Charm Bracelet @ $9.34\n1 x Christmas Toilet Roll @ $3,989.89\n\nSubtotal: $4,203.54\nTax (HST 13%): $546.46\nTotal: $4,750.00\n",
+    "body": "Hi AP team,\n\nPlease find our invoice No. 74037 attached for payment.\n\nThanks,\nJames Whitfield",
+    "from": "James Whitfield <billing@markhammachineworks.example>",
+    "received_at": "2026-10-28T09:00:00-04:00",
+    "seed_flags": [
+      "split_cluster"
+    ],
+    "subject": "Please process: No. 74037"
+  },
+  {
+    "bill_id": "B017",
+    "bill_text": "Markham Machine Works\nInvoice # 27304\nDate: Oct 30 2026\nPO: PO-5520\nCurrency: CAD\n\n3 x Set Of 20 Kids Cookie Cutters @ $4.13\n1 x Hanging Heart With Bell @ $0.39\n1 x Egg Cup Natural Chicken @ $4,257.13\n\nSubtotal: $4,269.91\nTax (HST 13%): $555.09\nTotal: $4,825.00\n",
+    "body": "Hi,\n\nSending over invoice Invoice # 27304. Let me know if you need anything else.\n\nBest,\nAisha Khan",
+    "from": "Aisha Khan <billing@markhammachineworks.example>",
+    "received_at": "2026-10-30T09:00:00-04:00",
+    "seed_flags": [
+      "split_cluster"
+    ],
+    "subject": "Invoice Invoice # 27304 from Markham Machine Works"
+  },
+  {
+    "bill_id": "B018",
+    "bill_text": "Markham Machine Works\nNo. 30620\nDate: 01/11/2026\nPO: PO-5520\nCurrency: CAD\n\n2 x Pink  Polkadot Plate @ $3.29\n1 x Glass Jar Marmalade @ $2.55\n2 x Red 3 Piece Retrospot Cutlery Set @ $3.39\n1 x Felt Egg Cosy Ladybird @ $4,320.37\n\nSubtotal: $4,336.28\nTax (HST 13%): $563.72\nTotal: $4,900.00\n",
+    "body": "Hi AP team,\n\nPlease find our invoice No. 30620 attached for payment.\n\nThanks,\nPriya Nair",
+    "from": "Priya Nair <billing@markhammachineworks.example>",
+    "received_at": "2026-11-01T09:00:00-04:00",
+    "seed_flags": [
+      "split_cluster"
+    ],
+    "subject": "Markham Machine Works - invoice for October"
+  },
+  {
+    "bill_id": "B019",
+    "bill_text": "Maple Packaging Ltd.\nNo. 81052\nDate: 2026-10-15\nCurrency: CAD\n\n674 x Jumbo Bag Apples @ $1.79\n90 x French Blue Metal Door Sign 5 @ $1.25\n2 x Doormat Peace On Earth Blue @ $16.63\n7 x Antique Glass Dressing Table Pot @ $2.95\n11 x Red Polkadot Coffee  Mug @ $1.63\n971 x Angel Decoration 3 Buttons @ $0.36\n\nSubtotal: $1,740.36\nTax (HST 13%): $226.25\nTotal: $1,966.61\n",
+    "body": "Hello,\n\nAttached is invoice No. 81052 dated 2026-10-15. Payment terms net 30.\n\nRegards,\nPriya Nair",
+    "from": "Priya Nair <billing@maplepackagingltd.example>",
+    "received_at": "2026-10-26T22:51:22.820370-04:00",
+    "seed_flags": [
+      "missing_po"
+    ],
+    "subject": "Please process: No. 81052"
+  },
+  {
+    "bill_id": "B020",
+    "bill_text": "Don Mills Chemical Supply\nNo. 29057\nDate: 23/10/2026\nCurrency: CAD\n\n17 x Scandinavian Paisley Picnic Bag @ $2.95\n25 x Blue Polkadot Coffee Mug @ $0.39\n8 x Set Of 4 Napkin Charms Hearts @ $0.79\n8 x Wall Art Only One Person @ $10.79\n8 x Childrens Cutlery Polkadot Blue @ $4.15\n4 x Robot Birthday Card @ $0.85\n259 x Charlotte Bag Suki Design @ $2.46\n150 x Heart Of Wicker Small @ $1.45\n25 x Hot Water Bottle Tea And Sympathy @ $8.29\n54 x Girls Alphabet Iron On Patches @ $0.42\n8 x Freshwater Pearl Bracelet Gold @ $2.55\n17 x Silver Christmas Tree Bauble Stand @ $14.95\n17 x Childrens Toy Cooking Utensil Set @ $4.13\n46 x English Rose Notebook A7 Size @ $0.83\n25 x White Spot Red Ceramic Drawer Knob @ $1.45\n175 x Party Cone Christmas Decoration @ $0.85\n17 x Red Retrospot Purse @ $2.95\n\nSubtotal: $1,891.80\nTax (HST 13%): $245.93\nTotal: $2,137.73\n",
+    "body": "Hi,\n\nSending over invoice No. 29057. Let me know if you need anything else.\n\nBest,\nAisha Khan",
+    "from": "Aisha Khan <billing@donmillschemicalsupply.example>",
+    "received_at": "2026-10-30T06:56:05.868842-04:00",
+    "seed_flags": [
+      "missing_po"
+    ],
+    "subject": "Invoice No. 29057 from Don Mills Chemical Supply"
+  },
+  {
+    "bill_id": "B021",
+    "bill_text": "Finch Corridor IT Hardware\nNo. 97440\nDate: 12/10/2026\nCurrency: CAD\n\n33 x French Wc Sign Blue Metal @ $1.25\n3 x Christmas Tree Star Decoration @ $0.43\n133 x Hanging Photo Clip Rope Ladder @ $1.45\n25 x Antique Silver T-Light Glass @ $1.25\n3 x Drawer Knob Vintage Glass Star @ $2.08\n8 x Large Jewellery Stand @ $12.50\n3 x Best Dad Candle Letters @ $0.85\n4 x Family Photo Frame Cornice @ $19.96\n8 x Travel Card Wallet Keep Calm @ $0.42\n8 x French Enamel Water Basin @ $3.75\n\nSubtotal: $488.63\nTax (HST 13%): $63.52\nTotal: $552.15\n",
+    "body": "Hi,\n\nSending over invoice No. 97440. Let me know if you need anything else.\n\nBest,\nJames Whitfield",
+    "from": "James Whitfield <billing@finchcorridorithardware.example>",
+    "received_at": "2026-10-27T18:30:21.657758-04:00",
+    "seed_flags": [
+      "missing_po"
+    ],
+    "subject": "Finch Corridor IT Hardware - invoice for October"
+  },
+  {
+    "bill_id": "B022",
+    "bill_text": "Dufferin Safety Equipment\nInvoice # 20083\nDate: 2026-10-24\nPO: PO-9481\nCurrency: CAD\n\n1 x Mouse Toy With Pink T-Shirt @ $3.75\n1 x Wooden Heart Christmas Scandinavian @ $1.66\n3 x 200 Red + White Bendy Straws @ $1.25\n1 x Office Mug Warmer Black+Silver @ $1,049.66\n\nSubtotal: $1,058.82\nTax (HST 13%): $137.65\nTotal: $1,204.85\n",
+    "body": "Hello,\n\nAttached is invoice Invoice # 20083 dated 2026-10-24. Payment terms net 30.\n\nRegards,\nTom Becker",
+    "from": "Tom Becker <billing@dufferinsafetyequipment.example>",
+    "received_at": "2026-10-27T05:06:12.156843-04:00",
+    "seed_flags": [
+      "unfooted_total"
+    ],
+    "subject": "Invoice Invoice # 20083 from Dufferin Safety Equipment"
+  },
+  {
+    "bill_id": "B023",
+    "bill_text": "Dufferin Safety Equipment\nInvoice # 42927\nDate: 2026-10-27\nCurrency: CAD\n\n3 x Lipstick Pen Fuschia @ $0.83\n2 x Party Bunting @ $10.79\n1 x 6 Ribbons Rustic Charm @ $1,452.03\n\nSubtotal: $1,476.10\nTax (HST 13%): $191.89\nTotal: $1,679.67\n",
+    "body": "Hi,\n\nSending over invoice Invoice # 42927. Let me know if you need anything else.\n\nBest,\nDan Petrov",
+    "from": "Dan Petrov <billing@dufferinsafetyequipment.example>",
+    "received_at": "2026-10-30T14:45:42.417241-04:00",
+    "seed_flags": [
+      "unfooted_total"
+    ],
+    "subject": "Please process: Invoice # 42927"
+  },
+  {
+    "bill_id": "B024",
+    "bill_text": "King West Coffee Roasters\nInvoice # 21216\nDate: 2026-11-09\nCurrency: CAD\n\n3 x Glass Chalice Blue Small @ $0.39\n102 x Charlotte Bag Suki Design @ $2.46\n2 x Please One Person Metal Sign @ $4.21\n1 x Set 8 Candles Vintage Doily @ $1.95\n2 x Vintage Christmas Gift Sack @ $4.15\n1 x Paper Lantern 9 Point Holly Star S @ $8.29\n1 x 12 Pink Hen+Chicks In Basket @ $2.55\n1 x Dotcom Postage @ $171.42\n2 x Childrens Apron Apples Design @ $4.96\n1 x 2 Picture Book Eggs Easter Bunny @ $2.46\n90 x English Rose Scented Hanging Flower @ $0.75\n13 x Black Mini Tape Measure @ $0.83\n11 x Pink Floral Feltcraft Shoulder Bag @ $3.75\n86 x Traditional Knitting Nancy @ $1.45\n31 x Colouring Pencils Brown Tube @ $0.85\n22 x Childrens Apron Spaceboy Design @ $1.65\n5 x Christmas Tree Decoration With Bell @ $0.42\n1 x Retrospot Giant Tube Matches @ $2.55\n43 x Toadstool Money Box @ $2.55\n\nSubtotal: $886.59\nTax (HST 13%): $115.26\nTotal: $1,001.85\n",
+    "body": "Hi AP team,\n\nPlease find our invoice Invoice # 21216 attached for payment.\n\nThanks,\nPriya Nair",
+    "from": "Priya Nair <billing@kingwestcoffeeroasters.example>",
+    "received_at": "2026-11-01T10:30:00-04:00",
+    "seed_flags": [
+      "future_dated"
+    ],
+    "subject": "Invoice Invoice # 21216 attached"
+  },
+  {
+    "bill_id": "B025",
+    "bill_text": "Danforth Deli Provisions\nINV-11534\nDate: Oct 11 2026\nCurrency: CAD\n\n2 x Single Heart Zinc T-Light Holder @ $2.08\n1 x Milk Pan Blue Polkadot @ $3.75\n2 x Star Wooden Christmas Decoration @ $1.66\n1 x Heart Of Wicker Small @ $1,758.68\n\nSubtotal: $1,769.91\nTax (HST 13%): $230.09\nTotal: $2,000.00\n",
+    "body": "Hello,\n\nAttached is invoice INV-11534 dated 2026-10-11. Payment terms net 30.\n\nRegards,\nPriya Nair",
+    "from": "Priya Nair <billing@danforthdeliprovisions.example>",
+    "received_at": "2026-10-31T03:03:48.086331-04:00",
+    "seed_flags": [
+      "round_number"
+    ],
+    "subject": "Invoice INV-11534 from Danforth Deli Provisions"
+  },
+  {
+    "bill_id": "B026",
+    "bill_text": "Etobicoke Electrical Distributors\nNo. 40779\nDate: 28/10/2026\nCurrency: CAD\n\n1 x Dotcom Postage @ $197.83\n3 x Set Of Picture Frame  Stickers @ $5.79\n1 x Party Time Pencil Erasers @ $0.21\n1 x Jumbo Bag Woodland Animals @ $2,439.46\n\nSubtotal: $2,654.87\nTax (HST 13%): $345.13\nTotal: $3,000.00\n",
+    "body": "Hi AP team,\n\nPlease find our invoice No. 40779 attached for payment.\n\nThanks,\nPriya Nair",
+    "from": "Priya Nair <billing@etobicokeelectricaldistributors.example>",
+    "received_at": "2026-10-31T01:10:59.479074-04:00",
+    "seed_flags": [
+      "round_number"
+    ],
+    "subject": "Please process: No. 40779"
+  },
+  {
+    "bill_id": "B027",
+    "bill_text": "Great Lakes Freight\nNo. 43725\nDate: 2026-10-18\nPO: PO-2357\nCurrency: USD\n\n774 x Silver Stars Table Decoration @ US$0.83\n602 x Strawberry Lunch Box With Cutlery @ US$2.46\n\nSubtotal: US$2,123.34\nTax (VAT 0%): US$0.00\nTotal: US$2,123.34\n",
+    "body": "Hi,\n\nSending over invoice No. 43725. Let me know if you need anything else.\n\nBest,\nDan Petrov",
+    "from": "Dan Petrov <billing@greatlakesfreight.example>",
+    "received_at": "2026-11-02T04:01:20.605484-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice No. 43725 from Great Lakes Freight"
+  },
+  {
+    "bill_id": "B028",
+    "bill_text": "Pacific Rim Components\nInvoice # 32978\nDate: 21/10/2026\nPO: PO-7971\nCurrency: USD\n\n10 x Letter \"W\" Bling Key Ring @ US$0.83\n131 x S/4 Pink Flower Candles In Bowl @ US$1.65\n645 x Fluted Antique Candle Holder @ US$0.72\n10 x Hanging Fairy Cake Decoration @ US$4.21\n50 x Pink Strawberry Handbag @ US$2.46\n483 x Jigsaw Tree With Watering Can @ US$0.29\n10 x Pack Of 12 Skull Tissues @ US$0.81\n10 x White Soap Rack With 2 Bottles @ US$11.87\n30 x Colour Glass. Star T-Light Holder @ US$6.63\n40 x Rabbit Night Light @ US$4.96\n20 x Party Invites Dinosaurs @ US$1.63\n10 x Set Of 4 Carousel Placemats @ US$3.75\n50 x Tradtional Alphabet Stamp Set @ US$4.95\n\nSubtotal: US$1,835.72\nTax (VAT 0%): US$0.00\nTotal: US$1,835.72\n",
+    "body": "Hello,\n\nAttached is invoice Invoice # 32978 dated 2026-10-21. Payment terms net 30.\n\nRegards,\nJames Whitfield",
+    "from": "James Whitfield <billing@pacificrimcomponents.example>",
+    "received_at": "2026-11-01T20:26:53.133217-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice Invoice # 32978 attached"
+  },
+  {
+    "bill_id": "B029",
+    "bill_text": "Rotterdam Maritime Parts\nNo. 59383\nDate: 11/10/2026\nCurrency: EUR\n\n35 x Clear Drawer Knob Acrylic Edwardian @ \u20ac2.46\n4 x Small Hanging Ivory/Red Wood Bird @ \u20ac0.42\n210 x Gin + Tonic Diet Metal Sign @ \u20ac1.40\n4 x Set 10 Cards Swirly Xmas Tree 17104 @ \u20ac2.91\n35 x Pink Doughnut Trinket Pot @ \u20ac1.65\n7 x Butterfly Hair Band @ \u20ac2.55\n280 x Red Hanging Heart T-Light Holder @ \u20ac3.24\n9 x Gumball Coat Rack @ \u20ac2.55\n13 x Wall Art Cat And Bird @ \u20ac2.89\n\nSubtotal: \u20ac1,436.74\nTax (VAT 0%): \u20ac0.00\nTotal: \u20ac1,436.74\n",
+    "body": "Hi AP team,\n\nPlease find our invoice No. 59383 attached for payment.\n\nThanks,\nDan Petrov",
+    "from": "Dan Petrov <billing@rotterdammaritimeparts.example>",
+    "received_at": "2026-10-26T09:25:00.799657-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Rotterdam Maritime Parts - invoice for October"
+  },
+  {
+    "bill_id": "B030",
+    "bill_text": "Thames Engineering Supplies\nNo. 30969\nDate: 2026-10-12\nCurrency: GBP\n\n11 x Childs Garden Trowel Blue @ \u00a30.85\n459 x Medium Ceramic Top Storage Jar @ \u00a31.04\n11 x Condiment Tray 4 Bowls And 4 Spoons @ \u00a38.49\n92 x Retrospot Heart Hot Water Bottle @ \u00a34.25\n2 x Pack 20 English Rose Paper Napkins @ \u00a30.85\n4 x Pink Bitty Light Chain @ \u00a32.46\n2 x Set/4 Spring Flower Decoration @ \u00a30.75\n10 x Easter Tin Chicks In Garden @ \u00a31.65\n15 x White Metal Lantern @ \u00a33.75\n13 x Photo Cube @ \u00a33.29\n2 x Jigsaw Tree With Birdhouse @ \u00a33.29\n17 x Wood Stamp Set Best Wishes @ \u00a30.83\n13 x Chocolate Hot Water Bottle @ \u00a312.46\n\nSubtotal: \u00a31,282.33\nTax (VAT 0%): \u00a30.00\nTotal: \u00a31,282.33\n",
+    "body": "Hi AP team,\n\nPlease find our invoice No. 30969 attached for payment.\n\nThanks,\nDan Petrov",
+    "from": "Dan Petrov <billing@thamesengineeringsupplies.example>",
+    "received_at": "2026-10-29T04:13:58.053063-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice No. 30969 attached"
+  },
+  {
+    "bill_id": "B031",
+    "bill_text": "Northline Industrial Tools\nInvoice # 76455\nDate: Oct 24 2026\nPO: PO-8118\nCurrency: CAD\n\n3 x Pink Baby Bunting @ $5.79\n10 x Parisienne Curio Cabinet @ $6.65\n8 x Set Of 9 Heart Shaped Balloons @ $2.46\n2 x Pink Rosebud & Pearl Necklace @ $7.50\n1 x Dotcom Postage @ $634.39\n1 x 12 Pencils Tall Tube Woodland @ $1.66\n114 x Party Invites Woodland @ $0.72\n19 x Giant 50'S Christmas Cracker @ $1.25\n10 x Red Retrospot Oven Glove Double @ $6.63\n2 x Vintage Keepsake Box Travelogue @ $6.35\n\nSubtotal: $939.43\nTax (HST 13%): $122.13\nTotal: $1,061.56\n",
+    "body": "Hi AP team,\n\nPlease find our invoice Invoice # 76455 attached for payment.\n\nThanks,\nLena Fischer",
+    "from": "Lena Fischer <billing@northlineindustrialtools.example>",
+    "received_at": "2026-10-28T07:34:51.624803-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice Invoice # 76455 from Northline Industrial Tools"
+  },
+  {
+    "bill_id": "B032",
+    "bill_text": "Scarborough Steel Supply\nNo. 10279\nDate: Oct 17 2026\nPO: PO-8038\nCurrency: CAD\n\n1778 x Baking Set 9 Piece Retrospot @ $4.25\n19 x Wooden School Colouring Set @ $3.36\n185 x Red Retrospot Tape @ $0.65\n593 x Set Of 12 Fairy Cake Baking Cases @ $0.83\n1482 x Set Of 12 Fairy Cake Baking Cases @ $0.83\n93 x Moroccan Beaten Metal Dish @ $9.95\n37 x Set Of 16 Vintage Black Cutlery @ $12.75\n74 x Magic Drawing Slate Bunnies @ $0.42\n\nSubtotal: $10,891.02\nTax (HST 13%): $1,415.83\nTotal: $12,306.85\n",
+    "body": "Hi,\n\nSending over invoice No. 10279. Let me know if you need anything else.\n\nBest,\nDan Petrov",
+    "from": "Dan Petrov <billing@scarboroughsteelsupply.example>",
+    "received_at": "2026-10-30T01:22:25.736816-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice No. 10279 from Scarborough Steel Supply"
+  },
+  {
+    "bill_id": "B033",
+    "bill_text": "Junction Textile Mills\nINV-81360\nDate: 2026-10-19\nPO: PO-7262\nCurrency: CAD\n\n20 x Black Stitched Wall Clock @ $3.75\n50 x White Wicker Star @ $2.10\n10 x Turq Ice Cream Bum Bag @ $4.96\n20 x Set/20 Red Retrospot Paper Napkins @ $2.46\n40 x Set Of 20 Vintage Christmas Napkins @ $1.66\n241 x Overnight Bag Vintage Rose Paisley @ $4.95\n121 x Set Of 4 Napkin Charms Stars @ $2.55\n50 x Christmas Musical Zinc Tree @ $0.83\n30 x Assorted Bottle Top  Magnets @ $0.42\n20 x Yellow Shark Helicopter @ $7.95\n503 x Skulls And Crossbones Wrap @ $0.42\n80 x Set Of 60 Pantry Design Cake Cases @ $0.55\n10 x Porcelain Butterfly Oil Burner @ $5.91\n60 x Doormat Welcome To Our Home @ $8.25\n\nSubtotal: $2,869.16\nTax (HST 13%): $372.99\nTotal: $3,242.15\n",
+    "body": "Hello,\n\nAttached is invoice INV-81360 dated 2026-10-19. Payment terms net 30.\n\nRegards,\nLena Fischer",
+    "from": "Lena Fischer <billing@junctiontextilemills.example>",
+    "received_at": "2026-11-01T08:51:23.961436-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice INV-81360 from Junction Textile Mills"
+  },
+  {
+    "bill_id": "B034",
+    "bill_text": "Yorkdale Uniforms Ltd\nNo. 95363\nDate: Oct 23 2026\nCurrency: CAD\n\n15 x Set Of 3 Regency Cake Tins @ $4.15\n7 x Metal Sign His Dinner Is Served @ $0.79\n2 x Card Billboard Font @ $0.83\n5 x Jumbo Bag Charlie And Lola Toys @ $2.46\n2 x Tray, Breakfast In Bed @ $12.75\n22 x Set/10 Ivory Polkadot Party Candles @ $1.25\n2 x Picnic Boxes Set Of 3 Retrospot @ $4.95\n4 x Lolita  Design  Cotton Tote Bag @ $2.25\n6 x Antique Silver Tea Glass Engraved @ $1.25\n1 x Christmas Tree Star Decoration @ $0.42\n4 x Christmas Pudding Trinket Pot @ $1.45\n2 x Pack Of 20 Napkins Pantry Design @ $1.63\n37 x 12 Pencils Small Tube Red Retrospot @ $0.65\n1 x Cake Stand Victorian Filigree Med @ $5.79\n1 x Gingerbread Man Cookie Cutter @ $2.46\n1 x Angel Decoration Painted Zinc @ $0.63\n4 x Hand Warmer Scotty Dog Design @ $4.21\n2 x Frying Pan Union Flag @ $4.25\n2 x Set 36 Colour Pencils Spaceboy @ $1.25\n\nSubtotal: $231.39\nTax (HST 13%): $30.08\nTotal: $261.47\n",
+    "body": "Hi AP team,\n\nPlease find our invoice No. 95363 attached for payment.\n\nThanks,\nSofia Rossi",
+    "from": "Sofia Rossi <billing@yorkdaleuniformsltd.example>",
+    "received_at": "2026-10-31T05:00:47.010899-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Please process: No. 95363"
+  },
+  {
+    "bill_id": "B035",
+    "bill_text": "Rotterdam Maritime Parts\nNo. 47064\nDate: 26/10/2026\nPO: PO-7621\nCurrency: EUR\n\n25 x Mini Wooden Happy Birthday Garland @ \u20ac1.69\n10 x Hot Baths Soap Holder @ \u20ac3.29\n39 x Pink Felt Easter Egg Basket @ \u20ac1.65\n10 x Tea Time Tea Set In Gift Box @ \u20ac14.43\n\nSubtotal: \u20ac283.80\nTax (VAT 0%): \u20ac0.00\nTotal: \u20ac283.80\n",
+    "body": "Hi,\n\nSending over invoice No. 47064. Let me know if you need anything else.\n\nBest,\nSofia Rossi",
+    "from": "Sofia Rossi <billing@rotterdammaritimeparts.example>",
+    "received_at": "2026-10-30T22:44:37.476457-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice No. 47064 from Rotterdam Maritime Parts"
+  },
+  {
+    "bill_id": "B036",
+    "bill_text": "Great Lakes Freight\nNo. 46235\nDate: 2026-10-18\nPO: PO-4874\nCurrency: USD\n\n15 x Pompom Curtain @ US$6.95\n12 x Red Retrospot Oven Glove @ US$3.36\n\nSubtotal: US$144.57\nTax (VAT 0%): US$0.00\nTotal: US$144.57\n",
+    "body": "Hi,\n\nSending over invoice No. 46235. Let me know if you need anything else.\n\nBest,\nLena Fischer",
+    "from": "Lena Fischer <billing@greatlakesfreight.example>",
+    "received_at": "2026-10-27T05:23:40.699615-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice No. 46235 from Great Lakes Freight"
+  },
+  {
+    "bill_id": "B037",
+    "bill_text": "St. Lawrence Produce Wholesale\nNo. 44453\nDate: Oct 26 2026\nPO: PO-8629\nCurrency: CAD\n\n28 x Ice Cream Pen Lip Gloss @ $1.25\n2 x Red Retrospot Oven Glove @ $3.29\n9 x Set Of 12 Mini Loaf Baking Cases @ $0.72\n1 x Peach Knitted Hen @ $3.36\n21 x Vintage Billboard Drink Me Mug @ $1.06\n3 x Wicker Star @ $3.29\n2 x Hanging Hen On Nest Decoration @ $1.65\n4 x Red Retrospot Cake Stand @ $20.79\n1 x Stripey Chocolate Nesting Boxes @ $5.79\n2 x 12 Pencils Small Tube Red Retrospot @ $0.65\n2 x Parlour Ceramic Wall Hook @ $8.29\n2 x Zinc Heart Lattice T-Light Holder @ $1.25\n192 x Wooden Picture Frame White Finish @ $1.92\n2 x Wooden Union Jack Bunting @ $8.29\n2 x Box Of Vintage Jigsaw Blocks @ $4.95\n1 x Set Of 4 Polkadot Placemats @ $3.36\n1 x Set Of 12  Vintage Postcard Set @ $0.65\n1 x Mini Jigsaw Dolly Girl @ $0.85\n9 x Floral Folk Stationery Set @ $1.25\n5 x Blue Calculator Ruler @ $2.46\n2 x Suki  Shoulder Bag @ $3.36\n\nSubtotal: $626.43\nTax (HST 13%): $81.44\nTotal: $707.87\n",
+    "body": "Hi AP team,\n\nPlease find our invoice No. 44453 attached for payment.\n\nThanks,\nPriya Nair",
+    "from": "Priya Nair <billing@stlawrenceproducewholesale.example>",
+    "received_at": "2026-10-31T21:01:15.546431-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Please process: No. 44453"
+  },
+  {
+    "bill_id": "B038",
+    "bill_text": "Hamilton Heavy Haulage\nInvoice # 59955\nDate: 2026-10-23\nPO: PO-9232\nCurrency: CAD\n\n14 x Doormat 3 Smiley Cats @ $15.79\n28 x Blue Paisley Tissue Box @ $2.46\n597 x Party Cone Christmas Decoration @ $0.85\n1279 x Ivory Diner Wall Clock @ $7.65\n\nSubtotal: $10,581.74\nTax (HST 13%): $1,375.63\nTotal: $11,957.37\n",
+    "body": "Hi,\n\nSending over invoice Invoice # 59955. Let me know if you need anything else.\n\nBest,\nJames Whitfield",
+    "from": "James Whitfield <billing@hamiltonheavyhaulage.example>",
+    "received_at": "2026-10-26T22:05:54.161364-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Hamilton Heavy Haulage - invoice for October"
+  },
+  {
+    "bill_id": "B039",
+    "bill_text": "Oakville Oils & Lubricants\nINV-64117\nDate: 2026-10-24\nPO: PO-3490\nCurrency: CAD\n\n205 x Vintage Snap Cards @ $1.63\n41 x Silver Glitter Flower Votive Holder @ $0.29\n493 x Jigsaw Tree With Birdhouse @ $0.59\n247 x Red Retrospot Childrens Umbrella @ $3.25\n41 x Cream Heart Card Holder @ $8.47\n493 x Christmas Tree Hanging Gold @ $0.83\n\nSubtotal: $2,196.12\nTax (HST 13%): $285.50\nTotal: $2,481.62\n",
+    "body": "Hi,\n\nSending over invoice INV-64117. Let me know if you need anything else.\n\nBest,\nAisha Khan",
+    "from": "Aisha Khan <billing@oakvilleoilslubricants.example>",
+    "received_at": "2026-10-31T14:04:15.863511-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Oakville Oils & Lubricants - invoice for October"
+  },
+  {
+    "bill_id": "B040",
+    "bill_text": "High Park Landscaping Supply\nNo. 20706\nDate: Oct 22 2026\nCurrency: CAD\n\n401 x French Garden Sign Blue Metal @ $1.25\n134 x Skulls Storage Box Small @ $2.10\n\nSubtotal: $782.65\nTax (HST 13%): $101.74\nTotal: $884.39\n",
+    "body": "Hi,\n\nSending over invoice No. 20706. Let me know if you need anything else.\n\nBest,\nJames Whitfield",
+    "from": "James Whitfield <billing@highparklandscapingsupply.example>",
+    "received_at": "2026-10-31T04:53:29.599096-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice No. 20706 attached"
+  },
+  {
+    "bill_id": "B041",
+    "bill_text": "Rotterdam Maritime Parts\nINV-76500\nDate: Oct 24 2026\nCurrency: EUR\n\n7 x Hand Over The Chocolate   Sign @ \u20ac4.13\n3 x Cinderella Chandelier @ \u20ac49.95\n6 x Set Of 20 Vintage Christmas Napkins @ \u20ac1.66\n23 x Jumbo Bag Woodland Animals @ \u20ac1.95\n12 x Pack Of 12 Dolly Girl Tissues @ \u20ac0.83\n2 x Set Of 4 Rose Botanical Candles @ \u20ac2.51\n112 x Animal Stickers @ \u20ac0.21\n5 x Jingle Bell Heart Antique Gold @ \u20ac2.08\n23 x Jumbo  Bag Baroque Black White @ \u20ac1.79\n3 x Charlotte Bag Suki Design @ \u20ac1.63\n10 x Set/20 Red Retrospot Paper Napkins @ \u20ac1.63\n1 x Folkart Clip On Stars @ \u20ac1.66\n56 x Ice Cream Pen Lip Gloss @ \u20ac1.25\n335 x Vanilla Scent Candle Jewelled Box @ \u20ac1.25\n3 x Drawer Knob Vintage Glass Star @ \u20ac2.08\n19 x Lunch Bag Red Retrospot @ \u20ac4.96\n251 x Food Container Set 3 Love Heart @ \u20ac1.65\n1 x Stool Home Sweet Home @ \u20ac24.96\n13 x Magic Drawing Slate Purdey @ \u20ac0.42\n28 x Large Heart Measuring Spoons @ \u20ac1.65\n10 x Home Building Block Word @ \u20ac5.45\n2 x Magnets Pack Of 4 Swallows @ \u20ac0.39\n14 x Ceramic Heart Fairy Cake Money Bank @ \u20ac1.45\n7 x 3 Raffia Ribbons 50'S Christmas @ \u20ac0.79\n3 x Hearts Wrapping Tape @ \u20ac0.65\n47 x French Blue Metal Door Sign 5 @ \u20ac1.25\n8 x Set Of 20 Kids Cookie Cutters @ \u20ac4.21\n167 x Vanilla Incense In Tin @ \u20ac0.38\n\nSubtotal: \u20ac1,665.44\nTax (VAT 0%): \u20ac0.00\nTotal: \u20ac1,665.44\n",
+    "body": "Hi,\n\nSending over invoice INV-76500. Let me know if you need anything else.\n\nBest,\nPriya Nair",
+    "from": "Priya Nair <billing@rotterdammaritimeparts.example>",
+    "received_at": "2026-10-31T07:50:20.990852-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Rotterdam Maritime Parts - invoice for October"
+  },
+  {
+    "bill_id": "B042",
+    "bill_text": "Yorkdale Uniforms Ltd\nINV-16802\nDate: 2026-10-16\nPO: PO-5501\nCurrency: CAD\n\n8 x Hand Warmer Bird Design @ $2.10\n33 x French Style Storage Jar Jam @ $0.29\n14 x Set Of 3 Wooden Tree Decorations @ $1.25\n22 x Wicker Star @ $4.21\n6 x Pantry Hook Tea Strainer @ $2.08\n277 x Red Retrospot Picnic Bag @ $2.55\n17 x Antique All Glass Candlestick @ $2.46\n\nSubtotal: $897.14\nTax (HST 13%): $116.63\nTotal: $1,013.77\n",
+    "body": "Hello,\n\nAttached is invoice INV-16802 dated 2026-10-16. Payment terms net 30.\n\nRegards,\nTom Becker",
+    "from": "Tom Becker <billing@yorkdaleuniformsltd.example>",
+    "received_at": "2026-10-26T15:02:34.202220-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Yorkdale Uniforms Ltd - invoice for October"
+  },
+  {
+    "bill_id": "B043",
+    "bill_text": "Hamilton Heavy Haulage\nNo. 99392\nDate: Oct 21 2026\nPO: PO-9383\nCurrency: CAD\n\n281 x Woodland Design  Cotton Tote Bag @ $2.25\n35 x Set/3 Vanilla Scented Candle In Box @ $4.25\n211 x Paper Chain Kit Empire @ $2.95\n1126 x Blue Stones On Wire For Candle @ $0.08\n59 x Set Of 72 Green Paper Doilies @ $1.45\n715 x Biscuit Tin 50'S Christmas @ $6.95\n12 x Garland With Hearts And Bells @ $10.17\n23 x Heart Shape Wireless Doorbell @ $2.10\n106 x 3 Stripey Mice Feltcraft @ $1.95\n117 x Pink Doughnut Trinket Pot @ $1.65\n35 x Ribbon Reel Christmas Present @ $1.65\n12 x Asstd Multicolour Circles Mug @ $5.79\n70 x Angel Decoration Painted Zinc @ $0.63\n12 x Turquoise Crystal+Glass Bracelet @ $4.98\n\nSubtotal: $7,349.51\nTax (HST 13%): $955.44\nTotal: $8,304.95\n",
+    "body": "Hi,\n\nSending over invoice No. 99392. Let me know if you need anything else.\n\nBest,\nAisha Khan",
+    "from": "Aisha Khan <billing@hamiltonheavyhaulage.example>",
+    "received_at": "2026-10-28T20:13:18.207042-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Please process: No. 99392"
+  },
+  {
+    "bill_id": "B044",
+    "bill_text": "Hamilton Heavy Haulage\nNo. 60914\nDate: 2026-10-18\nPO: PO-4474\nCurrency: CAD\n\n23 x 4 Pear Botanical Dinner Candles @ $1.25\n2 x Heart Shape Wireless Doorbell @ $2.10\n3 x Classic Glass Sweet Jar @ $4.15\n1 x Hyacinth Bulb T-Light Candles @ $0.42\n23 x Vinyl Record Frame Silver @ $3.39\n1 x 3 Hook Hanger Magic Garden @ $4.13\n1 x White Heart Confetti In Tube @ $3.29\n2 x Pack Of 6 Skull Paper Cups @ $0.65\n3 x Regency Tea Plate Roses @ $3.29\n2 x Eau De Nile Jewelled T-Light Holder @ $0.85\n1 x Set Of 4 Napkin Charms Hearts @ $2.55\n1 x Toast Its - Happy Birthday @ $1.25\n1 x Laurel Heart Antique Silver @ $2.50\n18 x Plasters In Tin Woodland Animals @ $1.65\n1 x Dotcom Postage @ $901.58\n1 x Sweet Pudding Sticker Sheet @ $1.66\n1 x White Hanging Heart T-Light Holder @ $5.79\n1 x Snack Tray Red Gingham @ $1.95\n1 x Jazz Hearts Address Book @ $0.19\n\nSubtotal: $1,091.25\nTax (HST 13%): $141.86\nTotal: $1,233.11\n",
+    "body": "Hello,\n\nAttached is invoice No. 60914 dated 2026-10-18. Payment terms net 30.\n\nRegards,\nLena Fischer",
+    "from": "Lena Fischer <billing@hamiltonheavyhaulage.example>",
+    "received_at": "2026-11-02T01:32:49.093092-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Hamilton Heavy Haulage - invoice for October"
+  },
+  {
+    "bill_id": "B045",
+    "bill_text": "Bayview Stationery Co\nNo. 67138\nDate: 21/10/2026\nCurrency: CAD\n\n3 x Clothes Pegs Retrospot Pack 24 @ $3.29\n4 x Petit Tray Chic @ $3.29\n3 x Triple Hook Antique Ivory Rose @ $3.29\n11 x Psychedelic Wall Thermometer @ $0.79\n83 x Doormat English Rose @ $7.08\n6 x Sleeping Cat Erasers @ $0.42\n11 x Petit Tray Chic @ $1.65\n14 x Wood Stamp Set Flowers @ $0.83\n1 x Charlie+Lola Pink Hot Water Bottle @ $3.29\n12 x Soldiers Egg Cup @ $1.25\n23 x Painted Metal Star With Holly Bells @ $0.83\n1 x New Baroque Black Photo Album @ $2.95\n54 x Strawberry Charlotte Bag @ $2.46\n3 x Mini Painted Garden Decoration @ $1.63\n1 x Bling Key Ring Stand @ $1.00\n4 x Pink Cream Felt Craft Trinket Box @ $1.25\n11 x White Metal Lantern @ $3.75\n22 x Set Of 72 Pink Heart Paper Doilies @ $1.45\n\nSubtotal: $918.73\nTax (HST 13%): $119.43\nTotal: $1,038.16\n",
+    "body": "Hello,\n\nAttached is invoice No. 67138 dated 2026-10-21. Payment terms net 30.\n\nRegards,\nJames Whitfield",
+    "from": "James Whitfield <billing@bayviewstationeryco.example>",
+    "received_at": "2026-11-01T20:24:02.303515-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Please process: No. 67138"
+  },
+  {
+    "bill_id": "B046",
+    "bill_text": "Don Mills Chemical Supply\nNo. 81467\nDate: 08/10/2026\nPO: PO-4917\nCurrency: CAD\n\n658 x Gold Wine Goblet @ $0.79\n69 x Hand Warmer Babushka Design @ $4.96\n55 x Lunch Bag Red Retrospot @ $1.65\n\nSubtotal: $952.81\nTax (HST 13%): $123.87\nTotal: $1,076.68\n",
+    "body": "Hi AP team,\n\nPlease find our invoice No. 81467 attached for payment.\n\nThanks,\nLena Fischer",
+    "from": "Lena Fischer <billing@donmillschemicalsupply.example>",
+    "received_at": "2026-10-26T16:45:39.339603-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Don Mills Chemical Supply - invoice for October"
+  },
+  {
+    "bill_id": "B047",
+    "bill_text": "Pacific Rim Components\nNo. 67095\nDate: 2026-10-18\nPO: PO-3017\nCurrency: USD\n\n1 x Heart Of Wicker Small @ US$3.29\n1 x Christmas Retrospot Angel Wood @ US$1.66\n39 x Doormat English Rose @ US$4.58\n1 x First Class Holiday Purse @ US$5.79\n1 x Glitter Heart Decoration @ US$0.39\n1 x Red Retrospot Cup @ US$1.67\n1 x Jumbo Bag Charlie And Lola Toys @ US$2.46\n3 x Paper Chain Kit Vintage Christmas @ US$2.95\n1 x Charlie+Lola Pink Hot Water Bottle @ US$3.29\n1 x Bell Heart Antique Gold @ US$2.08\n1 x 12 Pencil Small Tube Woodland @ US$1.28\n\nSubtotal: US$209.38\nTax (VAT 0%): US$0.00\nTotal: US$209.38\n",
+    "body": "Hi,\n\nSending over invoice No. 67095. Let me know if you need anything else.\n\nBest,\nJames Whitfield",
+    "from": "James Whitfield <billing@pacificrimcomponents.example>",
+    "received_at": "2026-10-30T08:15:48.740724-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice No. 67095 from Pacific Rim Components"
+  },
+  {
+    "bill_id": "B048",
+    "bill_text": "Great Lakes Freight\nINV-54835\nDate: 2026-10-14\nPO: PO-6417\nCurrency: USD\n\n1 x Glitter Christmas Star @ US$1.63\n35 x Ivory Pillar Candle Gold Flock @ US$2.55\n6 x Set/20 Fruit Salad Paper Napkins @ US$1.63\n29 x Mini Playing Cards Buffalo Bill @ US$0.42\n29 x Doormat Topiary @ US$4.58\n415 x Pottering Mug @ US$0.42\n9 x Wood Stamp Set Happy Birthday @ US$1.65\n14 x Wooden Frame Antique White @ US$7.46\n3 x Zinc Wire Kitchen Organiser @ US$10.40\n19 x Set Of 72 Pink Heart Paper Doilies @ US$2.92\n30 x Paper Chain Kit 50'S Christmas @ US$5.79\n35 x Garland With Stars And Bells @ US$4.25\n9 x Square Metal Candleholder Base @ US$0.85\n78 x Vintage Donkey Tail Game @ US$3.39\n7 x Jumbo Bag Pears @ US$2.08\n7 x Purple Boudicca Large Bracelet @ US$6.95\n1 x 36 Foil Star Cake Cases @ US$0.79\n7 x Small Red Babushka Notebook @ US$1.66\n3 x Large Chinese Style Scissor @ US$0.85\n22 x Hanging Heart Jar T-Light Holder @ US$2.46\n12 x Tv Dinner Tray Dolly Girl @ US$1.95\n17 x Easter Craft 4 Chicks @ US$1.95\n3 x Childs Garden Trowel Pink @ US$0.85\n6 x Hand Warmer Scotty Dog Design @ US$4.21\n\nSubtotal: US$1,437.10\nTax (VAT 0%): US$0.00\nTotal: US$1,437.10\n",
+    "body": "Hi AP team,\n\nPlease find our invoice INV-54835 attached for payment.\n\nThanks,\nPriya Nair",
+    "from": "Priya Nair <billing@greatlakesfreight.example>",
+    "received_at": "2026-10-28T12:13:20.241499-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Great Lakes Freight - invoice for October"
+  },
+  {
+    "bill_id": "B049",
+    "bill_text": "Bayview Stationery Co\nInvoice # 18607\nDate: Oct 08 2026\nCurrency: CAD\n\n3 x Large White Honeycomb Paper Bell @ $4.21\n22 x Lunch Bag Cars Blue @ $4.96\n7 x Silver Diamante Pen In Gift Box @ $4.95\n9 x Travel Card Wallet Retro Petals @ $0.42\n1 x Hand Warmer Scotty Dog Design @ $4.13\n1 x Set Of 6 Strawberry Chopsticks @ $1.25\n109 x Pack Of 20 Napkins Pantry Design @ $0.72\n2 x Box Of 6 Assorted Colour Teaspoons @ $8.47\n1 x Blue Polkadot Beaker @ $0.39\n1 x Red Charlie+Lola Personal Doorsign @ $5.79\n7 x Robot Birthday Card @ $0.83\n\nSubtotal: $272.97\nTax (HST 13%): $35.49\nTotal: $308.46\n",
+    "body": "Hello,\n\nAttached is invoice Invoice # 18607 dated 2026-10-08. Payment terms net 30.\n\nRegards,\nTom Becker",
+    "from": "Tom Becker <billing@bayviewstationeryco.example>",
+    "received_at": "2026-10-28T00:53:18.336743-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice Invoice # 18607 from Bayview Stationery Co"
+  },
+  {
+    "bill_id": "B050",
+    "bill_text": "Don Mills Chemical Supply\nINV-54783\nDate: 2026-10-25\nPO: PO-1020\nCurrency: CAD\n\n8 x Green Drawer Knob Acrylic Edwardian @ $2.50\n95 x Triple Wire Hook Ivory Heart @ $3.75\n20 x Lunch Bag Suki  Design @ $4.13\n39 x Five Heart Hanging Decoration @ $2.95\n20 x Brown Kukui Coconut Seed Necklace @ $1.00\n28 x Travel Card Wallet I Love London @ $0.42\n12 x Flowers  Stickers @ $0.81\n28 x Blue Cat Biscuit Barrel Pink Heart @ $1.95\n4 x Antique Ivory Wire Bowl Small @ $4.96\n35 x English Rose Spirit Level @ $0.79\n16 x Set Of 12 Mini Bunnies In A Bucket @ $2.10\n8 x Pantry Hook Tea Strainer @ $2.08\n\nSubtotal: $767.71\nTax (HST 13%): $99.80\nTotal: $867.51\n",
+    "body": "Hi AP team,\n\nPlease find our invoice INV-54783 attached for payment.\n\nThanks,\nMarc Dubois",
+    "from": "Marc Dubois <billing@donmillschemicalsupply.example>",
+    "received_at": "2026-10-29T16:28:14.331071-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice INV-54783 attached"
+  },
+  {
+    "bill_id": "B051",
+    "bill_text": "Maple Packaging Ltd.\nNo. 79545\nDate: 16/10/2026\nPO: PO-5421\nCurrency: CAD\n\n1171 x Jumbo  Bag Baroque Black White @ $4.13\n3832 x Assorted Bottle Top  Magnets @ $0.42\n106 x Mother'S Kitchen Spoon Rest @ $3.75\n\nSubtotal: $6,843.17\nTax (HST 13%): $889.61\nTotal: $7,732.78\n",
+    "body": "Hi AP team,\n\nPlease find our invoice No. 79545 attached for payment.\n\nThanks,\nTom Becker",
+    "from": "Tom Becker <billing@maplepackagingltd.example>",
+    "received_at": "2026-10-26T17:40:56.035877-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice No. 79545 attached"
+  },
+  {
+    "bill_id": "B052",
+    "bill_text": "Richmond Hill Rigging Supply\nNo. 74564\nDate: Oct 25 2026\nPO: PO-6901\nCurrency: CAD\n\n58 x Skull Shoulder Bag @ $1.63\n11 x Parisienne Curio Cabinet @ $14.96\n5 x Dotcom Postage @ $2.29\n26 x Red Gingham Teddy Bear @ $2.95\n95 x Ocean Scent Candle In Jewelled Box @ $3.81\n317 x Regency Tea Spoon @ $1.25\n16 x Assorted Monkey Suction Cup Hook @ $0.42\n5 x Blue Murano Twist Necklace @ $9.96\n132 x White Bell Honeycomb Paper Garland @ $1.65\n79 x Jumbo Bag Charlie And Lola Toys @ $2.46\n\nSubtotal: $1,574.11\nTax (HST 13%): $204.63\nTotal: $1,778.74\n",
+    "body": "Hello,\n\nAttached is invoice No. 74564 dated 2026-10-25. Payment terms net 30.\n\nRegards,\nLena Fischer",
+    "from": "Lena Fischer <billing@richmondhillriggingsupply.example>",
+    "received_at": "2026-10-29T09:33:40.950899-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Please process: No. 74564"
+  },
+  {
+    "bill_id": "B053",
+    "bill_text": "Vaughan Valve & Fitting\nNo. 14734\nDate: Oct 22 2026\nPO: PO-3541\nCurrency: CAD\n\n18 x Enamel Bread Bin Cream @ $10.95\n16 x Lunch Bag  Black Skull. @ $1.65\n8 x Wooden Union Jack Bunting @ $5.95\n10 x Revolver Wooden Ruler @ $3.75\n40 x Pink Blue Felt Craft Trinket Box @ $1.25\n8 x Home Building Block Word @ $6.25\n3 x Glitter Star Garland With Bells @ $3.75\n7 x Antique Glass Pedestal Bowl @ $3.39\n3 x Ivory Enchanted Forest Placemat @ $3.36\n5 x Ass Floral Print Spirit Level @ $0.79\n3 x Mini Wooden Happy Birthday Garland @ $4.13\n2 x Charlie + Lola Biscuits Tins @ $5.79\n10 x French Enamel Water Basin @ $3.75\n10 x Retro Plastic Daisy Tray @ $0.85\n8 x Feltcraft Butterfly Hearts @ $3.29\n\nSubtotal: $553.90\nTax (HST 13%): $72.01\nTotal: $625.91\n",
+    "body": "Hi AP team,\n\nPlease find our invoice No. 14734 attached for payment.\n\nThanks,\nPriya Nair",
+    "from": "Priya Nair <billing@vaughanvalvefitting.example>",
+    "received_at": "2026-10-31T10:20:54.330344-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Vaughan Valve & Fitting - invoice for October"
+  },
+  {
+    "bill_id": "B054",
+    "bill_text": "GTA Paper & Board Corp\nInvoice # 14392\nDate: Nov 01 2026\nCurrency: CAD\n\n1 x Pack Of 6 Handbag Gift Boxes @ $2.55\n3 x Glass Sphere Candle Stand Medium @ $4.95\n1 x Card Birthday Cowboy @ $0.83\n1 x Ninja Rabbit Black @ $0.85\n9 x Paper Chain Kit Vintage Christmas @ $6.77\n52 x Edwardian Parasol Black @ $4.95\n1 x Christmas Craft Little Friends @ $4.21\n2 x Set Of 4 Napkin Charms Stars @ $4.96\n1 x Ivory Wicker Heart Medium @ $2.46\n4 x Set/20 Fruit Salad Paper Napkins @ $1.63\n1 x Doormat 3 Smiley Cats @ $15.79\n3 x Set 12 Colour Pencils Dolly Girl @ $0.65\n1 x Red  Egg  Spoon @ $0.12\n1 x Enamel Measuring Jug Cream @ $8.47\n9 x Jumbo Bag Doiley Patterns @ $2.08\n3 x Bottle Bag Retrospot @ $1.63\n1 x Airline Bag Vintage Jet Set White @ $8.47\n16 x Painted Yellow Wooden Daisy @ $0.85\n1 x Hanging Spring Flower Egg Small @ $0.65\n1 x Gift Bag Psychedelic Apples @ $0.83\n4 x Jazz Hearts Address Book @ $0.19\n157 x Set 2 Pantry Design Tea Towels @ $3.28\n1 x Wall Art Bicycle Safety @ $12.46\n1 x Tea Cosy Red  Stripe @ $4.96\n\nSubtotal: $967.15\nTax (HST 13%): $125.73\nTotal: $1,092.88\n",
+    "body": "Hi AP team,\n\nPlease find our invoice Invoice # 14392 attached for payment.\n\nThanks,\nJames Whitfield",
+    "from": "James Whitfield <billing@gtapaperboardcorp.example>",
+    "received_at": "2026-11-02T04:55:01.176184-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice Invoice # 14392 from GTA Paper & Board Corp"
+  },
+  {
+    "bill_id": "B055",
+    "bill_text": "Northline Industrial Tools\nInvoice # 49322\nDate: 24/10/2026\nCurrency: CAD\n\n20 x Set Of 2 Round Tins Camembert @ $2.95\n30 x Vintage Donkey Tail Game @ $3.75\n20 x Party Invites Dinosaurs @ $1.63\n101 x Red Retrospot Peg Bag @ $4.96\n30 x Pantry Washing Up Brush @ $1.45\n20 x Folding Umbrella Chocolate Polkadot @ $3.36\n10 x White Moroccan Metal Lantern @ $3.75\n405 x Jumbo Bag Pink Polkadot @ $2.08\n182 x Christmas Musical Zinc Star @ $0.83\n\nSubtotal: $1,846.72\nTax (HST 13%): $240.07\nTotal: $2,086.79\n",
+    "body": "Hi AP team,\n\nPlease find our invoice Invoice # 49322 attached for payment.\n\nThanks,\nJames Whitfield",
+    "from": "James Whitfield <billing@northlineindustrialtools.example>",
+    "received_at": "2026-11-02T03:00:59.269297-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Northline Industrial Tools - invoice for October"
+  },
+  {
+    "bill_id": "B056",
+    "bill_text": "GTA Paper & Board Corp\nInvoice # 61151\nDate: 23/10/2026\nCurrency: CAD\n\n7 x Acrylic Hanging Jewel,Blue @ $0.38\n112 x Rabbit Night Light @ $1.79\n72 x Alphabet Stencil Craft @ $1.06\n20 x Pack 20 English Rose Paper Napkins @ $0.85\n1 x Wall Art Dog Licence @ $5.95\n2 x Origami Lavender Incense/Candl Set @ $0.85\n1 x Gift Bag Psychedelic Apples @ $1.25\n4 x Set 12 Colour Pencils Dolly Girl @ $1.25\n3 x Happy Stencil Craft @ $1.25\n4 x Hen House With Chick Standing @ $0.42\n\nSubtotal: $315.79\nTax (HST 13%): $41.05\nTotal: $356.84\n",
+    "body": "Hi,\n\nSending over invoice Invoice # 61151. Let me know if you need anything else.\n\nBest,\nSofia Rossi",
+    "from": "Sofia Rossi <billing@gtapaperboardcorp.example>",
+    "received_at": "2026-10-27T17:14:45.377168-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice Invoice # 61151 from GTA Paper & Board Corp"
+  },
+  {
+    "bill_id": "B057",
+    "bill_text": "Oakville Oils & Lubricants\nNo. 39931\nDate: 29/10/2026\nPO: PO-7979\nCurrency: CAD\n\n2 x Set Of 72 Green Paper Doilies @ $1.45\n11 x Christmas Toilet Roll @ $2.51\n2 x Hot Water Bottle Tea And Sympathy @ $3.75\n1 x Frying Pan Pink Polkadot @ $8.29\n88 x Jazz Hearts Address Book @ $0.19\n110 x Mini Jigsaw Spaceboy @ $0.36\n2 x Red Woolly Hottie White Heart. @ $3.95\n33 x Red Rocking Horse Hand Painted @ $1.25\n2 x Pink Fairy Cake Childrens Apron @ $1.95\n7 x Edwardian Parasol Red @ $5.95\n10 x Victorian Sewing Box Large @ $10.95\n11 x Hanging Heart Mirror Decoration @ $0.65\n13 x White Skull Hot Water Bottle @ $8.47\n1 x Doorstop Racing Car Design @ $7.62\n1 x Purple Boudicca Large Bracelet @ $7.07\n4 x Red Tea Towel Classic Design @ $1.25\n3 x Heart Decoration Painted Zinc @ $0.65\n1 x 36 Foil Star Cake Cases @ $0.79\n1 x Ninja Rabbit Black @ $0.85\n3 x Cabin Bag Vintage Retrospot @ $16.63\n1 x Mint Kitchen Scales @ $8.50\n\nSubtotal: $505.75\nTax (HST 13%): $65.75\nTotal: $571.50\n",
+    "body": "Hi,\n\nSending over invoice No. 39931. Let me know if you need anything else.\n\nBest,\nLena Fischer",
+    "from": "Lena Fischer <billing@oakvilleoilslubricants.example>",
+    "received_at": "2026-11-01T03:29:57.934027-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Please process: No. 39931"
+  },
+  {
+    "bill_id": "B058",
+    "bill_text": "High Park Landscaping Supply\nInvoice # 29158\nDate: 2026-10-27\nCurrency: CAD\n\n42 x Jumbo Bag Pink Polkadot @ $1.95\n21 x Carnival Bracelet @ $12.75\n166 x Frying Pan Red Retrospot @ $1.25\n21 x Key Cabinet Ma Campagne @ $9.95\n35 x Retro Plastic Polka Tray @ $0.83\n\nSubtotal: $795.15\nTax (HST 13%): $103.37\nTotal: $898.52\n",
+    "body": "Hi AP team,\n\nPlease find our invoice Invoice # 29158 attached for payment.\n\nThanks,\nSofia Rossi",
+    "from": "Sofia Rossi <billing@highparklandscapingsupply.example>",
+    "received_at": "2026-10-31T12:55:23.236128-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice Invoice # 29158 from High Park Landscaping Supply"
+  },
+  {
+    "bill_id": "B059",
+    "bill_text": "Eglinton Paint Supply\nInvoice # 29516\nDate: 2026-10-08\nPO: PO-4022\nCurrency: CAD\n\n12 x Vintage Keepsake Box Travelogue @ $6.35\n23 x 4 Pear Botanical Dinner Candles @ $2.46\n12 x Dotcom Postage @ $172.99\n82 x 6 Gift Tags Vintage Christmas @ $0.83\n12 x Dotcom Postage @ $478.10\n23 x Letter \"D\" Bling Key Ring @ $0.83\n23 x Set/4 Skull Badges @ $2.51\n35 x Red Glass Tassle Bag Charm @ $1.66\n47 x Hot Water Bottle Tea And Sympathy @ $3.75\n129 x Recipe Box Pantry Yellow Design @ $5.79\n117 x Assorted Colour Mini Cases @ $7.95\n844 x Grow A Flytrap Or Sunflower In Tin @ $1.25\n23 x Zinc Wire Kitchen Organiser @ $3.95\n\nSubtotal: $11,148.00\nTax (HST 13%): $1,449.24\nTotal: $12,597.24\n",
+    "body": "Hi AP team,\n\nPlease find our invoice Invoice # 29516 attached for payment.\n\nThanks,\nJames Whitfield",
+    "from": "James Whitfield <billing@eglintonpaintsupply.example>",
+    "received_at": "2026-10-28T15:30:56.363916-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Eglinton Paint Supply - invoice for October"
+  },
+  {
+    "bill_id": "B060",
+    "bill_text": "Pacific Rim Components\nInvoice # 99539\nDate: 2026-10-22\nCurrency: USD\n\n140 x 3 Hearts Hanging Decoration Rustic @ US$2.95\n499 x Jungle Popsicles Ice Lolly Moulds @ US$1.25\n83 x Hanging Heart Jar T-Light Holder @ US$2.46\n36 x Balloons  Writing Set @ US$3.36\n10 x Red Woolly Hottie White Heart. @ US$3.75\n68 x Birdhouse Decoration Magic Garden @ US$0.83\n83 x Set Of 12 Mini Loaf Baking Cases @ US$0.83\n16 x Filigris Heart With Butterfly @ US$1.25\n62 x Area Patrolled Metal Sign @ US$1.85\n\nSubtotal: US$1,659.42\nTax (VAT 0%): US$0.00\nTotal: US$1,659.42\n",
+    "body": "Hi AP team,\n\nPlease find our invoice Invoice # 99539 attached for payment.\n\nThanks,\nTom Becker",
+    "from": "Tom Becker <billing@pacificrimcomponents.example>",
+    "received_at": "2026-11-01T09:41:58.876898-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice Invoice # 99539 from Pacific Rim Components"
+  },
+  {
+    "bill_id": "B061",
+    "bill_text": "Danforth Deli Provisions\nINV-27540\nDate: 2026-10-23\nCurrency: CAD\n\n32 x Paper Chain Kit 50'S Christmas @ $2.95\n11 x Purple Anemone Artificial Flower @ $1.69\n19 x Hanging Wood And Felt Heart @ $0.42\n24 x Folding Umbrella Red/White Polkadot @ $3.29\n16 x S/12 Vanilla  Botanical T-Lights @ $2.95\n8 x Mini Ladle Love Heart Pink @ $0.43\n16 x Small Silver Trellis Candlepot @ $2.95\n32 x Pink Polkadot Bowl @ $1.63\n430 x 4 Traditional Spinning Tops @ $1.06\n11 x Pompom Curtain @ $6.95\n8 x Joy Wooden Block Letters @ $4.95\n8 x Filigree Heart Bird White @ $1.25\n67 x Roll Wrap Vintage Spot @ $1.25\n3 x New Baroque Large Necklace Blk/Whit @ $8.49\n1162 x Angel Decoration 3 Buttons @ $0.36\n5 x T-Light Holder Hanging Lace @ $2.46\n1291 x Mini Jigsaw Purdey @ $0.36\n\nSubtotal: $1,936.38\nTax (HST 13%): $251.73\nTotal: $2,188.11\n",
+    "body": "Hi,\n\nSending over invoice INV-27540. Let me know if you need anything else.\n\nBest,\nAisha Khan",
+    "from": "Aisha Khan <billing@danforthdeliprovisions.example>",
+    "received_at": "2026-10-27T20:49:04.159451-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Please process: INV-27540"
+  },
+  {
+    "bill_id": "B062",
+    "bill_text": "High Park Landscaping Supply\nNo. 94975\nDate: 2026-10-18\nCurrency: CAD\n\n37 x Skulls Tape @ $1.66\n37 x 4 Sky Blue Dinner Candles @ $1.25\n411 x Vintage Christmas Gift Sack @ $4.15\n\nSubtotal: $1,813.32\nTax (HST 13%): $235.73\nTotal: $2,049.05\n",
+    "body": "Hi,\n\nSending over invoice No. 94975. Let me know if you need anything else.\n\nBest,\nAisha Khan",
+    "from": "Aisha Khan <billing@highparklandscapingsupply.example>",
+    "received_at": "2026-10-26T16:42:47.404997-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "High Park Landscaping Supply - invoice for October"
+  },
+  {
+    "bill_id": "B063",
+    "bill_text": "Yorkdale Uniforms Ltd\nInvoice # 92965\nDate: 2026-10-08\nPO: PO-1980\nCurrency: CAD\n\n117 x Bag 125G Swirly Marbles @ $0.85\n323 x 60 Cake Cases Vintage Christmas @ $0.55\n59 x Wall Art Vintage Heart @ $4.95\n29 x Blue Egg  Spoon @ $0.85\n1057 x Hand Warmer Union Jack @ $2.10\n29 x White Rocking Horse Hand Painted @ $1.25\n29 x Bird Decoration Green Polkadot @ $0.85\n176 x Rattle Snake Eggs @ $1.25\n529 x Christmas Musical Zinc Star @ $0.83\n59 x 4 Rose Pink Dinner Candles @ $1.25\n206 x Set Of 20 Vintage Christmas Napkins @ $0.85\n352 x Red Retrospot Cake Stand @ $9.95\n117 x Large Black Diamante Hairslide @ $1.65\n235 x Fairy Cake Birthday Candle Set @ $3.75\n88 x Retro Leaves Magnetic Notepad @ $1.45\n117 x Set/6 Green Spring Paper Cups @ $0.19\n440 x Card I Love London @ $0.83\n117 x Candy Spot Egg Warmer Rabbit @ $0.19\n59 x Airline Bag Vintage Tokyo 78 @ $3.75\n\nSubtotal: $9,117.53\nTax (HST 13%): $1,185.28\nTotal: $10,302.81\n",
+    "body": "Hi,\n\nSending over invoice Invoice # 92965. Let me know if you need anything else.\n\nBest,\nTom Becker",
+    "from": "Tom Becker <billing@yorkdaleuniformsltd.example>",
+    "received_at": "2026-10-27T13:17:40.771329-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice Invoice # 92965 from Yorkdale Uniforms Ltd"
+  },
+  {
+    "bill_id": "B064",
+    "bill_text": "Hamilton Heavy Haulage\nInvoice # 73964\nDate: 2026-10-20\nPO: PO-9336\nCurrency: CAD\n\n79 x Triple Photo Frame Cornice @ $8.50\n15 x Plasters In Tin Skulls @ $4.21\n153 x Rocking Horse Red Christmas @ $0.85\n15 x Blue Polkadot Garden Parasol @ $10.79\n15 x Hand Warmer Bird Design @ $2.10\n177 x Herb Marker Thyme @ $0.65\n15 x Moroccan Tea Glass @ $1.69\n153 x Red Drawer Knob Acrylic Edwardian @ $2.46\n5 x Biscuits Small Bowl Light Blue @ $0.42\n30 x Metal Sign Cupcake Single Hook @ $0.83\n\nSubtotal: $1,601.83\nTax (HST 13%): $208.24\nTotal: $1,810.07\n",
+    "body": "Hello,\n\nAttached is invoice Invoice # 73964 dated 2026-10-20. Payment terms net 30.\n\nRegards,\nMarc Dubois",
+    "from": "Marc Dubois <billing@hamiltonheavyhaulage.example>",
+    "received_at": "2026-10-31T16:49:49.328152-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Please process: Invoice # 73964"
+  },
+  {
+    "bill_id": "B065",
+    "bill_text": "Scarborough Steel Supply\nInvoice # 62553\nDate: 20/10/2026\nPO: PO-6625\nCurrency: CAD\n\n4 x Pink Union Jack  Luggage Tag @ $1.25\n12 x Red Retrospot Charlotte Bag @ $1.63\n3 x Set Of 5 Lucky Cat Magnets @ $4.13\n5 x Red Enchanted Forest Placemat @ $3.29\n51 x Regency Cake Fork @ $1.25\n1 x Wake Up Cockerel Calendar Sign @ $7.62\n1 x Set Of 4 Carousel Placemats @ $7.46\n122 x Retrospot Party Bag + Sticker Set @ $1.45\n15 x Feltcraft Doll Rosie @ $2.95\n\nSubtotal: $353.38\nTax (HST 13%): $45.94\nTotal: $399.32\n",
+    "body": "Hi AP team,\n\nPlease find our invoice Invoice # 62553 attached for payment.\n\nThanks,\nJames Whitfield",
+    "from": "James Whitfield <billing@scarboroughsteelsupply.example>",
+    "received_at": "2026-10-31T17:19:48.285144-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice Invoice # 62553 from Scarborough Steel Supply"
+  },
+  {
+    "bill_id": "B066",
+    "bill_text": "Oakville Oils & Lubricants\nInvoice # 81496\nDate: 2026-10-15\nPO: PO-9119\nCurrency: CAD\n\n3 x Drawer Knob Crackle Glaze Green @ $1.65\n2 x Blue Tea Towel Classic Design @ $1.25\n3 x Drawer Knob Crackle Glaze Blue @ $3.29\n3 x Childrens Cutlery Polkadot Green @ $4.15\n11 x 20 Dolly Pegs Retrospot @ $1.25\n85 x Citronella Candle Flowerpot @ $1.85\n2 x Rose Du Sud Cushion Cover @ $4.13\n2 x Flowers  Stickers @ $0.81\n19 x Victorian Sewing Box Large @ $10.95\n18 x Doormat Fancy Font Home Sweet Home @ $6.75\n12 x Pink Drawer Knob Acrylic Edwardian @ $2.46\n2 x Red Retrospot Plate @ $3.29\n1 x Feather Pen,Light Pink @ $0.39\n9 x Jumbo Bag Woodland Animals @ $2.08\n1 x 3D Christmas Stamps Stickers @ $1.25\n\nSubtotal: $596.66\nTax (HST 13%): $77.57\nTotal: $674.23\n",
+    "body": "Hi AP team,\n\nPlease find our invoice Invoice # 81496 attached for payment.\n\nThanks,\nAisha Khan",
+    "from": "Aisha Khan <billing@oakvilleoilslubricants.example>",
+    "received_at": "2026-11-01T14:38:31.490199-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice Invoice # 81496 attached"
+  },
+  {
+    "bill_id": "B067",
+    "bill_text": "Scarborough Steel Supply\nInvoice # 98250\nDate: 07/10/2026\nPO: PO-5799\nCurrency: CAD\n\n212 x Blue Charlie+Lola Personal Doorsign @ $0.39\n42 x Peach Knitted Hen @ $3.36\n340 x Red Floral Feltcraft Shoulder Bag @ $4.13\n255 x Cinammon Set Of 9 T-Lights @ $0.85\n297 x Assorted Tutti Frutti Bracelet @ $0.83\n764 x Christmas Musical Zinc Star @ $0.83\n170 x Bathroom Metal Sign @ $1.25\n467 x 12 Pencils Small Tube Red Retrospot @ $0.65\n297 x Heart Decoration Painted Zinc @ $0.65\n\nSubtotal: $3,434.48\nTax (HST 13%): $446.48\nTotal: $3,880.96\n",
+    "body": "Hi AP team,\n\nPlease find our invoice Invoice # 98250 attached for payment.\n\nThanks,\nTom Becker",
+    "from": "Tom Becker <billing@scarboroughsteelsupply.example>",
+    "received_at": "2026-10-27T13:17:22.471005-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice Invoice # 98250 from Scarborough Steel Supply"
+  },
+  {
+    "bill_id": "B068",
+    "bill_text": "Eglinton Paint Supply\nINV-62938\nDate: 17/10/2026\nPO: PO-3865\nCurrency: CAD\n\n11 x Swiss Chalet Tree Decoration @ $0.85\n19 x Wooden Frame Antique White @ $7.46\n11 x Box Of 6 Mini Vintage Crackers @ $4.96\n2 x Charlie And Lola Figures Tins @ $5.79\n10 x Mini Ladle Love Heart Red @ $0.42\n4 x Grey Heart Hot Water Bottle @ $12.21\n6 x Blue Owl Soft Toy @ $2.95\n95 x Dolly Girl Mini Backpack @ $3.75\n63 x Lipstick Pen Red @ $0.83\n36 x Antique Silver Tea Glass Etched @ $2.51\n2 x Box Of 24 Cocktail Parasols @ $1.63\n2 x Christmas Lights 10 Vintage Baubles @ $4.95\n23 x Fan Black Frame @ $0.29\n8 x Panda And Bunnies Sticker Sheet @ $0.85\n2 x Airline Bag Vintage World Champion @ $4.21\n13 x 6 Ribbons Rustic Charm @ $3.36\n8 x Pink Regency Teacup And Saucer @ $2.95\n\nSubtotal: $889.20\nTax (HST 13%): $115.60\nTotal: $1,004.80\n",
+    "body": "Hello,\n\nAttached is invoice INV-62938 dated 2026-10-17. Payment terms net 30.\n\nRegards,\nJames Whitfield",
+    "from": "James Whitfield <billing@eglintonpaintsupply.example>",
+    "received_at": "2026-11-01T11:23:09.781796-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice INV-62938 attached"
+  },
+  {
+    "bill_id": "B069",
+    "bill_text": "Markham Machine Works\nInvoice # 97112\nDate: 24/10/2026\nPO: PO-2508\nCurrency: CAD\n\n9 x Pink Heart Of Glass Bracelet @ $5.95\n12 x Cream Sweetheart Egg Holder @ $4.95\n286 x Pack Of 20 Napkins Pantry Design @ $0.72\n18 x 60 Cake Cases Dolly Girl Design @ $0.55\n3 x Jumbo Bag Vintage Leaf @ $4.13\n45 x Spotty Bunting @ $4.15\n18 x Tea Party Birthday Card @ $0.83\n9 x Home Sweet Home Blackboard @ $10.79\n9 x Advent Calendar Gingham Sack @ $4.13\n21 x Glitter Christmas Star @ $0.39\n59 x Doormat English Rose @ $4.58\n18 x Wheelbarrow For Children @ $12.75\n6 x Easter Bunny Wreath @ $4.95\n3 x Christmas Craft Little Friends @ $4.21\n9 x Pantry Washing Up Brush @ $1.45\n3 x Decorative Plant Pot With Frieze @ $15.79\n3 x Jardin Etched Glass Butter Dish @ $7.25\n\nSubtotal: $1,309.54\nTax (HST 13%): $170.24\nTotal: $1,479.78\n",
+    "body": "Hello,\n\nAttached is invoice Invoice # 97112 dated 2026-10-24. Payment terms net 30.\n\nRegards,\nAisha Khan",
+    "from": "Aisha Khan <billing@markhammachineworks.example>",
+    "received_at": "2026-10-28T13:59:50.789683-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Please process: Invoice # 97112"
+  },
+  {
+    "bill_id": "B070",
+    "bill_text": "Warden Hill Logistics Services\nNo. 20052\nDate: Oct 21 2026\nPO: PO-9837\nCurrency: CAD\n\n5 x Mirrored Wall Art Gents @ $0.75\n75 x Lunch Bag Red Retrospot @ $4.96\n1347 x Retrospot Cigar Box Matches @ $0.39\n112 x I Can Only Please One Person Mug @ $1.25\n9 x Drawer Knob Ceramic Red @ $1.45\n56 x Wooden Box Of Dominoes @ $1.25\n9 x Manual @ $10.95\n\nSubtotal: $1,222.68\nTax (HST 13%): $158.95\nTotal: $1,381.63\n",
+    "body": "Hello,\n\nAttached is invoice No. 20052 dated 2026-10-21. Payment terms net 30.\n\nRegards,\nJames Whitfield",
+    "from": "James Whitfield <billing@wardenhilllogisticsservices.example>",
+    "received_at": "2026-10-29T05:13:40.732342-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice No. 20052 from Warden Hill Logistics Services"
+  },
+  {
+    "bill_id": "B071",
+    "bill_text": "Etobicoke Electrical Distributors\nNo. 45143\nDate: Oct 22 2026\nCurrency: CAD\n\n148 x Antique Silver Book Mark With Beads @ $0.83\n37 x Bird Box Christmas Tree Decoration @ $0.85\n74 x Office Mug Warmer Black+Silver @ $2.95\n2666 x 4 Traditional Spinning Tops @ $1.45\n741 x Ribbon Reel Stripes Design @ $1.65\n185 x Set Of 4 English Rose Placemats @ $3.29\n111 x Pack Of 6 Skull Paper Cups @ $1.63\n296 x Home Sweeet Home 3 Peg Hanger @ $3.75\n111 x Metal Sign Cupcake Single Hook @ $2.46\n37 x Ribbon Reel Hearts Design @ $3.36\n37 x Folding Umbrella Blackblue Polkadot @ $3.36\n889 x Garland With Stars And Bells @ $4.25\n\nSubtotal: $11,660.47\nTax (HST 13%): $1,515.86\nTotal: $13,176.33\n",
+    "body": "Hi,\n\nSending over invoice No. 45143. Let me know if you need anything else.\n\nBest,\nPriya Nair",
+    "from": "Priya Nair <billing@etobicokeelectricaldistributors.example>",
+    "received_at": "2026-10-31T08:27:10.244522-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Etobicoke Electrical Distributors - invoice for October"
+  },
+  {
+    "bill_id": "B072",
+    "bill_text": "Weston Road Auto Parts\nINV-80215\nDate: 2026-10-21\nPO: PO-4095\nCurrency: CAD\n\n509 x Polkadot Rain Hat @ $0.42\n127 x Pink/Flower Rabbit Egg Warmer @ $2.10\n1017 x Red Retrospot Charlotte Bag @ $2.46\n339 x Antique Tall Swirlglass Trinket Pot @ $3.75\n42 x Small Dolly Mix Design Orange Bowl @ $0.85\n191 x Box Of 24 Cocktail Parasols @ $0.83\n42 x Large Ivory Heart Wall Organiser @ $16.63\n64 x Tv Dinner Tray Vintage Paisley @ $4.21\n42 x No Junk Mail Metal Sign @ $3.29\n212 x Lunch Bag Dolly Girl Design @ $1.65\n21 x Set/3 Christmas Decoupage Candles @ $2.51\n\nSubtotal: $5,956.37\nTax (HST 13%): $774.33\nTotal: $6,730.70\n",
+    "body": "Hi,\n\nSending over invoice INV-80215. Let me know if you need anything else.\n\nBest,\nPriya Nair",
+    "from": "Priya Nair <billing@westonroadautoparts.example>",
+    "received_at": "2026-10-29T06:05:38.599406-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice INV-80215 attached"
+  },
+  {
+    "bill_id": "B073",
+    "bill_text": "Portlands Fasteners Co.\nNo. 91912\nDate: 19/10/2026\nCurrency: CAD\n\n271 x Floral Folk Stationery Set @ $1.25\n541 x Bird Decoration Green Polkadot @ $0.85\n\nSubtotal: $798.60\nTax (HST 13%): $103.82\nTotal: $902.42\n",
+    "body": "Hello,\n\nAttached is invoice No. 91912 dated 2026-10-19. Payment terms net 30.\n\nRegards,\nPriya Nair",
+    "from": "Priya Nair <billing@portlandsfastenersco.example>",
+    "received_at": "2026-10-28T19:14:02.471258-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice No. 91912 attached"
+  },
+  {
+    "bill_id": "B074",
+    "bill_text": "Beaver Lumber Wholesale\nInvoice # 70918\nDate: Oct 12 2026\nPO: PO-4200\nCurrency: CAD\n\n6 x Pompom Curtain @ $6.95\n8 x Easter Tin Keepsake @ $1.65\n1 x Red  Harmonica In Box @ $2.51\n4 x Record Frame 7\" Single Size @ $4.96\n1 x Hand Warmer Red Love Heart @ $4.13\n15 x Pink Happy Birthday Bunting @ $5.45\n24 x Beaded Pearl Heart White On Stick @ $0.83\n9 x Modern Floral Stationery Set @ $1.25\n4 x Posy Candy Bag @ $1.25\n3 x Sweetheart Wall Tidy @ $9.95\n3 x Ceramic Cake Bowl + Hanging Cakes @ $2.95\n3 x Childrens Cutlery Polkadot Blue @ $4.15\n\nSubtotal: $250.45\nTax (HST 13%): $32.56\nTotal: $283.01\n",
+    "body": "Hi AP team,\n\nPlease find our invoice Invoice # 70918 attached for payment.\n\nThanks,\nSofia Rossi",
+    "from": "Sofia Rossi <billing@beaverlumberwholesale.example>",
+    "received_at": "2026-10-26T18:16:08.701179-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Beaver Lumber Wholesale - invoice for October"
+  },
+  {
+    "bill_id": "B075",
+    "bill_text": "Beaver Lumber Wholesale\nINV-82862\nDate: Oct 12 2026\nPO: PO-7293\nCurrency: CAD\n\n1 x Vanilla Incense In Tin @ $0.38\n2 x Butterfly Hair Band @ $2.55\n15 x Jumbo Bag Vintage Doiley @ $2.08\n1 x Folding Umbrella Red/White Polkadot @ $10.17\n1 x 3D Christmas Stamps Stickers @ $2.46\n4 x Sweet Pudding Sticker Sheet @ $0.85\n3 x Large Purple Babushka Notebook @ $0.39\n2 x Pack Of 6 Skull Paper Cups @ $1.63\n13 x Pack Of 12 Traditional Crayons @ $0.83\n6 x Gold Fishing Gnome @ $5.95\n1 x Skulls Storage Box Small @ $4.96\n3 x Etched Glass Coaster @ $2.46\n13 x Set 2 Tea Towels I Love London @ $3.25\n1 x Letter \"S\" Bling Key Ring @ $0.83\n1 x Origami Lavender Incense/Candl Set @ $2.51\n144 x 5 Hook Hanger Red Magic Toadstool @ $1.45\n1 x Magnets Pack Of 4 Vintage Collage @ $1.25\n25 x Party Bunting @ $10.79\n\nSubtotal: $641.36\nTax (HST 13%): $83.38\nTotal: $724.74\n",
+    "body": "Hi,\n\nSending over invoice INV-82862. Let me know if you need anything else.\n\nBest,\nDan Petrov",
+    "from": "Dan Petrov <billing@beaverlumberwholesale.example>",
+    "received_at": "2026-10-27T03:18:34.138033-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Please process: INV-82862"
+  },
+  {
+    "bill_id": "B076",
+    "bill_text": "Eglinton Paint Supply\nInvoice # 64010\nDate: 2026-10-13\nCurrency: CAD\n\n10 x Rose Du Sud Cushion Cover @ $4.13\n10 x Heart Shape Wireless Doorbell @ $2.10\n62 x Cream Delphinium Artificial Flower @ $0.79\n51 x Lunch Bag  Black Skull. @ $1.45\n123 x Lunch Bag Spaceboy Design @ $1.65\n31 x Red Spot Gift Bag Large @ $2.46\n5 x White Hanging Heart T-Light Holder @ $6.63\n1851 x 60 Cake Cases Vintage Christmas @ $0.55\n5 x Pink Enamel+Glass Hair Comb @ $2.10\n26 x Vintage Doily Jumbo Bag Red @ $2.08\n617 x Ribbon Reel Snowy Village @ $1.45\n10 x Midnight Glamour Scarf Knitting Kit @ $2.95\n\nSubtotal: $2,504.37\nTax (HST 13%): $325.57\nTotal: $2,829.94\n",
+    "body": "Hi,\n\nSending over invoice Invoice # 64010. Let me know if you need anything else.\n\nBest,\nDan Petrov",
+    "from": "Dan Petrov <billing@eglintonpaintsupply.example>",
+    "received_at": "2026-11-01T11:30:37.303914-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice Invoice # 64010 from Eglinton Paint Supply"
+  },
+  {
+    "bill_id": "B077",
+    "bill_text": "Maple Packaging Ltd.\nNo. 50506\nDate: 15/10/2026\nPO: PO-7418\nCurrency: CAD\n\n386 x Blue Table Run Flower @ $1.25\n3865 x Recipe Box Blue Sketchbook Design @ $2.55\n\nSubtotal: $10,338.25\nTax (HST 13%): $1,343.97\nTotal: $11,682.22\n",
+    "body": "Hi AP team,\n\nPlease find our invoice No. 50506 attached for payment.\n\nThanks,\nMarc Dubois",
+    "from": "Marc Dubois <billing@maplepackagingltd.example>",
+    "received_at": "2026-10-31T02:55:27.048174-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice No. 50506 from Maple Packaging Ltd."
+  },
+  {
+    "bill_id": "B078",
+    "bill_text": "Lakeshore Janitorial Supply\nNo. 29374\nDate: 16/10/2026\nCurrency: CAD\n\n6 x Bunny Egg Garland @ $0.85\n3 x Mummy Mouse Red Gingham Ribbon @ $5.45\n6 x Pink Pot Plant Candle @ $7.46\n6 x Box Of 6 Assorted Colour Teaspoons @ $8.47\n6 x Box Of 6 Christmas Cake Decorations @ $3.75\n6 x Jumbo Bag Toys @ $2.08\n144 x Measuring Tape Babushka Blue @ $2.55\n30 x Jumbo Storage Bag Suki @ $4.13\n36 x Jumbo Bag Woodland Animals @ $5.06\n36 x Set Of 6 3D Kit Cards For Kids @ $0.85\n6 x Easter Bunny Wreath @ $4.95\n6 x Queen Of The Skies Holiday Purse @ $2.51\n9 x Lunch Bag Red Retrospot @ $5.06\n577 x Hand Warmer Red Love Heart @ $1.85\n15 x Christmas Hanging Snowflake @ $0.79\n36 x Small Round Cut Glass Candlestick @ $4.95\n60 x Jumbo Bag Woodland Animals @ $1.95\n3 x Pink Hanging Heart T-Light Holder @ $2.95\n108 x Gardeners Kneeling Pad Keep Calm @ $3.29\n3 x Wall Art Dog And Ball @ $2.89\n24 x Childrens Cutlery Spaceboy @ $4.15\n12 x Cherry Blossom Luggage Tag @ $0.85\n3 x Dotcom Postage @ $153.71\n33 x English Rose Notebook A7 Size @ $0.83\n72 x Set 3 Paper Vintage Chick Paper Egg @ $2.95\n\nSubtotal: $3,504.23\nTax (HST 13%): $455.55\nTotal: $3,959.78\n",
+    "body": "Hello,\n\nAttached is invoice No. 29374 dated 2026-10-16. Payment terms net 30.\n\nRegards,\nDan Petrov",
+    "from": "Dan Petrov <billing@lakeshorejanitorialsupply.example>",
+    "received_at": "2026-11-01T04:38:54.803878-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Lakeshore Janitorial Supply - invoice for October"
+  },
+  {
+    "bill_id": "B079",
+    "bill_text": "Leslieville Lighting Co\nNo. 76332\nDate: 24/10/2026\nCurrency: CAD\n\n259 x Chocolate Calculator @ $3.36\n1557 x Silver Diamante Pen In Gift Box @ $4.95\n\nSubtotal: $8,577.39\nTax (HST 13%): $1,115.06\nTotal: $9,692.45\n",
+    "body": "Hi AP team,\n\nPlease find our invoice No. 76332 attached for payment.\n\nThanks,\nTom Becker",
+    "from": "Tom Becker <billing@leslievillelightingco.example>",
+    "received_at": "2026-10-30T18:29:57.051882-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Please process: No. 76332"
+  },
+  {
+    "bill_id": "B080",
+    "bill_text": "Liberty Village Print Services\nNo. 77970\nDate: 2026-10-18\nPO: PO-9323\nCurrency: CAD\n\n799 x Small Purple Babushka Notebook @ $0.21\n399 x Tropical Passport Cover @ $2.10\n100 x Bottle Bag Retrospot @ $2.10\n133 x Black Tea Towel Classic Design @ $1.25\n233 x Kings Choice Tea Caddy @ $2.46\n166 x Sewing Box Retrospot Design @ $14.95\n33 x Fairy Soap Soap Holder @ $1.69\n333 x Red Retrospot Peg Bag @ $4.96\n33 x Blue Paisley Sketchbook @ $3.75\n100 x Set/3 Vanilla Scented Candle In Box @ $4.25\n100 x Pens Assorted Funny Face @ $1.63\n299 x Yellow Coat Rack Paris Fashion @ $4.95\n333 x Turquoise Glass Tassle Bag Charm @ $1.66\n166 x Retro Pill Box Key Chain,The King @ $0.19\n67 x Red Retrospot Traditional Teapot @ $16.63\n799 x Colour Glass T-Light Holder Hanging @ $0.65\n399 x Red  Harmonica In Box @ $1.25\n\nSubtotal: $11,052.70\nTax (HST 13%): $1,436.85\nTotal: $12,489.55\n",
+    "body": "Hello,\n\nAttached is invoice No. 77970 dated 2026-10-18. Payment terms net 30.\n\nRegards,\nMarc Dubois",
+    "from": "Marc Dubois <billing@libertyvillageprintservices.example>",
+    "received_at": "2026-11-01T12:32:11.488222-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice No. 77970 attached"
+  },
+  {
+    "bill_id": "B081",
+    "bill_text": "Portlands Fasteners Co.\nInvoice # 39213\nDate: Oct 19 2026\nCurrency: CAD\n\n2671 x Children'S Apron Dolly Girl @ $2.10\n411 x Set/6 Green Spring Paper Cups @ $0.19\n514 x Tradtional Alphabet Stamp Set @ $4.95\n103 x Doormat Respectable House @ $14.13\n\nSubtotal: $9,686.88\nTax (HST 13%): $1,259.29\nTotal: $10,946.17\n",
+    "body": "Hi,\n\nSending over invoice Invoice # 39213. Let me know if you need anything else.\n\nBest,\nMarc Dubois",
+    "from": "Marc Dubois <billing@portlandsfastenersco.example>",
+    "received_at": "2026-10-31T19:18:32.551983-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Portlands Fasteners Co. - invoice for October"
+  },
+  {
+    "bill_id": "B082",
+    "bill_text": "GTA Paper & Board Corp\nNo. 97114\nDate: Oct 17 2026\nPO: PO-5227\nCurrency: CAD\n\n951 x Red Retrospot Childrens Umbrella @ $3.25\n317 x Best Dad Candle Letters @ $0.85\n4120 x Hanging Heart With Bell @ $0.83\n317 x Vintage Glass Coffee Caddy @ $5.95\n158 x Ridged Glass Posy Vase @ $1.63\n792 x White Sage Incense @ $0.42\n3803 x Travel Card Wallet Keep Calm @ $0.42\n\nSubtotal: $10,853.39\nTax (HST 13%): $1,410.94\nTotal: $12,264.33\n",
+    "body": "Hi,\n\nSending over invoice No. 97114. Let me know if you need anything else.\n\nBest,\nAisha Khan",
+    "from": "Aisha Khan <billing@gtapaperboardcorp.example>",
+    "received_at": "2026-11-01T11:38:06.464622-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice No. 97114 from GTA Paper & Board Corp"
+  },
+  {
+    "bill_id": "B083",
+    "bill_text": "St. Lawrence Produce Wholesale\nInvoice # 31783\nDate: 2026-10-20\nPO: PO-2579\nCurrency: CAD\n\n368 x Namaste Swagat Incense @ $0.30\n245 x Set 36 Colour Pencils Dolly Girl @ $1.25\n\nSubtotal: $416.65\nTax (HST 13%): $54.16\nTotal: $470.81\n",
+    "body": "Hi AP team,\n\nPlease find our invoice Invoice # 31783 attached for payment.\n\nThanks,\nDan Petrov",
+    "from": "Dan Petrov <billing@stlawrenceproducewholesale.example>",
+    "received_at": "2026-10-29T18:47:20.247773-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice Invoice # 31783 from St. Lawrence Produce Wholesale"
+  },
+  {
+    "bill_id": "B084",
+    "bill_text": "Mississauga Plastics Inc\nInvoice # 64033\nDate: 10/10/2026\nPO: PO-9725\nCurrency: CAD\n\n13 x Polyester Filler Pad 45X45Cm @ $1.55\n3 x Triangular Pouffe Vintage @ $29.17\n64 x Magic Drawing Slate Go To The Fair @ $0.42\n134 x Red Retrospot Picnic Bag @ $2.55\n345 x Jumbo Bag Alphabet @ $4.95\n32 x Eau De Nile Heart Shape Photo Frame @ $1.65\n4 x Alarm Clock Bakelike Pink @ $8.29\n8 x English Rose Notebook A6 Size @ $0.65\n32 x Pink Heart Shape Egg Frying Pan @ $1.45\n16 x Baking Mould Heart Milk Chocolate @ $2.10\n4 x Vintage Glass Coffee Caddy @ $5.95\n15 x Charlotte Bag Apples Design @ $1.63\n1 x Mouse Toy With Pink T-Shirt @ $3.75\n336 x Single Wire Hook Pink Heart @ $1.25\n1 x Sandwich Bath Sponge @ $2.46\n5 x Mini Playing Cards Dolly Girl @ $0.42\n\nSubtotal: $2,831.71\nTax (HST 13%): $368.12\nTotal: $3,199.83\n",
+    "body": "Hi AP team,\n\nPlease find our invoice Invoice # 64033 attached for payment.\n\nThanks,\nPriya Nair",
+    "from": "Priya Nair <billing@mississaugaplasticsinc.example>",
+    "received_at": "2026-10-29T02:42:24.411087-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Mississauga Plastics Inc - invoice for October"
+  },
+  {
+    "bill_id": "B085",
+    "bill_text": "Lakeshore Janitorial Supply\nNo. 78520\nDate: 22/10/2026\nCurrency: CAD\n\n31 x Antique Glass Dressing Table Pot @ $2.95\n42 x Cordial Jug @ $8.25\n752 x Vintage Heads And Tails Card Game @ $1.06\n10 x Childs Garden Trowel Blue @ $1.63\n52 x Christmas Table Silver Candle Spike @ $0.83\n104 x Party Time Pencil Erasers @ $0.21\n10 x Pack Of 12 Dolly Girl Tissues @ $0.39\n10 x French Style Storage Jar Cafe @ $0.29\n21 x Blue Stripe Ceramic Drawer Knob @ $3.29\n73 x Hanging Heart Zinc T-Light Holder @ $2.08\n21 x Flowers  Stickers @ $0.81\n10 x Dotcom Postage @ $2.51\n188 x Vintage Snakes & Ladders @ $3.75\n21 x Wicker Star @ $3.29\n21 x Medium Medina Stamped Metal Bowl @ $2.95\n251 x Pack Of 12 Traditional Crayons @ $0.42\n94 x Pack 3 Boxes Christmas Pannetone @ $5.06\n10 x Drawer Knob Crackle Glaze Blue @ $3.29\n63 x Spaceboy Wall Art @ $3.75\n376 x Small Popcorn Holder @ $0.85\n52 x Pink/Purple Circle Curtain @ $0.79\n31 x Hello Sailor Bathroom Set @ $3.75\n21 x Bunny Egg Garland @ $0.85\n\nSubtotal: $3,767.24\nTax (HST 13%): $489.74\nTotal: $4,256.98\n",
+    "body": "Hi AP team,\n\nPlease find our invoice No. 78520 attached for payment.\n\nThanks,\nPriya Nair",
+    "from": "Priya Nair <billing@lakeshorejanitorialsupply.example>",
+    "received_at": "2026-10-31T22:58:15.782934-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice No. 78520 from Lakeshore Janitorial Supply"
+  },
+  {
+    "bill_id": "B086",
+    "bill_text": "Kennedy Road Tire Depot\nINV-26215\nDate: 20/10/2026\nCurrency: CAD\n\n98 x Edwardian Parasol Black @ $4.95\n2 x Coffee Mug Pink Paisley Design @ $2.55\n7 x Homemade Jam Scented Candles @ $3.29\n13 x Paper Chain Kit Vintage Christmas @ $2.95\n489 x Pack Of 72 Retrospot Cake Cases @ $0.42\n3 x Measuring Tape Babushka Pink @ $2.95\n39 x Set/6 Collage Paper Plates @ $0.39\n10 x Vintage Christmas Tablecloth @ $12.50\n5 x Penny Farthing Birthday Card @ $0.83\n29 x Vintage Billboard Drink Me Mug @ $1.06\n7 x Record Frame 7\" Single Size @ $4.96\n\nSubtotal: $975.63\nTax (HST 13%): $126.83\nTotal: $1,102.46\n",
+    "body": "Hi AP team,\n\nPlease find our invoice INV-26215 attached for payment.\n\nThanks,\nPriya Nair",
+    "from": "Priya Nair <billing@kennedyroadtiredepot.example>",
+    "received_at": "2026-11-01T00:26:06.185485-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Please process: INV-26215"
+  },
+  {
+    "bill_id": "B087",
+    "bill_text": "Burlington Battery Supply\nInvoice # 33540\nDate: Oct 15 2026\nPO: PO-2206\nCurrency: CAD\n\n1 x Treasure Tin Buffalo Bill @ $4.13\n81 x 60 Cake Cases Vintage Christmas @ $0.55\n1 x Silver Jewelled Mirror Trinket Tray @ $9.95\n1 x 3 Raffia Ribbons 50'S Christmas @ $0.79\n1 x Purple Paper Parasol @ $5.79\n1 x Set Of 2 Ceramic Painted Hearts @ $1.45\n2 x Pack Of 12 Suki Tissues @ $0.83\n1 x Rose Du Sud Cosmetics Bag @ $4.25\n8 x Large Hanging Ivory & Red Wood Bird @ $0.65\n5 x Pink Heart Shape Egg Frying Pan @ $1.45\n1 x Laurel Heart Antique Silver @ $2.50\n1 x Metal Merry Christmas Wreath @ $1.95\n1 x Dotcom Postage @ $1,556.08\n2 x Key Fob , Garage Design @ $0.65\n22 x Traditional Modelling Clay @ $1.06\n1 x Zinc Willie Winkie  Candle Stick @ $1.63\n1 x Red Rocking Horse Hand Painted @ $2.46\n1 x Polka Dot Raffia Food Cover @ $3.75\n\nSubtotal: $1,678.01\nTax (HST 13%): $218.14\nTotal: $1,896.15\n",
+    "body": "Hi AP team,\n\nPlease find our invoice Invoice # 33540 attached for payment.\n\nThanks,\nTom Becker",
+    "from": "Tom Becker <billing@burlingtonbatterysupply.example>",
+    "received_at": "2026-10-26T13:34:22.417695-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice Invoice # 33540 attached"
+  },
+  {
+    "bill_id": "B088",
+    "bill_text": "Birchmount Bearing Company\nINV-71878\nDate: Nov 01 2026\nPO: PO-8614\nCurrency: CAD\n\n28 x Charlotte Bag Suki Design @ $2.46\n7 x Blue Drawer Knob Acrylic Edwardian @ $1.25\n1 x Butterfly Hair Band @ $2.48\n1 x Hanging  Butterfly T-Light Holder @ $1.25\n1 x Storage Tin Vintage Leaf @ $2.89\n11 x Set Of 12 Fairy Cake Baking Cases @ $0.83\n10 x Lipstick Pen Red @ $0.42\n14 x Doormat Black Flock @ $7.08\n2 x Charlie+Lola My Room Door Sign @ $0.39\n1 x Angel Decoration Painted Zinc @ $0.65\n1 x Place Setting White Star @ $1.63\n2 x Queen Of The Skies Passport Cover @ $1.69\n41 x Silver Hanging T-Light Holder @ $1.45\n1 x Green Stone/Crystal Earrings @ $2.96\n\nSubtotal: $265.55\nTax (HST 13%): $34.52\nTotal: $300.07\n",
+    "body": "Hi AP team,\n\nPlease find our invoice INV-71878 attached for payment.\n\nThanks,\nMarc Dubois",
+    "from": "Marc Dubois <billing@birchmountbearingcompany.example>",
+    "received_at": "2026-11-02T07:50:25.743371-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Please process: INV-71878"
+  },
+  {
+    "bill_id": "B089",
+    "bill_text": "Finch Corridor IT Hardware\nInvoice # 36635\nDate: 2026-10-08\nPO: PO-2550\nCurrency: CAD\n\n71 x Ass Floral Print Spirit Level @ $0.79\n71 x Rain Poncho Retrospot @ $0.85\n284 x Dinosaur Height Chart Sticker Set @ $2.95\n852 x Set Of 3 Coloured  Flying Ducks @ $4.65\n1136 x Food/Drink Sponge Stickers @ $0.21\n142 x Calendar In Season Design @ $2.95\n852 x Hanging Quilted Patchwork Apples @ $0.83\n1136 x Large Ceramic Top Storage Jar @ $1.45\n308 x Toast Its - I Love You @ $1.25\n1136 x Ice Cream Pen Lip Gloss @ $1.25\n237 x Rain Poncho Retrospot @ $0.85\n47 x Crochet Rose Purse With Suede Back @ $5.79\n189 x Dolly Girl Childrens Bowl @ $1.25\n\nSubtotal: $10,442.69\nTax (HST 13%): $1,357.55\nTotal: $11,800.24\n",
+    "body": "Hi AP team,\n\nPlease find our invoice Invoice # 36635 attached for payment.\n\nThanks,\nDan Petrov",
+    "from": "Dan Petrov <billing@finchcorridorithardware.example>",
+    "received_at": "2026-10-26T22:38:08.052907-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Finch Corridor IT Hardware - invoice for October"
+  },
+  {
+    "bill_id": "B090",
+    "bill_text": "St. Lawrence Produce Wholesale\nINV-96283\nDate: 19/10/2026\nCurrency: CAD\n\n11 x Flowers  Stickers @ $1.63\n69 x A4 Wall Tidy Blue Office @ $0.65\n172 x Blue Spot Ceramic Drawer Knob @ $1.45\n103 x Purple Enamel Flower Ring @ $2.95\n29 x Roll Wrap Vintage Spot @ $2.46\n\nSubtotal: $687.37\nTax (HST 13%): $89.36\nTotal: $776.73\n",
+    "body": "Hello,\n\nAttached is invoice INV-96283 dated 2026-10-19. Payment terms net 30.\n\nRegards,\nDan Petrov",
+    "from": "Dan Petrov <billing@stlawrenceproducewholesale.example>",
+    "received_at": "2026-10-29T03:56:07.320821-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice INV-96283 attached"
+  },
+  {
+    "bill_id": "B091",
+    "bill_text": "Scarborough Steel Supply\nInvoice # 41973\nDate: 11/10/2026\nPO: PO-6458\nCurrency: CAD\n\n74 x English Rose Notebook A7 Size @ $0.42\n35 x Washroom Metal Sign @ $1.45\n4 x Black Candelabra T-Light Holder @ $1.63\n4 x Candy Spot Egg Warmer Rabbit @ $2.51\n44 x Chilli Lights @ $12.46\n4 x Glitter Christmas Tree With Bells @ $4.13\n9 x Set 3 Paper Vintage Chick Paper Egg @ $2.95\n26 x Feltcraft 6 Flower Friends @ $5.06\n9 x Party Invites Balloon Girl @ $0.85\n524 x Ribbon Reel Snowy Village @ $1.45\n9 x Swiss Roll Towel, Chocolate  Spots @ $2.51\n210 x Set Of 3 Regency Cake Tins @ $4.15\n4 x Blue Easter Egg Hunt Start Post @ $1.95\n39 x Jumbo Bag Paisley Park @ $2.08\n4 x Rocking Horse Green Christmas @ $1.66\n118 x Cinammon Set Of 9 T-Lights @ $0.85\n4 x Gardeners Kneeling Pad Keep Calm @ $1.65\n48 x Denim Patch Purse Pink Butterfly @ $1.65\n13 x Ribbon Reel Stripes Design @ $3.29\n26 x Retrospot Candle  Small @ $1.69\n4 x Oven Mitt Apples Design @ $3.75\n17 x Chocolate 3 Wick Morris Box Candle @ $3.36\n\nSubtotal: $2,923.29\nTax (HST 13%): $380.03\nTotal: $3,303.32\n",
+    "body": "Hi AP team,\n\nPlease find our invoice Invoice # 41973 attached for payment.\n\nThanks,\nDan Petrov",
+    "from": "Dan Petrov <billing@scarboroughsteelsupply.example>",
+    "received_at": "2026-10-27T20:40:03.530859-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice Invoice # 41973 attached"
+  },
+  {
+    "bill_id": "B092",
+    "bill_text": "St. Lawrence Produce Wholesale\nInvoice # 55427\nDate: 19/10/2026\nPO: PO-3805\nCurrency: CAD\n\n90 x Polkadot Rain Hat @ $0.85\n315 x Cute Cats Tape @ $0.42\n\nSubtotal: $208.80\nTax (HST 13%): $27.14\nTotal: $235.94\n",
+    "body": "Hi,\n\nSending over invoice Invoice # 55427. Let me know if you need anything else.\n\nBest,\nTom Becker",
+    "from": "Tom Becker <billing@stlawrenceproducewholesale.example>",
+    "received_at": "2026-10-27T09:17:46.157031-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice Invoice # 55427 from St. Lawrence Produce Wholesale"
+  },
+  {
+    "bill_id": "B093",
+    "bill_text": "Danforth Deli Provisions\nInvoice # 18962\nDate: 2026-10-17\nCurrency: CAD\n\n2034 x Set/10 Pink Polkadot Party Candles @ $1.25\n814 x Red Dragonfly Helicopter @ $7.95\n\nSubtotal: $9,013.80\nTax (HST 13%): $1,171.79\nTotal: $10,185.59\n",
+    "body": "Hello,\n\nAttached is invoice Invoice # 18962 dated 2026-10-17. Payment terms net 30.\n\nRegards,\nTom Becker",
+    "from": "Tom Becker <billing@danforthdeliprovisions.example>",
+    "received_at": "2026-10-29T08:24:35.279451-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Please process: Invoice # 18962"
+  },
+  {
+    "bill_id": "B094",
+    "bill_text": "Portlands Fasteners Co.\nINV-86953\nDate: Oct 10 2026\nPO: PO-7905\nCurrency: CAD\n\n37 x Baking Mould Toffee Cup Chocolate @ $2.10\n1 x Alarm Clock Bakelike Ivory @ $5.91\n33 x Charlotte Bag Suki Design @ $2.46\n28 x Red Rocking Horse Hand Painted @ $1.25\n1 x Airline Bag Vintage Jet Set White @ $4.25\n1 x Metal Sign Her Dinner Is Served @ $5.79\n2 x Drawer Knob Crackle Glaze Ivory @ $1.65\n\nSubtotal: $213.13\nTax (HST 13%): $27.71\nTotal: $240.84\n",
+    "body": "Hi,\n\nSending over invoice INV-86953. Let me know if you need anything else.\n\nBest,\nSofia Rossi",
+    "from": "Sofia Rossi <billing@portlandsfastenersco.example>",
+    "received_at": "2026-10-29T01:49:32.456136-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Please process: INV-86953"
+  },
+  {
+    "bill_id": "B095",
+    "bill_text": "Mississauga Plastics Inc\nINV-15192\nDate: 18/10/2026\nPO: PO-6720\nCurrency: CAD\n\n28 x Poppy'S Playhouse Bedroom @ $4.13\n69 x Set Of 2 Christmas Decoupage Candle @ $1.63\n331 x Pack Of 12 Red Retrospot Tissues @ $0.39\n662 x Gold Wine Goblet @ $0.79\n14 x Dotcom Postage @ $93.75\n97 x Set/20 Red Retrospot Paper Napkins @ $1.63\n1379 x Paper Chain Kit 50'S Christmas @ $2.55\n\nSubtotal: $5,867.24\nTax (HST 13%): $762.74\nTotal: $6,629.98\n",
+    "body": "Hi AP team,\n\nPlease find our invoice INV-15192 attached for payment.\n\nThanks,\nDan Petrov",
+    "from": "Dan Petrov <billing@mississaugaplasticsinc.example>",
+    "received_at": "2026-10-31T12:59:42.168618-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice INV-15192 from Mississauga Plastics Inc"
+  },
+  {
+    "bill_id": "B096",
+    "bill_text": "Roncesvalles Refrigeration\nInvoice # 42633\nDate: 2026-10-26\nCurrency: CAD\n\n42 x Vintage Billboard Drink Me Mug @ $1.06\n12 x Wooden Frame Antique White @ $7.46\n11 x Baking Set 9 Piece Retrospot @ $4.95\n2 x Set Of 6 Strawberry Chopsticks @ $2.46\n4 x Wicker Star @ $2.10\n28 x Keep Calm Wall Art @ $6.98\n\nSubtotal: $397.25\nTax (HST 13%): $51.64\nTotal: $448.89\n",
+    "body": "Hi AP team,\n\nPlease find our invoice Invoice # 42633 attached for payment.\n\nThanks,\nSofia Rossi",
+    "from": "Sofia Rossi <billing@roncesvallesrefrigeration.example>",
+    "received_at": "2026-11-01T03:41:35.063525-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice Invoice # 42633 from Roncesvalles Refrigeration"
+  },
+  {
+    "bill_id": "B097",
+    "bill_text": "King West Coffee Roasters\nINV-66270\nDate: Oct 20 2026\nCurrency: CAD\n\n41 x Red Toadstool Led Night Light @ $4.13\n690 x Lunch Bag Vintage Doily @ $1.45\n41 x Large Cake Stand  Hanging Strawbery @ $9.95\n21 x Large Pink Glass Sundae Dish @ $2.46\n7 x Number Tile Cottage Garden 9 @ $4.13\n103 x Hot Water Bottle Keep Calm @ $8.29\n14 x Herb Marker Mint @ $1.63\n69 x Alarm Clock Bakelike Red @ $8.29\n662 x Travel Card Wallet Vintage Ticket @ $0.42\n28 x Heart Of Wicker Small @ $3.29\n21 x Red Stripe Ceramic Drawer Knob @ $2.46\n\nSubtotal: $3,528.87\nTax (HST 13%): $458.75\nTotal: $3,987.62\n",
+    "body": "Hi,\n\nSending over invoice INV-66270. Let me know if you need anything else.\n\nBest,\nTom Becker",
+    "from": "Tom Becker <billing@kingwestcoffeeroasters.example>",
+    "received_at": "2026-10-29T07:16:46.526907-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice INV-66270 from King West Coffee Roasters"
+  },
+  {
+    "bill_id": "B098",
+    "bill_text": "Birchmount Bearing Company\nINV-66965\nDate: 22/10/2026\nPO: PO-1965\nCurrency: CAD\n\n687 x Hand Warmer Babushka Design @ $2.10\n114 x Christmas Pudding Trinket Pot @ $1.45\n381 x Large Heart Measuring Spoons @ $1.65\n10 x Vintage Cream Cat Food Container @ $12.46\n10 x Set Of 5 Mini Grocery Magnets @ $4.13\n143 x French Blue Metal Door Sign 3 @ $1.25\n162 x Mini Playing Cards Fun Fair @ $0.42\n\nSubtotal: $2,649.34\nTax (HST 13%): $344.41\nTotal: $2,993.75\n",
+    "body": "Hello,\n\nAttached is invoice INV-66965 dated 2026-10-22. Payment terms net 30.\n\nRegards,\nLena Fischer",
+    "from": "Lena Fischer <billing@birchmountbearingcompany.example>",
+    "received_at": "2026-11-01T12:02:48.792761-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice INV-66965 from Birchmount Bearing Company"
+  },
+  {
+    "bill_id": "B099",
+    "bill_text": "Etobicoke Electrical Distributors\nNo. 32225\nDate: Oct 13 2026\nPO: PO-2383\nCurrency: CAD\n\n4 x Butterflies Stickers @ $0.79\n2 x Recycling Bag Retrospot @ $2.10\n8 x Gardenia 1 Wick Morris Boxed Candle @ $4.25\n8 x Red Retrospot Cake Stand @ $8.29\n8 x Set/4 Blue Flower Candles In Bowl @ $1.65\n2 x Pink  Polkadot Plate @ $3.29\n31 x Metal 4 Hook Hanger French Chateau @ $3.29\n\nSubtotal: $229.45\nTax (HST 13%): $29.83\nTotal: $259.28\n",
+    "body": "Hi AP team,\n\nPlease find our invoice No. 32225 attached for payment.\n\nThanks,\nTom Becker",
+    "from": "Tom Becker <billing@etobicokeelectricaldistributors.example>",
+    "received_at": "2026-10-30T09:50:21.403066-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Etobicoke Electrical Distributors - invoice for October"
+  },
+  {
+    "bill_id": "B100",
+    "bill_text": "Sheppard Glass & Mirror\nNo. 41524\nDate: Oct 22 2026\nPO: PO-5383\nCurrency: CAD\n\n10 x Blue Murano Twist Necklace @ $9.96\n20 x Cosy Slipper Shoes Large Green @ $2.95\n228 x Party Bunting @ $5.79\n20 x Blue Stripe Ceramic Drawer Knob @ $3.29\n50 x Red Gingham Teddy Bear @ $2.95\n89 x Reindeer Heart Decoration Silver @ $1.63\n40 x Happy Stencil Craft @ $1.25\n20 x Vintage Doily Jumbo Bag Red @ $2.08\n30 x Dinosaurs  Writing Set @ $3.29\n218 x Christmas Hanging Tree With Bell @ $0.83\n10 x Blue Polkadot Cup @ $1.66\n951 x Regency Tea Plate Roses @ $1.45\n10 x Moroccan Beaten Metal Mirror @ $3.95\n218 x Jumbo Bag Scandinavian Blue Paisley @ $4.13\n30 x Lunch Bag Cars Blue @ $1.65\n129 x 60 Teatime Fairy Cake Cases @ $1.25\n99 x Sandwich Bath Sponge @ $1.25\n79 x Ceramic Heart Fairy Cake Money Bank @ $3.29\n\nSubtotal: $5,138.13\nTax (HST 13%): $667.96\nTotal: $5,806.09\n",
+    "body": "Hi,\n\nSending over invoice No. 41524. Let me know if you need anything else.\n\nBest,\nAisha Khan",
+    "from": "Aisha Khan <billing@sheppardglassmirror.example>",
+    "received_at": "2026-11-01T14:56:17.068528-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice No. 41524 from Sheppard Glass & Mirror"
+  },
+  {
+    "bill_id": "B101",
+    "bill_text": "St. Lawrence Produce Wholesale\nInvoice # 78136\nDate: Oct 28 2026\nPO: PO-7031\nCurrency: CAD\n\n183 x Set Of 2 Ceramic Painted Hearts @ $1.45\n1098 x Lovebird Hanging Decoration White @ $1.63\n\nSubtotal: $2,055.09\nTax (HST 13%): $267.16\nTotal: $2,322.25\n",
+    "body": "Hi,\n\nSending over invoice Invoice # 78136. Let me know if you need anything else.\n\nBest,\nJames Whitfield",
+    "from": "James Whitfield <billing@stlawrenceproducewholesale.example>",
+    "received_at": "2026-10-31T09:55:48.019979-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Please process: Invoice # 78136"
+  },
+  {
+    "bill_id": "B102",
+    "bill_text": "Roncesvalles Refrigeration\nInvoice # 86605\nDate: 2026-10-29\nPO: PO-4836\nCurrency: CAD\n\n165 x Magic Garden Felt Garland @ $4.13\n2636 x Angel Decoration Painted Zinc @ $0.65\n1483 x Fairy Dreams Incense @ $0.42\n\nSubtotal: $3,017.71\nTax (HST 13%): $392.30\nTotal: $3,410.01\n",
+    "body": "Hi,\n\nSending over invoice Invoice # 86605. Let me know if you need anything else.\n\nBest,\nJames Whitfield",
+    "from": "James Whitfield <billing@roncesvallesrefrigeration.example>",
+    "received_at": "2026-11-01T18:26:01.992301-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice Invoice # 86605 from Roncesvalles Refrigeration"
+  },
+  {
+    "bill_id": "B103",
+    "bill_text": "Don Mills Chemical Supply\nInvoice # 69635\nDate: Oct 14 2026\nPO: PO-8562\nCurrency: CAD\n\n1664 x Wrap English Rose @ $0.36\n42 x Set/4 Badges Beetles @ $0.85\n17 x Pink Breakfast Cup And Saucer @ $0.39\n83 x Party Time Pencil Erasers @ $0.21\n200 x Keep Calm Wall Art @ $6.98\n350 x Musical Zinc Heart Decoration @ $0.29\n75 x Paper Bunting Retrospot @ $5.79\n25 x English Rose Notebook A6 Size @ $0.65\n191 x Party Bunting @ $5.79\n\nSubtotal: $3,712.69\nTax (HST 13%): $482.65\nTotal: $4,195.34\n",
+    "body": "Hi AP team,\n\nPlease find our invoice Invoice # 69635 attached for payment.\n\nThanks,\nSofia Rossi",
+    "from": "Sofia Rossi <billing@donmillschemicalsupply.example>",
+    "received_at": "2026-10-28T13:45:58.081845-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice Invoice # 69635 attached"
+  },
+  {
+    "bill_id": "B104",
+    "bill_text": "Oakville Oils & Lubricants\nINV-96793\nDate: 11/10/2026\nPO: PO-6939\nCurrency: CAD\n\n3 x Party Invites Dinosaurs @ $1.63\n2 x Manual @ $112.35\n81 x Blue Charlie+Lola Personal Doorsign @ $0.39\n\nSubtotal: $261.18\nTax (HST 13%): $33.95\nTotal: $295.13\n",
+    "body": "Hello,\n\nAttached is invoice INV-96793 dated 2026-10-11. Payment terms net 30.\n\nRegards,\nJames Whitfield",
+    "from": "James Whitfield <billing@oakvilleoilslubricants.example>",
+    "received_at": "2026-10-28T19:54:52.731627-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice INV-96793 from Oakville Oils & Lubricants"
+  },
+  {
+    "bill_id": "B105",
+    "bill_text": "Danforth Deli Provisions\nInvoice # 40159\nDate: 2026-10-16\nCurrency: CAD\n\n1 x Clear Crystal Star Phone Charm @ $1.63\n22 x Small Deco Jewellery Stand @ $7.45\n3 x Large Circular Mirror Mobile @ $2.46\n5 x Cake Stand White Two Tier Lace @ $8.50\n4 x Easter Decoration Hanging Bunny @ $0.65\n\nSubtotal: $218.01\nTax (HST 13%): $28.34\nTotal: $246.35\n",
+    "body": "Hi AP team,\n\nPlease find our invoice Invoice # 40159 attached for payment.\n\nThanks,\nJames Whitfield",
+    "from": "James Whitfield <billing@danforthdeliprovisions.example>",
+    "received_at": "2026-11-01T13:31:26.301744-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice Invoice # 40159 from Danforth Deli Provisions"
+  },
+  {
+    "bill_id": "B106",
+    "bill_text": "Thames Engineering Supplies\nNo. 24525\nDate: 14/10/2026\nPO: PO-6373\nCurrency: GBP\n\n27 x Box Of 24 Cocktail Parasols @ \u00a31.63\n109 x Glitter Hanging Butterfly String @ \u00a34.13\n328 x Blue Egg  Spoon @ \u00a30.12\n109 x Ceramic Heart Fairy Cake Money Bank @ \u00a33.29\n82 x Black Pirate Treasure Chest @ \u00a34.13\n218 x Sewing Box Retrospot Design @ \u00a33.95\n\nSubtotal: \u00a32,091.91\nTax (VAT 0%): \u00a30.00\nTotal: \u00a32,091.91\n",
+    "body": "Hi,\n\nSending over invoice No. 24525. Let me know if you need anything else.\n\nBest,\nSofia Rossi",
+    "from": "Sofia Rossi <billing@thamesengineeringsupplies.example>",
+    "received_at": "2026-10-29T02:08:36.499589-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Please process: No. 24525"
+  },
+  {
+    "bill_id": "B107",
+    "bill_text": "Liberty Village Print Services\nNo. 96416\nDate: 23/10/2026\nCurrency: CAD\n\n26 x Pink/Purple Circle Curtain @ $4.65\n45 x Chocolate Hot Water Bottle @ $12.46\n45 x Lipstick Pen Fuschia @ $0.83\n6 x White Heart Of Glass Bracelet @ $5.95\n45 x Giraffe Wooden Ruler @ $1.95\n39 x Pink Stitched Wall Clock @ $0.79\n466 x Set/6 Red Spotty Paper Cups @ $0.65\n13 x Box Of Vintage Jigsaw Blocks @ $5.95\n91 x Balloons  Writing Set @ $0.83\n\nSubtotal: $1,328.99\nTax (HST 13%): $172.77\nTotal: $1,501.76\n",
+    "body": "Hi AP team,\n\nPlease find our invoice No. 96416 attached for payment.\n\nThanks,\nDan Petrov",
+    "from": "Dan Petrov <billing@libertyvillageprintservices.example>",
+    "received_at": "2026-10-31T00:26:03.784277-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice No. 96416 from Liberty Village Print Services"
+  },
+  {
+    "bill_id": "B108",
+    "bill_text": "Leslieville Lighting Co\nINV-33728\nDate: 2026-10-11\nPO: PO-9580\nCurrency: CAD\n\n173 x Metal Sign His Dinner Is Served @ $2.95\n115 x Ant Copper Pink Boudicca Bracelet @ $4.98\n202 x Set 2 Tea Towels I Love London @ $2.95\n173 x Colour Glass. Star T-Light Holder @ $6.77\n29 x Red Retrospot Round Cake Tins @ $20.79\n173 x Scottie Dogs Baby Bib @ $0.83\n29 x Daisy Garden Marker @ $2.46\n173 x Red Retrospot Cake Stand @ $9.95\n173 x Card Party Games @ $0.42\n58 x Overnight Bag Vintage Rose Paisley @ $11.02\n29 x Wall Art Vintage Heart @ $4.95\n404 x Tote Bag I Love London @ $4.13\n202 x Pack 3 Boxes Christmas Panettone @ $4.13\n86 x Blue Dragonfly Helicopter @ $8.47\n58 x Chocolate Calculator @ $1.65\n58 x Embroidered Ribbon Reel Emily @ $2.08\n29 x Set Of 36 Dolly Girl Paper Doilies @ $2.92\n29 x Pink Drawer Knob Acrylic Edwardian @ $2.46\n\nSubtotal: $9,848.28\nTax (HST 13%): $1,280.28\nTotal: $11,128.56\n",
+    "body": "Hi AP team,\n\nPlease find our invoice INV-33728 attached for payment.\n\nThanks,\nMarc Dubois",
+    "from": "Marc Dubois <billing@leslievillelightingco.example>",
+    "received_at": "2026-10-27T05:18:56.224994-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice INV-33728 attached"
+  },
+  {
+    "bill_id": "B109",
+    "bill_text": "Liberty Village Print Services\nINV-65668\nDate: Oct 20 2026\nCurrency: CAD\n\n70 x 3D Dog Picture Playing Cards @ $2.95\n482 x Party Bunting @ $10.79\n12 x Rocking Horse Red Christmas @ $1.63\n311 x Christmas Craft Little Friends @ $1.85\n420 x Pens Assorted Funny Face @ $0.72\n47 x Letter \"G\" Bling Key Ring @ $0.29\n12 x Lunch Bag Vintage Leaf Design @ $4.96\n4 x Charlie And Lola Figures Tins @ $5.79\n4 x Manual @ $112.35\n16 x 3 Stripey Mice Feltcraft @ $4.13\n\nSubtotal: $6,916.38\nTax (HST 13%): $899.13\nTotal: $7,815.51\n",
+    "body": "Hello,\n\nAttached is invoice INV-65668 dated 2026-10-20. Payment terms net 30.\n\nRegards,\nLena Fischer",
+    "from": "Lena Fischer <billing@libertyvillageprintservices.example>",
+    "received_at": "2026-10-30T12:25:07.000848-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice INV-65668 attached"
+  },
+  {
+    "bill_id": "B110",
+    "bill_text": "Liberty Village Print Services\nNo. 46786\nDate: 14/10/2026\nCurrency: CAD\n\n12 x Set 3 Paper Vintage Chick Paper Egg @ $2.95\n53 x Set Of 60 I Love London Cake Cases @ $0.55\n35 x 4 Pink Dinner Candle Silver Flock @ $2.55\n12 x Gardenia 1 Wick Morris Boxed Candle @ $1.25\n284 x Party Metal Sign @ $1.45\n24 x Toy Tidy Pink Polkadot @ $2.10\n24 x Folding Butterfly Mirror Hot Pink @ $0.83\n30 x English Rose Hot Water Bottle @ $5.91\n12 x Retro Longboard Ironing Board Cover @ $1.25\n12 x English Rose Hot Water Bottle @ $4.25\n12 x Plasters In Tin Skulls @ $3.29\n30 x Pack Of 6 Skull Paper Cups @ $0.65\n\nSubtotal: $953.20\nTax (HST 13%): $123.92\nTotal: $1,077.12\n",
+    "body": "Hi,\n\nSending over invoice No. 46786. Let me know if you need anything else.\n\nBest,\nJames Whitfield",
+    "from": "James Whitfield <billing@libertyvillageprintservices.example>",
+    "received_at": "2026-10-29T06:42:57.741285-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice No. 46786 from Liberty Village Print Services"
+  },
+  {
+    "bill_id": "B111",
+    "bill_text": "Don Mills Chemical Supply\nINV-70276\nDate: Oct 25 2026\nPO: PO-5505\nCurrency: CAD\n\n51 x Egg Frying Pan Red @ $4.13\n360 x Travel Card Wallet Union Jack @ $0.42\n514 x Fan Black Frame @ $0.29\n103 x Apron Apple Delight @ $4.95\n51 x White Honeycomb Paper Garland @ $3.36\n154 x Heart Filigree Dove Large @ $3.29\n51 x Ivory String Curtain With Pole @ $1.95\n617 x Number Tile Vintage Font 0 @ $0.42\n309 x French Blue Metal Door Sign 9 @ $1.25\n257 x Mini Ladle Love Heart Red @ $0.42\n617 x Retrospot Tea Set Ceramic 11 Pc @ $4.95\n257 x Fawn Blue Hot Water Bottle @ $5.91\n257 x Man Flu Metal Sign @ $4.13\n154 x Tv Dinner Tray Vintage Paisley @ $4.21\n51 x Blue Felt Hanging Heart With Flower @ $1.63\n206 x Christmas Tree Decoration With Bell @ $0.42\n\nSubtotal: $9,003.96\nTax (HST 13%): $1,170.51\nTotal: $10,174.47\n",
+    "body": "Hello,\n\nAttached is invoice INV-70276 dated 2026-10-25. Payment terms net 30.\n\nRegards,\nDan Petrov",
+    "from": "Dan Petrov <billing@donmillschemicalsupply.example>",
+    "received_at": "2026-10-28T16:26:42.097811-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice INV-70276 from Don Mills Chemical Supply"
+  },
+  {
+    "bill_id": "B112",
+    "bill_text": "Kennedy Road Tire Depot\nInvoice # 72055\nDate: 2026-10-08\nPO: PO-5151\nCurrency: CAD\n\n51 x Large Jewellery Stand @ $12.50\n85 x Christmas Musical Zinc Star @ $0.83\n\nSubtotal: $708.05\nTax (HST 13%): $92.05\nTotal: $800.10\n",
+    "body": "Hi,\n\nSending over invoice Invoice # 72055. Let me know if you need anything else.\n\nBest,\nTom Becker",
+    "from": "Tom Becker <billing@kennedyroadtiredepot.example>",
+    "received_at": "2026-10-26T09:55:41.989699-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Please process: Invoice # 72055"
+  },
+  {
+    "bill_id": "B113",
+    "bill_text": "Humber HVAC Parts\nInvoice # 51805\nDate: 22/10/2026\nCurrency: CAD\n\n2 x Rose Folkart Heart Decorations @ $1.25\n51 x Enamel Flower Jug Cream @ $5.45\n2 x Egg Cup Henrietta Hen Pink @ $2.46\n1 x Origami Sandlewood Incense+Flower @ $2.10\n1 x Christmas Musical Zinc Star @ $0.83\n1 x Set/3 Christmas Decoupage Candles @ $2.51\n1 x Multicolour Rabbit Egg Warmer @ $2.10\n6 x Blue Refectory Clock @ $8.15\n3 x Retrospot Childrens Apron @ $4.21\n3 x Classic Glass Sweet Jar @ $4.15\n1 x Blue Charlie+Lola Personal Doorsign @ $0.85\n13 x Strawberry Ceramic Trinket Box @ $3.29\n1 x Herb Marker Rosemary @ $1.66\n77 x Brocade Ring Purse @ $0.25\n10 x Multi Colour Silver T-Light Holder @ $1.84\n13 x Metal Sign His Dinner Is Served @ $0.79\n53 x Plasters In Tin Spaceboy @ $3.95\n3 x Brocade Ring Purse @ $0.21\n9 x Strawberry Lunch Box With Cutlery @ $2.55\n2 x Balloon Art Make Your Own Flowers @ $1.95\n\nSubtotal: $696.92\nTax (HST 13%): $90.60\nTotal: $787.52\n",
+    "body": "Hi,\n\nSending over invoice Invoice # 51805. Let me know if you need anything else.\n\nBest,\nMarc Dubois",
+    "from": "Marc Dubois <billing@humberhvacparts.example>",
+    "received_at": "2026-10-29T20:37:24.155545-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Please process: Invoice # 51805"
+  },
+  {
+    "bill_id": "B114",
+    "bill_text": "Roncesvalles Refrigeration\nINV-10909\nDate: 16/10/2026\nCurrency: CAD\n\n20 x Biscuits Small Bowl Light Blue @ $0.42\n20 x Large Purple Babushka Notebook @ $1.25\n7 x Red Charlie+Lola Personal Doorsign @ $5.79\n39 x Moody Girl Door Hanger @ $1.45\n7 x Crystal Frog Phone Charm @ $1.66\n117 x Set Of 4 Knick Knack Tins London @ $4.15\n13 x Set Of 3 Bird Light Pink Feather @ $1.25\n13 x Square Metal Candleholder Base @ $0.85\n13 x Polkadot Coffee Cup & Saucer Pink @ $2.51\n7 x Blue Drawer Knob Acrylic Edwardian @ $2.46\n13 x Set Of 36 Dinosaur Paper Doilies @ $2.46\n\nSubtotal: $736.78\nTax (HST 13%): $95.78\nTotal: $832.56\n",
+    "body": "Hi,\n\nSending over invoice INV-10909. Let me know if you need anything else.\n\nBest,\nAisha Khan",
+    "from": "Aisha Khan <billing@roncesvallesrefrigeration.example>",
+    "received_at": "2026-10-27T09:04:07.665645-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice INV-10909 attached"
+  },
+  {
+    "bill_id": "B115",
+    "bill_text": "Weston Road Auto Parts\nINV-93902\nDate: Oct 25 2026\nPO: PO-6438\nCurrency: CAD\n\n1 x Manual @ $1,592.49\n1 x Set/4 Spring Flower Decoration @ $0.75\n15 x Lunch Bag Pink Polkadot @ $1.65\n35 x Pack Of 20 Napkins Pantry Design @ $0.72\n15 x Jumbo Storage Bag Suki @ $1.95\n5 x Brocade Ring Purse @ $0.39\n1 x Pens Assorted Spaceball @ $1.66\n1 x Dotcom Postage @ $852.25\n1 x Red Charlie+Lola Personal Doorsign @ $5.79\n1 x Pads To Match All Cushions @ $0.00\n\nSubtotal: $2,534.09\nTax (HST 13%): $329.43\nTotal: $2,863.52\n",
+    "body": "Hello,\n\nAttached is invoice INV-93902 dated 2026-10-25. Payment terms net 30.\n\nRegards,\nAisha Khan",
+    "from": "Aisha Khan <billing@westonroadautoparts.example>",
+    "received_at": "2026-10-30T19:59:11.915335-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Please process: INV-93902"
+  },
+  {
+    "bill_id": "B116",
+    "bill_text": "Hamilton Heavy Haulage\nInvoice # 65952\nDate: 2026-10-14\nPO: PO-6690\nCurrency: CAD\n\n152 x Lunch Bag  Black Skull. @ $4.21\n76 x Dotcom Postage @ $140.19\n\nSubtotal: $11,294.36\nTax (HST 13%): $1,468.27\nTotal: $12,762.63\n",
+    "body": "Hi AP team,\n\nPlease find our invoice Invoice # 65952 attached for payment.\n\nThanks,\nDan Petrov",
+    "from": "Dan Petrov <billing@hamiltonheavyhaulage.example>",
+    "received_at": "2026-10-29T00:14:59.438517-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice Invoice # 65952 attached"
+  },
+  {
+    "bill_id": "B117",
+    "bill_text": "Mississauga Plastics Inc\nINV-52177\nDate: Oct 20 2026\nPO: PO-5896\nCurrency: CAD\n\n44 x 12 Pencils Tall Tube Skulls @ $0.85\n4 x Laurel Star Antique Silver @ $2.46\n11 x Mini Cake Stand  Hanging Strawbery @ $1.65\n4 x Pink Diamante Pen In Gift Box @ $4.13\n7 x Wicker Wreath Large @ $4.13\n133 x 6 Chocolate Love Heart T-Lights @ $1.85\n56 x Jumbo Bag Woodland Animals @ $4.13\n93 x Union Jack Flag Luggage Tag @ $1.25\n37 x Scandinavian Paisley Picnic Bag @ $2.95\n296 x Christmas Craft Little Friends @ $1.85\n4 x Pink Happy Birthday Bunting @ $5.45\n4 x Christmas Craft Little Friends @ $2.10\n37 x Garage Key Fob @ $0.65\n30 x Wood 2 Drawer Cabinet White Finish @ $5.95\n30 x Large Zinc Heart Wall Organiser @ $7.05\n19 x Roll Wrap Vintage Spot @ $2.46\n7 x 3D Dog Picture Playing Cards @ $2.95\n37 x Charlotte Bag Vintage Alphabet @ $2.46\n267 x Set/6 Red Spotty Paper Cups @ $0.65\n4 x Ivory Love Bird Candle @ $0.83\n22 x Recipe Box Pantry Yellow Design @ $2.95\n7 x Easter Tree Yellow Birds @ $5.95\n\nSubtotal: $2,247.23\nTax (HST 13%): $292.14\nTotal: $2,539.37\n",
+    "body": "Hi AP team,\n\nPlease find our invoice INV-52177 attached for payment.\n\nThanks,\nTom Becker",
+    "from": "Tom Becker <billing@mississaugaplasticsinc.example>",
+    "received_at": "2026-10-31T19:29:53.315890-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice INV-52177 from Mississauga Plastics Inc"
+  },
+  {
+    "bill_id": "B118",
+    "bill_text": "Harbour Office Supplies Inc\nInvoice # 89634\nDate: 14/10/2026\nCurrency: CAD\n\n3 x Set Of 16 Vintage Black Cutlery @ $12.75\n10 x Heart Wreath Decoration With Bell @ $2.46\n2 x Pack Of 12 Skull Tissues @ $0.85\n40 x Small Skull Windmill @ $2.46\n38 x Assorted Tutti Frutti Bracelet @ $0.65\n10 x Assorted Cheese Fridge Magnets @ $1.24\n5 x Feltcraft Hairband Pink And Blue @ $1.63\n3 x Led Tea Lights @ $5.79\n10 x Blue Polkadot Coffee Mug @ $0.39\n2 x Manual @ $112.35\n2 x Dotcom Postage @ $122.58\n\nSubtotal: $699.33\nTax (HST 13%): $90.91\nTotal: $790.24\n",
+    "body": "Hello,\n\nAttached is invoice Invoice # 89634 dated 2026-10-14. Payment terms net 30.\n\nRegards,\nTom Becker",
+    "from": "Tom Becker <billing@harbourofficesuppliesinc.example>",
+    "received_at": "2026-10-30T02:07:58.185908-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Invoice Invoice # 89634 from Harbour Office Supplies Inc"
+  },
+  {
+    "bill_id": "B119",
+    "bill_text": "Portlands Fasteners Co.\nInvoice # 61806\nDate: Oct 16 2026\nCurrency: CAD\n\n3 x Bird Decoration Green Polkadot @ $0.85\n26 x Dolly Girl Childrens Bowl @ $1.25\n157 x Mini Ladle Love Heart Red @ $0.42\n85 x Hanging Heart With Bell @ $0.83\n10 x 3D Sheet Of Dog Stickers @ $1.63\n118 x Set Of 3 Regency Cake Tins @ $4.95\n20 x White Jewelled Heart Decoration @ $1.66\n52 x Victorian  Metal Postcard Spring @ $1.69\n942 x 36 Doilies Vintage Christmas @ $1.45\n7 x Manual @ $0.08\n43 x Wooden Tree Christmas Scandinavian @ $0.83\n3 x Eau De Nile Heart Shape Photo Frame @ $1.65\n69 x Assorted Colours Silk Fan @ $1.63\n79 x Jingle Bell Heart Antique Silver @ $2.08\n\nSubtotal: $2,576.91\nTax (HST 13%): $335.00\nTotal: $2,911.91\n",
+    "body": "Hi AP team,\n\nPlease find our invoice Invoice # 61806 attached for payment.\n\nThanks,\nMarc Dubois",
+    "from": "Marc Dubois <billing@portlandsfastenersco.example>",
+    "received_at": "2026-11-01T10:12:08.330085-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Please process: Invoice # 61806"
+  },
+  {
+    "bill_id": "B120",
+    "bill_text": "Weston Road Auto Parts\nINV-33777\nDate: 14/10/2026\nPO: PO-7186\nCurrency: CAD\n\n44 x Economy Holiday Purse @ $0.83\n35 x Open Closed Metal Sign @ $4.95\n26 x Pink Cream Felt Craft Trinket Box @ $1.25\n\nSubtotal: $242.27\nTax (HST 13%): $31.50\nTotal: $273.77\n",
+    "body": "Hello,\n\nAttached is invoice INV-33777 dated 2026-10-14. Payment terms net 30.\n\nRegards,\nPriya Nair",
+    "from": "Priya Nair <billing@westonroadautoparts.example>",
+    "received_at": "2026-10-26T14:30:52.069250-04:00",
+    "seed_flags": [
+      "clean"
+    ],
+    "subject": "Weston Road Auto Parts - invoice for October"
+  }
+]

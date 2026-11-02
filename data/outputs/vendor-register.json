@@ -1,0 +1,242 @@
+[
+  {
+    "canonical_name": "Maple Packaging Ltd.",
+    "currency": "CAD",
+    "po_required": true,
+    "vendor_id": "V001"
+  },
+  {
+    "canonical_name": "Harbour Office Supplies Inc",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V002"
+  },
+  {
+    "canonical_name": "Northline Industrial Tools",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V003"
+  },
+  {
+    "canonical_name": "GTA Paper & Board Corp",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V004"
+  },
+  {
+    "canonical_name": "Lakeshore Janitorial Supply",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V005"
+  },
+  {
+    "canonical_name": "Beaver Lumber Wholesale",
+    "currency": "CAD",
+    "po_required": true,
+    "vendor_id": "V006"
+  },
+  {
+    "canonical_name": "Etobicoke Electrical Distributors",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V007"
+  },
+  {
+    "canonical_name": "Portlands Fasteners Co.",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V008"
+  },
+  {
+    "canonical_name": "Dufferin Safety Equipment",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V009"
+  },
+  {
+    "canonical_name": "Liberty Village Print Services",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V010"
+  },
+  {
+    "canonical_name": "Scarborough Steel Supply",
+    "currency": "CAD",
+    "po_required": true,
+    "vendor_id": "V011"
+  },
+  {
+    "canonical_name": "Mississauga Plastics Inc",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V012"
+  },
+  {
+    "canonical_name": "Don Mills Chemical Supply",
+    "currency": "CAD",
+    "po_required": true,
+    "vendor_id": "V013"
+  },
+  {
+    "canonical_name": "Yorkdale Uniforms Ltd",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V014"
+  },
+  {
+    "canonical_name": "High Park Landscaping Supply",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V015"
+  },
+  {
+    "canonical_name": "King West Coffee Roasters",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V016"
+  },
+  {
+    "canonical_name": "Junction Textile Mills",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V017"
+  },
+  {
+    "canonical_name": "Leslieville Lighting Co",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V018"
+  },
+  {
+    "canonical_name": "Roncesvalles Refrigeration",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V019"
+  },
+  {
+    "canonical_name": "Danforth Deli Provisions",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V020"
+  },
+  {
+    "canonical_name": "St. Lawrence Produce Wholesale",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V021"
+  },
+  {
+    "canonical_name": "Humber HVAC Parts",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V022"
+  },
+  {
+    "canonical_name": "Weston Road Auto Parts",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V023"
+  },
+  {
+    "canonical_name": "Finch Corridor IT Hardware",
+    "currency": "CAD",
+    "po_required": true,
+    "vendor_id": "V024"
+  },
+  {
+    "canonical_name": "Bayview Stationery Co",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V025"
+  },
+  {
+    "canonical_name": "Eglinton Paint Supply",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V026"
+  },
+  {
+    "canonical_name": "Sheppard Glass & Mirror",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V027"
+  },
+  {
+    "canonical_name": "Warden Hill Logistics Services",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V028"
+  },
+  {
+    "canonical_name": "Kennedy Road Tire Depot",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V029"
+  },
+  {
+    "canonical_name": "Birchmount Bearing Company",
+    "currency": "CAD",
+    "po_required": true,
+    "vendor_id": "V030"
+  },
+  {
+    "canonical_name": "Markham Machine Works",
+    "currency": "CAD",
+    "po_required": true,
+    "vendor_id": "V031"
+  },
+  {
+    "canonical_name": "Vaughan Valve & Fitting",
+    "currency": "CAD",
+    "po_required": true,
+    "vendor_id": "V032"
+  },
+  {
+    "canonical_name": "Richmond Hill Rigging Supply",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V033"
+  },
+  {
+    "canonical_name": "Oakville Oils & Lubricants",
+    "currency": "CAD",
+    "po_required": true,
+    "vendor_id": "V034"
+  },
+  {
+    "canonical_name": "Burlington Battery Supply",
+    "currency": "CAD",
+    "po_required": false,
+    "vendor_id": "V035"
+  },
+  {
+    "canonical_name": "Hamilton Heavy Haulage",
+    "currency": "CAD",
+    "po_required": true,
+    "vendor_id": "V036"
+  },
+  {
+    "canonical_name": "Great Lakes Freight",
+    "currency": "USD",
+    "po_required": false,
+    "vendor_id": "V037"
+  },
+  {
+    "canonical_name": "Pacific Rim Components",
+    "currency": "USD",
+    "po_required": false,
+    "vendor_id": "V038"
+  },
+  {
+    "canonical_name": "Rotterdam Maritime Parts",
+    "currency": "EUR",
+    "po_required": false,
+    "vendor_id": "V039"
+  },
+  {
+    "canonical_name": "Thames Engineering Supplies",
+    "currency": "GBP",
+    "po_required": false,
+    "vendor_id": "V040"
+  }
+]

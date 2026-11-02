@@ -1,0 +1,242 @@
+[
+  {
+    "bill_id": "B034",
+    "expected_action": "AUTO_POST",
+    "invoice_date": "2026-10-23",
+    "invoice_number": "95363",
+    "total_cad": 261.47,
+    "vendor_id": "V014"
+  },
+  {
+    "bill_id": "B035",
+    "expected_action": "AUTO_POST",
+    "invoice_date": "2026-10-26",
+    "invoice_number": "47064",
+    "total_cad": 434.21,
+    "vendor_id": "V039"
+  },
+  {
+    "bill_id": "B036",
+    "expected_action": "AUTO_POST",
+    "invoice_date": "2026-10-18",
+    "invoice_number": "46235",
+    "total_cad": 203.84,
+    "vendor_id": "V037"
+  },
+  {
+    "bill_id": "B037",
+    "expected_action": "AUTO_POST",
+    "invoice_date": "2026-10-26",
+    "invoice_number": "44453",
+    "total_cad": 707.87,
+    "vendor_id": "V021"
+  },
+  {
+    "bill_id": "B040",
+    "expected_action": "AUTO_POST",
+    "invoice_date": "2026-10-22",
+    "invoice_number": "20706",
+    "total_cad": 884.39,
+    "vendor_id": "V015"
+  },
+  {
+    "bill_id": "B047",
+    "expected_action": "AUTO_POST",
+    "invoice_date": "2026-10-18",
+    "invoice_number": "67095",
+    "total_cad": 295.23,
+    "vendor_id": "V038"
+  },
+  {
+    "bill_id": "B027",
+    "expected_action": "SEND_TO_MANAGER",
+    "invoice_date": "2026-10-18",
+    "invoice_number": "43725",
+    "total_cad": 2993.91,
+    "vendor_id": "V037"
+  },
+  {
+    "bill_id": "B028",
+    "expected_action": "SEND_TO_MANAGER",
+    "invoice_date": "2026-10-21",
+    "invoice_number": "32978",
+    "total_cad": 2588.37,
+    "vendor_id": "V038"
+  },
+  {
+    "bill_id": "B029",
+    "expected_action": "SEND_TO_MANAGER",
+    "invoice_date": "2026-10-11",
+    "invoice_number": "59383",
+    "total_cad": 2198.21,
+    "vendor_id": "V039"
+  },
+  {
+    "bill_id": "B032",
+    "expected_action": "SEND_TO_DIRECTOR",
+    "invoice_date": "2026-10-17",
+    "invoice_number": "10279",
+    "total_cad": 12306.85,
+    "vendor_id": "V011"
+  },
+  {
+    "bill_id": "B007",
+    "expected_action": "HOLD_DUPLICATE",
+    "invoice_date": "2026-10-14",
+    "invoice_number": "48291",
+    "total_cad": 812.44,
+    "vendor_id": "V001"
+  },
+  {
+    "bill_id": "B008",
+    "expected_action": "HOLD_DUPLICATE",
+    "invoice_date": "2026-10-16",
+    "invoice_number": "55017",
+    "total_cad": 2340.11,
+    "vendor_id": "V013"
+  },
+  {
+    "bill_id": "B009",
+    "expected_action": "HOLD_DUPLICATE",
+    "invoice_date": "2026-10-12",
+    "invoice_number": "90312",
+    "total_cad": 415.75,
+    "vendor_id": "V024"
+  },
+  {
+    "bill_id": "B010",
+    "expected_action": "HOLD_DUPLICATE",
+    "invoice_date": "2026-10-19",
+    "invoice_number": "77120",
+    "total_cad": 1875.0,
+    "vendor_id": "V031"
+  },
+  {
+    "bill_id": "B011",
+    "expected_action": "HOLD_DUPLICATE",
+    "invoice_date": "2026-10-29",
+    "invoice_number": "77547",
+    "total_cad": 1239.94,
+    "vendor_id": "V013"
+  },
+  {
+    "bill_id": "B012",
+    "expected_action": "HOLD_DUPLICATE",
+    "invoice_date": "2026-10-27",
+    "invoice_number": "17649",
+    "total_cad": 2882.03,
+    "vendor_id": "V006"
+  },
+  {
+    "bill_id": "B013",
+    "expected_action": "HOLD_DUPLICATE",
+    "invoice_date": "2026-10-28",
+    "invoice_number": "69642",
+    "total_cad": 642.76,
+    "vendor_id": "V002"
+  },
+  {
+    "bill_id": "B014",
+    "expected_action": "HOLD_DUPLICATE",
+    "invoice_date": "2026-10-26",
+    "invoice_number": null,
+    "total_cad": 4142.3,
+    "vendor_id": "V034"
+  },
+  {
+    "bill_id": "B015",
+    "expected_action": "SEND_TO_DIRECTOR",
+    "invoice_date": "2026-10-27",
+    "invoice_number": "14999",
+    "total_cad": 4600.0,
+    "vendor_id": "V031"
+  },
+  {
+    "bill_id": "B016",
+    "expected_action": "SEND_TO_DIRECTOR",
+    "invoice_date": "2026-10-28",
+    "invoice_number": "74037",
+    "total_cad": 4750.0,
+    "vendor_id": "V031"
+  },
+  {
+    "bill_id": "B017",
+    "expected_action": "SEND_TO_DIRECTOR",
+    "invoice_date": "2026-10-30",
+    "invoice_number": "27304",
+    "total_cad": 4825.0,
+    "vendor_id": "V031"
+  },
+  {
+    "bill_id": "B018",
+    "expected_action": "SEND_TO_DIRECTOR",
+    "invoice_date": "2026-11-01",
+    "invoice_number": "30620",
+    "total_cad": 4900.0,
+    "vendor_id": "V031"
+  },
+  {
+    "bill_id": "B019",
+    "expected_action": "REQUEST_PO",
+    "invoice_date": "2026-10-15",
+    "invoice_number": "81052",
+    "total_cad": 1966.61,
+    "vendor_id": "V001"
+  },
+  {
+    "bill_id": "B020",
+    "expected_action": "REQUEST_PO",
+    "invoice_date": "2026-10-23",
+    "invoice_number": "29057",
+    "total_cad": 2137.73,
+    "vendor_id": "V013"
+  },
+  {
+    "bill_id": "B021",
+    "expected_action": "REQUEST_PO",
+    "invoice_date": "2026-10-12",
+    "invoice_number": "97440",
+    "total_cad": 552.15,
+    "vendor_id": "V024"
+  },
+  {
+    "bill_id": "B022",
+    "expected_action": "CORRECT_TOTAL",
+    "invoice_date": "2026-10-24",
+    "invoice_number": "20083",
+    "total_cad": 1196.47,
+    "vendor_id": "V009"
+  },
+  {
+    "bill_id": "B023",
+    "expected_action": "CORRECT_TOTAL",
+    "invoice_date": "2026-10-27",
+    "invoice_number": "42927",
+    "total_cad": 1667.99,
+    "vendor_id": "V009"
+  },
+  {
+    "bill_id": "B024",
+    "expected_action": "SEND_TO_MANAGER",
+    "invoice_date": "2026-11-09",
+    "invoice_number": "21216",
+    "total_cad": 1001.85,
+    "vendor_id": "V016"
+  },
+  {
+    "bill_id": "B025",
+    "expected_action": "SEND_TO_MANAGER",
+    "invoice_date": "2026-10-11",
+    "invoice_number": "11534",
+    "total_cad": 2000.0,
+    "vendor_id": "V020"
+  },
+  {
+    "bill_id": "B026",
+    "expected_action": "SEND_TO_MANAGER",
+    "invoice_date": "2026-10-28",
+    "invoice_number": "40779",
+    "total_cad": 3000.0,
+    "vendor_id": "V007"
+  }
+]
