@@ -1,0 +1,72 @@
+{
+  "alias_accuracy": 1.0,
+  "extraction_accuracy": {
+    "invoice_date": 1.0,
+    "invoice_number": 0.9,
+    "total": 1.0,
+    "vendor": 1.0
+  },
+  "generated_at": "2026-11-02T14:05:03.362716+00:00",
+  "mismatches": [
+    {
+      "bill_id": "B010",
+      "expected": "77120",
+      "field": "invoice_number",
+      "got": "INV-77120",
+      "kind": "extraction"
+    },
+    {
+      "bill_id": "B012",
+      "expected": "17649",
+      "field": "invoice_number",
+      "got": "INV-17649",
+      "kind": "extraction"
+    },
+    {
+      "bill_id": "B025",
+      "expected": "11534",
+      "field": "invoice_number",
+      "got": "INV-11534",
+      "kind": "extraction"
+    }
+  ],
+  "n_golden": 30,
+  "name_variant_resolution": {
+    "resolved": 5,
+    "total": 6
+  },
+  "replay_date": "2026-11-02",
+  "routing_accuracy": 1.0,
+  "routing_per_action": {
+    "AUTO_POST": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "support": 6
+    },
+    "CORRECT_TOTAL": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "support": 2
+    },
+    "HOLD_DUPLICATE": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "support": 8
+    },
+    "REQUEST_PO": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "support": 3
+    },
+    "SEND_TO_DIRECTOR": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "support": 5
+    },
+    "SEND_TO_MANAGER": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "support": 6
+    }
+  }
+}
