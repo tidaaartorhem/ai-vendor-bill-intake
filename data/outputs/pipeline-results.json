@@ -1,0 +1,4634 @@
+{
+  "bills": [
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B001",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1570.93,
+        "invoice_date": "2026-10-24",
+        "invoice_number": "37866",
+        "n_line_items": 2,
+        "po": "PO-8630",
+        "vendor_name": "Maple Packaging Ltd Toronto"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$1,570.93 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-26T16:18:46.460113-04:00",
+      "seed_flags": [
+        "name_variant"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 1570.93,
+      "vendor_canonical": "Maple Packaging Ltd.",
+      "vendor_id": "V001"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B002",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 795.12,
+        "invoice_date": "2026-10-17",
+        "invoice_number": "89387",
+        "n_line_items": 11,
+        "po": null,
+        "vendor_name": "Harbour Office Supply Inc"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$795.12 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-27T02:36:47.941511-04:00",
+      "seed_flags": [
+        "name_variant"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 795.12,
+      "vendor_canonical": "Harbour Office Supplies Inc",
+      "vendor_id": "V002"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B003",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1250.66,
+        "invoice_date": "2026-10-28",
+        "invoice_number": "INV-28657",
+        "n_line_items": 21,
+        "po": null,
+        "vendor_name": "Northline Industrial Tools Ltd"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$1,250.66 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-11-01T23:32:10.240708-04:00",
+      "seed_flags": [
+        "name_variant"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 1250.66,
+      "vendor_canonical": "Northline Industrial Tools",
+      "vendor_id": "V003"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B004",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1152.09,
+        "invoice_date": "2026-10-23",
+        "invoice_number": "INV-70050",
+        "n_line_items": 18,
+        "po": "PO-7585",
+        "vendor_name": "GTA Paper and Board Corp"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$1,152.09 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-11-01T06:19:12.375963-04:00",
+      "seed_flags": [
+        "name_variant"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 1152.09,
+      "vendor_canonical": "GTA Paper & Board Corp",
+      "vendor_id": "V004"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B005",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1481.77,
+        "invoice_date": "2026-10-18",
+        "invoice_number": "92221",
+        "n_line_items": 11,
+        "po": null,
+        "vendor_name": "Lakeshore Janitorial Supplies"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$1,481.77 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-31T19:45:29.158613-04:00",
+      "seed_flags": [
+        "name_variant"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 1481.77,
+      "vendor_canonical": null,
+      "vendor_id": null
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B006",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1103.78,
+        "invoice_date": "2026-10-20",
+        "invoice_number": "INV-72205",
+        "n_line_items": 2,
+        "po": "PO-1190",
+        "vendor_name": "Beaver Lumber Wholesale Ltd"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$1,103.78 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-26T21:24:37.541116-04:00",
+      "seed_flags": [
+        "name_variant"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 1103.78,
+      "vendor_canonical": "Beaver Lumber Wholesale",
+      "vendor_id": "V006"
+    },
+    {
+      "action": "HOLD_DUPLICATE",
+      "bill_id": "B007",
+      "dedupe": "DUPLICATE",
+      "dedupe_detail": {
+        "action": "HOLD_DUPLICATE",
+        "date_diff_days": 0,
+        "dedupe": "DUPLICATE",
+        "is_duplicate": true,
+        "likely_duplicate": false,
+        "match_type": "D1_EXACT",
+        "matched_posted": {
+          "invoice_number": "48291",
+          "vendor_id": "V001"
+        },
+        "total_diff_pct": 0.0
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 812.44,
+        "invoice_date": "2026-10-14",
+        "invoice_number": "48291",
+        "n_line_items": 3,
+        "po": "PO-6603",
+        "vendor_name": "Maple Packaging Ltd."
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "D1 exact resubmission of posted 48291 (V001); held.",
+      "received_at": "2026-10-24T00:00:00-04:00",
+      "seed_flags": [
+        "exact_resubmission"
+      ],
+      "tier": "REVIEW",
+      "total_cad": 812.44,
+      "vendor_canonical": "Maple Packaging Ltd.",
+      "vendor_id": "V001"
+    },
+    {
+      "action": "HOLD_DUPLICATE",
+      "bill_id": "B008",
+      "dedupe": "DUPLICATE",
+      "dedupe_detail": {
+        "action": "HOLD_DUPLICATE",
+        "date_diff_days": 0,
+        "dedupe": "DUPLICATE",
+        "is_duplicate": true,
+        "likely_duplicate": false,
+        "match_type": "D1_EXACT",
+        "matched_posted": {
+          "invoice_number": "55017",
+          "vendor_id": "V013"
+        },
+        "total_diff_pct": 0.0
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 2340.11,
+        "invoice_date": "2026-10-16",
+        "invoice_number": "55017",
+        "n_line_items": 3,
+        "po": "PO-4236",
+        "vendor_name": "Don Mills Chemical Supply"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "D1 exact resubmission of posted 55017 (V013); held.",
+      "received_at": "2026-10-23T00:00:00-04:00",
+      "seed_flags": [
+        "exact_resubmission"
+      ],
+      "tier": "REVIEW",
+      "total_cad": 2340.11,
+      "vendor_canonical": "Don Mills Chemical Supply",
+      "vendor_id": "V013"
+    },
+    {
+      "action": "HOLD_DUPLICATE",
+      "bill_id": "B009",
+      "dedupe": "DUPLICATE",
+      "dedupe_detail": {
+        "action": "HOLD_DUPLICATE",
+        "date_diff_days": 0,
+        "dedupe": "DUPLICATE",
+        "is_duplicate": true,
+        "likely_duplicate": false,
+        "match_type": "D1_EXACT",
+        "matched_posted": {
+          "invoice_number": "90312",
+          "vendor_id": "V024"
+        },
+        "total_diff_pct": 0.0
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 415.75,
+        "invoice_date": "2026-10-12",
+        "invoice_number": "90312",
+        "n_line_items": 3,
+        "po": "PO-8668",
+        "vendor_name": "Finch Corridor IT Hardware"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "D1 exact resubmission of posted 90312 (V024); held.",
+      "received_at": "2026-10-21T00:00:00-04:00",
+      "seed_flags": [
+        "exact_resubmission"
+      ],
+      "tier": "REVIEW",
+      "total_cad": 415.75,
+      "vendor_canonical": "Finch Corridor IT Hardware",
+      "vendor_id": "V024"
+    },
+    {
+      "action": "HOLD_DUPLICATE",
+      "bill_id": "B010",
+      "dedupe": "LIKELY_DUPLICATE",
+      "dedupe_detail": {
+        "action": "HOLD_DUPLICATE",
+        "date_diff_days": 0,
+        "dedupe": "LIKELY_DUPLICATE",
+        "is_duplicate": false,
+        "likely_duplicate": true,
+        "match_type": "D2_NEAR",
+        "matched_posted": {
+          "invoice_number": "77120",
+          "vendor_id": "V031"
+        },
+        "total_diff_pct": 0.0
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1875.0,
+        "invoice_date": "2026-10-19",
+        "invoice_number": "INV-77120",
+        "n_line_items": 3,
+        "po": "PO-4493",
+        "vendor_name": "Markham Machine Works"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "D2 near-duplicate: total within 0.0% and 0d of a posted bill; held.",
+      "received_at": "2026-10-28T00:00:00-04:00",
+      "seed_flags": [
+        "exact_resubmission"
+      ],
+      "tier": "REVIEW",
+      "total_cad": 1875.0,
+      "vendor_canonical": "Markham Machine Works",
+      "vendor_id": "V031"
+    },
+    {
+      "action": "HOLD_DUPLICATE",
+      "bill_id": "B011",
+      "dedupe": "LIKELY_DUPLICATE",
+      "dedupe_detail": {
+        "action": "HOLD_DUPLICATE",
+        "date_diff_days": 3,
+        "dedupe": "LIKELY_DUPLICATE",
+        "is_duplicate": false,
+        "likely_duplicate": true,
+        "match_type": "D2_NEAR",
+        "matched_posted": {
+          "invoice_number": "98770",
+          "vendor_id": "V013"
+        },
+        "total_diff_pct": 0.4
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1239.94,
+        "invoice_date": "2026-10-29",
+        "invoice_number": "77547",
+        "n_line_items": 3,
+        "po": "PO-7208",
+        "vendor_name": "Don Mills Chemical Supply"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "D2 near-duplicate: total within 0.4% and 3d of a posted bill; held.",
+      "received_at": "2026-10-29T04:00:00-04:00",
+      "seed_flags": [
+        "near_duplicate"
+      ],
+      "tier": "REVIEW",
+      "total_cad": 1239.94,
+      "vendor_canonical": "Don Mills Chemical Supply",
+      "vendor_id": "V013"
+    },
+    {
+      "action": "HOLD_DUPLICATE",
+      "bill_id": "B012",
+      "dedupe": "LIKELY_DUPLICATE",
+      "dedupe_detail": {
+        "action": "HOLD_DUPLICATE",
+        "date_diff_days": 3,
+        "dedupe": "LIKELY_DUPLICATE",
+        "is_duplicate": false,
+        "likely_duplicate": true,
+        "match_type": "D2_NEAR",
+        "matched_posted": {
+          "invoice_number": "33041",
+          "vendor_id": "V006"
+        },
+        "total_diff_pct": 0.4
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 2882.03,
+        "invoice_date": "2026-10-27",
+        "invoice_number": "INV-17649",
+        "n_line_items": 4,
+        "po": "PO-7145",
+        "vendor_name": "Beaver Lumber Wholesale"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "D2 near-duplicate: total within 0.4% and 3d of a posted bill; held.",
+      "received_at": "2026-10-27T02:00:00-04:00",
+      "seed_flags": [
+        "near_duplicate"
+      ],
+      "tier": "REVIEW",
+      "total_cad": 2882.03,
+      "vendor_canonical": "Beaver Lumber Wholesale",
+      "vendor_id": "V006"
+    },
+    {
+      "action": "HOLD_DUPLICATE",
+      "bill_id": "B013",
+      "dedupe": "LIKELY_DUPLICATE",
+      "dedupe_detail": {
+        "action": "HOLD_DUPLICATE",
+        "date_diff_days": 3,
+        "dedupe": "LIKELY_DUPLICATE",
+        "is_duplicate": false,
+        "likely_duplicate": true,
+        "match_type": "D2_NEAR",
+        "matched_posted": {
+          "invoice_number": "61882",
+          "vendor_id": "V002"
+        },
+        "total_diff_pct": 0.4
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 642.76,
+        "invoice_date": "2026-10-28",
+        "invoice_number": "69642",
+        "n_line_items": 3,
+        "po": "PO-4621",
+        "vendor_name": "Harbour Office Supplies Inc"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "D2 near-duplicate: total within 0.4% and 3d of a posted bill; held.",
+      "received_at": "2026-10-28T03:00:00-04:00",
+      "seed_flags": [
+        "near_duplicate"
+      ],
+      "tier": "REVIEW",
+      "total_cad": 642.76,
+      "vendor_canonical": "Harbour Office Supplies Inc",
+      "vendor_id": "V002"
+    },
+    {
+      "action": "HOLD_DUPLICATE",
+      "bill_id": "B014",
+      "dedupe": "LIKELY_DUPLICATE",
+      "dedupe_detail": {
+        "action": "HOLD_DUPLICATE",
+        "date_diff_days": 3,
+        "dedupe": "LIKELY_DUPLICATE",
+        "is_duplicate": false,
+        "likely_duplicate": true,
+        "match_type": "D2_NEAR",
+        "matched_posted": {
+          "invoice_number": "71509",
+          "vendor_id": "V034"
+        },
+        "total_diff_pct": 0.4
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 4142.3,
+        "invoice_date": "2026-10-26",
+        "invoice_number": null,
+        "n_line_items": 3,
+        "po": "PO-8336",
+        "vendor_name": "Oakville Oils & Lubricants"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "D2 near-duplicate: total within 0.4% and 3d of a posted bill; held.",
+      "received_at": "2026-10-26T17:00:00-04:00",
+      "seed_flags": [
+        "near_duplicate"
+      ],
+      "tier": "REVIEW",
+      "total_cad": 4142.3,
+      "vendor_canonical": "Oakville Oils & Lubricants",
+      "vendor_id": "V034"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B015",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 4600.0,
+        "invoice_date": "2026-10-27",
+        "invoice_number": "14999",
+        "n_line_items": 3,
+        "po": "PO-5520",
+        "vendor_name": "Markham Machine Works"
+      },
+      "flag_details": [],
+      "flags": [
+        "SPLIT_DODGE"
+      ],
+      "reasoning": "Split-dodge: 4 invoices on one PO inside 5d summing $19,075.00; escalated.",
+      "received_at": "2026-10-27T09:00:00-04:00",
+      "seed_flags": [
+        "split_cluster"
+      ],
+      "tier": "REVIEW",
+      "total_cad": 4600.0,
+      "vendor_canonical": "Markham Machine Works",
+      "vendor_id": "V031"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B016",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 4750.0,
+        "invoice_date": "2026-10-28",
+        "invoice_number": "74037",
+        "n_line_items": 4,
+        "po": "PO-5520",
+        "vendor_name": "Markham Machine Works"
+      },
+      "flag_details": [],
+      "flags": [
+        "SPLIT_DODGE"
+      ],
+      "reasoning": "Split-dodge: 4 invoices on one PO inside 5d summing $19,075.00; escalated.",
+      "received_at": "2026-10-28T09:00:00-04:00",
+      "seed_flags": [
+        "split_cluster"
+      ],
+      "tier": "REVIEW",
+      "total_cad": 4750.0,
+      "vendor_canonical": "Markham Machine Works",
+      "vendor_id": "V031"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B017",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 4825.0,
+        "invoice_date": "2026-10-30",
+        "invoice_number": "27304",
+        "n_line_items": 3,
+        "po": "PO-5520",
+        "vendor_name": "Markham Machine Works"
+      },
+      "flag_details": [],
+      "flags": [
+        "SPLIT_DODGE"
+      ],
+      "reasoning": "Split-dodge: 4 invoices on one PO inside 5d summing $19,075.00; escalated.",
+      "received_at": "2026-10-30T09:00:00-04:00",
+      "seed_flags": [
+        "split_cluster"
+      ],
+      "tier": "REVIEW",
+      "total_cad": 4825.0,
+      "vendor_canonical": "Markham Machine Works",
+      "vendor_id": "V031"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B018",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 4900.0,
+        "invoice_date": "2026-11-01",
+        "invoice_number": "30620",
+        "n_line_items": 4,
+        "po": "PO-5520",
+        "vendor_name": "Markham Machine Works"
+      },
+      "flag_details": [],
+      "flags": [
+        "SPLIT_DODGE"
+      ],
+      "reasoning": "Split-dodge: 4 invoices on one PO inside 5d summing $19,075.00; escalated.",
+      "received_at": "2026-11-01T09:00:00-04:00",
+      "seed_flags": [
+        "split_cluster"
+      ],
+      "tier": "REVIEW",
+      "total_cad": 4900.0,
+      "vendor_canonical": "Markham Machine Works",
+      "vendor_id": "V031"
+    },
+    {
+      "action": "REQUEST_PO",
+      "bill_id": "B019",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1966.61,
+        "invoice_date": "2026-10-15",
+        "invoice_number": "81052",
+        "n_line_items": 6,
+        "po": null,
+        "vendor_name": "Maple Packaging Ltd."
+      },
+      "flag_details": [
+        {
+          "action": "REQUEST_PO",
+          "flag": "V3_MISSING_PO",
+          "missing_po": true
+        }
+      ],
+      "flags": [
+        "V3_MISSING_PO"
+      ],
+      "reasoning": "Vendor requires a PO but none is on the bill; requesting PO.",
+      "received_at": "2026-10-26T22:51:22.820370-04:00",
+      "seed_flags": [
+        "missing_po"
+      ],
+      "tier": "REVIEW",
+      "total_cad": 1966.61,
+      "vendor_canonical": "Maple Packaging Ltd.",
+      "vendor_id": "V001"
+    },
+    {
+      "action": "REQUEST_PO",
+      "bill_id": "B020",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 2137.73,
+        "invoice_date": "2026-10-23",
+        "invoice_number": "29057",
+        "n_line_items": 17,
+        "po": null,
+        "vendor_name": "Don Mills Chemical Supply"
+      },
+      "flag_details": [
+        {
+          "action": "REQUEST_PO",
+          "flag": "V3_MISSING_PO",
+          "missing_po": true
+        }
+      ],
+      "flags": [
+        "V3_MISSING_PO"
+      ],
+      "reasoning": "Vendor requires a PO but none is on the bill; requesting PO.",
+      "received_at": "2026-10-30T06:56:05.868842-04:00",
+      "seed_flags": [
+        "missing_po"
+      ],
+      "tier": "REVIEW",
+      "total_cad": 2137.73,
+      "vendor_canonical": "Don Mills Chemical Supply",
+      "vendor_id": "V013"
+    },
+    {
+      "action": "REQUEST_PO",
+      "bill_id": "B021",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 552.15,
+        "invoice_date": "2026-10-12",
+        "invoice_number": "97440",
+        "n_line_items": 10,
+        "po": null,
+        "vendor_name": "Finch Corridor IT Hardware"
+      },
+      "flag_details": [
+        {
+          "action": "REQUEST_PO",
+          "flag": "V3_MISSING_PO",
+          "missing_po": true
+        }
+      ],
+      "flags": [
+        "V3_MISSING_PO"
+      ],
+      "reasoning": "Vendor requires a PO but none is on the bill; requesting PO.",
+      "received_at": "2026-10-27T18:30:21.657758-04:00",
+      "seed_flags": [
+        "missing_po"
+      ],
+      "tier": "REVIEW",
+      "total_cad": 552.15,
+      "vendor_canonical": "Finch Corridor IT Hardware",
+      "vendor_id": "V024"
+    },
+    {
+      "action": "CORRECT_TOTAL",
+      "bill_id": "B022",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1204.85,
+        "invoice_date": "2026-10-24",
+        "invoice_number": "20083",
+        "n_line_items": 4,
+        "po": "PO-9481",
+        "vendor_name": "Dufferin Safety Equipment"
+      },
+      "flag_details": [
+        {
+          "action": "CORRECT_TOTAL",
+          "corrected_total": 1196.47,
+          "diff": 8.38,
+          "diff_pct": 0.7,
+          "flag": "V2_UNFOOTED_TOTAL",
+          "header_total": 1204.85,
+          "sum_lines": 1058.82,
+          "unfooted": true
+        }
+      ],
+      "flags": [
+        "V2_UNFOOTED_TOTAL"
+      ],
+      "reasoning": "Header total $1,204.85 does not foot (lines+tax $1,196.47); correcting.",
+      "received_at": "2026-10-27T05:06:12.156843-04:00",
+      "seed_flags": [
+        "unfooted_total"
+      ],
+      "tier": "REVIEW",
+      "total_cad": 1196.47,
+      "vendor_canonical": "Dufferin Safety Equipment",
+      "vendor_id": "V009"
+    },
+    {
+      "action": "CORRECT_TOTAL",
+      "bill_id": "B023",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1679.67,
+        "invoice_date": "2026-10-27",
+        "invoice_number": "42927",
+        "n_line_items": 3,
+        "po": null,
+        "vendor_name": "Dufferin Safety Equipment"
+      },
+      "flag_details": [
+        {
+          "action": "CORRECT_TOTAL",
+          "corrected_total": 1667.99,
+          "diff": 11.68,
+          "diff_pct": 0.7,
+          "flag": "V2_UNFOOTED_TOTAL",
+          "header_total": 1679.67,
+          "sum_lines": 1476.1,
+          "unfooted": true
+        }
+      ],
+      "flags": [
+        "V2_UNFOOTED_TOTAL"
+      ],
+      "reasoning": "Header total $1,679.67 does not foot (lines+tax $1,667.99); correcting.",
+      "received_at": "2026-10-30T14:45:42.417241-04:00",
+      "seed_flags": [
+        "unfooted_total"
+      ],
+      "tier": "REVIEW",
+      "total_cad": 1667.99,
+      "vendor_canonical": "Dufferin Safety Equipment",
+      "vendor_id": "V009"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B024",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1001.85,
+        "invoice_date": "2026-11-09",
+        "invoice_number": "21216",
+        "n_line_items": 19,
+        "po": null,
+        "vendor_name": "King West Coffee Roasters"
+      },
+      "flag_details": [
+        {
+          "action": "SEND_TO_MANAGER",
+          "days_after_replay": 7,
+          "flag": "V1_FUTURE_DATED",
+          "future_dated": true
+        }
+      ],
+      "flags": [
+        "V1_FUTURE_DATED"
+      ],
+      "reasoning": "Invoice date is after the replay date; manager review.",
+      "received_at": "2026-11-01T10:30:00-04:00",
+      "seed_flags": [
+        "future_dated"
+      ],
+      "tier": "REVIEW",
+      "total_cad": 1001.85,
+      "vendor_canonical": "King West Coffee Roasters",
+      "vendor_id": "V016"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B025",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 2000.0,
+        "invoice_date": "2026-10-11",
+        "invoice_number": "INV-11534",
+        "n_line_items": 4,
+        "po": null,
+        "vendor_name": "Danforth Deli Provisions"
+      },
+      "flag_details": [
+        {
+          "action": "SEND_TO_MANAGER",
+          "flag": "V4_ROUND_NUMBER",
+          "round_number": true,
+          "route": "MANAGER",
+          "weight": "low"
+        }
+      ],
+      "flags": [
+        "V4_ROUND_NUMBER"
+      ],
+      "reasoning": "Round-number total flagged (low weight); routed by amount tier.",
+      "received_at": "2026-10-31T03:03:48.086331-04:00",
+      "seed_flags": [
+        "round_number"
+      ],
+      "tier": "REVIEW",
+      "total_cad": 2000.0,
+      "vendor_canonical": "Danforth Deli Provisions",
+      "vendor_id": "V020"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B026",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 3000.0,
+        "invoice_date": "2026-10-28",
+        "invoice_number": "40779",
+        "n_line_items": 4,
+        "po": null,
+        "vendor_name": "Etobicoke Electrical Distributors"
+      },
+      "flag_details": [
+        {
+          "action": "SEND_TO_MANAGER",
+          "flag": "V4_ROUND_NUMBER",
+          "round_number": true,
+          "route": "MANAGER",
+          "weight": "low"
+        }
+      ],
+      "flags": [
+        "V4_ROUND_NUMBER"
+      ],
+      "reasoning": "Round-number total flagged (low weight); routed by amount tier.",
+      "received_at": "2026-10-31T01:10:59.479074-04:00",
+      "seed_flags": [
+        "round_number"
+      ],
+      "tier": "REVIEW",
+      "total_cad": 3000.0,
+      "vendor_canonical": "Etobicoke Electrical Distributors",
+      "vendor_id": "V007"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B027",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "USD",
+        "header_total": 2123.34,
+        "invoice_date": "2026-10-18",
+        "invoice_number": "43725",
+        "n_line_items": 2,
+        "po": "PO-2357",
+        "vendor_name": "Great Lakes Freight"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$2,993.91 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-11-02T04:01:20.605484-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 2993.91,
+      "vendor_canonical": "Great Lakes Freight",
+      "vendor_id": "V037"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B028",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "USD",
+        "header_total": 1835.72,
+        "invoice_date": "2026-10-21",
+        "invoice_number": "32978",
+        "n_line_items": 13,
+        "po": "PO-7971",
+        "vendor_name": "Pacific Rim Components"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$2,588.37 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-11-01T20:26:53.133217-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 2588.37,
+      "vendor_canonical": "Pacific Rim Components",
+      "vendor_id": "V038"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B029",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "EUR",
+        "header_total": 1436.74,
+        "invoice_date": "2026-10-11",
+        "invoice_number": "59383",
+        "n_line_items": 9,
+        "po": null,
+        "vendor_name": "Rotterdam Maritime Parts"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$2,198.21 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-26T09:25:00.799657-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 2198.21,
+      "vendor_canonical": "Rotterdam Maritime Parts",
+      "vendor_id": "V039"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B030",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "GBP",
+        "header_total": 1282.33,
+        "invoice_date": "2026-10-12",
+        "invoice_number": "30969",
+        "n_line_items": 13,
+        "po": null,
+        "vendor_name": "Thames Engineering Supplies"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$2,295.37 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-29T04:13:58.053063-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 2295.37,
+      "vendor_canonical": "Thames Engineering Supplies",
+      "vendor_id": "V040"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B031",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1061.56,
+        "invoice_date": "2026-10-24",
+        "invoice_number": "76455",
+        "n_line_items": 10,
+        "po": "PO-8118",
+        "vendor_name": "Northline Industrial Tools"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$1,061.56 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-28T07:34:51.624803-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 1061.56,
+      "vendor_canonical": "Northline Industrial Tools",
+      "vendor_id": "V003"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B032",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 12306.85,
+        "invoice_date": "2026-10-17",
+        "invoice_number": "10279",
+        "n_line_items": 8,
+        "po": "PO-8038",
+        "vendor_name": "Scarborough Steel Supply"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$12,306.85 over $5,000; director approval.",
+      "received_at": "2026-10-30T01:22:25.736816-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "DIRECTOR",
+      "total_cad": 12306.85,
+      "vendor_canonical": "Scarborough Steel Supply",
+      "vendor_id": "V011"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B033",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 3242.15,
+        "invoice_date": "2026-10-19",
+        "invoice_number": "INV-81360",
+        "n_line_items": 14,
+        "po": "PO-7262",
+        "vendor_name": "Junction Textile Mills"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$3,242.15 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-11-01T08:51:23.961436-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 3242.15,
+      "vendor_canonical": "Junction Textile Mills",
+      "vendor_id": "V017"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B034",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 261.47,
+        "invoice_date": "2026-10-23",
+        "invoice_number": "95363",
+        "n_line_items": 19,
+        "po": null,
+        "vendor_name": "Yorkdale Uniforms Ltd"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$261.47 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-31T05:00:47.010899-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 261.47,
+      "vendor_canonical": "Yorkdale Uniforms Ltd",
+      "vendor_id": "V014"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B035",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "EUR",
+        "header_total": 283.8,
+        "invoice_date": "2026-10-26",
+        "invoice_number": "47064",
+        "n_line_items": 4,
+        "po": "PO-7621",
+        "vendor_name": "Rotterdam Maritime Parts"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$434.21 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-30T22:44:37.476457-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 434.21,
+      "vendor_canonical": "Rotterdam Maritime Parts",
+      "vendor_id": "V039"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B036",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "USD",
+        "header_total": 144.57,
+        "invoice_date": "2026-10-18",
+        "invoice_number": "46235",
+        "n_line_items": 2,
+        "po": "PO-4874",
+        "vendor_name": "Great Lakes Freight"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$203.84 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-27T05:23:40.699615-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 203.84,
+      "vendor_canonical": "Great Lakes Freight",
+      "vendor_id": "V037"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B037",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 707.87,
+        "invoice_date": "2026-10-26",
+        "invoice_number": "44453",
+        "n_line_items": 21,
+        "po": "PO-8629",
+        "vendor_name": "St. Lawrence Produce Wholesale"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$707.87 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-31T21:01:15.546431-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 707.87,
+      "vendor_canonical": "St. Lawrence Produce Wholesale",
+      "vendor_id": "V021"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B038",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 11957.37,
+        "invoice_date": "2026-10-23",
+        "invoice_number": "59955",
+        "n_line_items": 4,
+        "po": "PO-9232",
+        "vendor_name": "Hamilton Heavy Haulage"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$11,957.37 over $5,000; director approval.",
+      "received_at": "2026-10-26T22:05:54.161364-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "DIRECTOR",
+      "total_cad": 11957.37,
+      "vendor_canonical": "Hamilton Heavy Haulage",
+      "vendor_id": "V036"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B039",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 2481.62,
+        "invoice_date": "2026-10-24",
+        "invoice_number": "INV-64117",
+        "n_line_items": 6,
+        "po": "PO-3490",
+        "vendor_name": "Oakville Oils & Lubricants"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$2,481.62 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-31T14:04:15.863511-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 2481.62,
+      "vendor_canonical": "Oakville Oils & Lubricants",
+      "vendor_id": "V034"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B040",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 884.39,
+        "invoice_date": "2026-10-22",
+        "invoice_number": "20706",
+        "n_line_items": 2,
+        "po": null,
+        "vendor_name": "High Park Landscaping Supply"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$884.39 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-31T04:53:29.599096-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 884.39,
+      "vendor_canonical": "High Park Landscaping Supply",
+      "vendor_id": "V015"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B041",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "EUR",
+        "header_total": 1665.44,
+        "invoice_date": "2026-10-24",
+        "invoice_number": "INV-76500",
+        "n_line_items": 28,
+        "po": null,
+        "vendor_name": "Rotterdam Maritime Parts"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$2,548.12 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-31T07:50:20.990852-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 2548.12,
+      "vendor_canonical": "Rotterdam Maritime Parts",
+      "vendor_id": "V039"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B042",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1013.77,
+        "invoice_date": "2026-10-16",
+        "invoice_number": "INV-16802",
+        "n_line_items": 7,
+        "po": "PO-5501",
+        "vendor_name": "Yorkdale Uniforms Ltd"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$1,013.77 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-26T15:02:34.202220-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 1013.77,
+      "vendor_canonical": "Yorkdale Uniforms Ltd",
+      "vendor_id": "V014"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B043",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 8304.95,
+        "invoice_date": "2026-10-21",
+        "invoice_number": "99392",
+        "n_line_items": 14,
+        "po": "PO-9383",
+        "vendor_name": "Hamilton Heavy Haulage"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$8,304.95 over $5,000; director approval.",
+      "received_at": "2026-10-28T20:13:18.207042-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "DIRECTOR",
+      "total_cad": 8304.95,
+      "vendor_canonical": "Hamilton Heavy Haulage",
+      "vendor_id": "V036"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B044",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1233.11,
+        "invoice_date": "2026-10-18",
+        "invoice_number": "60914",
+        "n_line_items": 19,
+        "po": "PO-4474",
+        "vendor_name": "Hamilton Heavy Haulage"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$1,233.11 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-11-02T01:32:49.093092-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 1233.11,
+      "vendor_canonical": "Hamilton Heavy Haulage",
+      "vendor_id": "V036"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B045",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1038.16,
+        "invoice_date": "2026-10-21",
+        "invoice_number": "67138",
+        "n_line_items": 18,
+        "po": null,
+        "vendor_name": "Bayview Stationery Co"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$1,038.16 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-11-01T20:24:02.303515-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 1038.16,
+      "vendor_canonical": "Bayview Stationery Co",
+      "vendor_id": "V025"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B046",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1076.68,
+        "invoice_date": "2026-10-08",
+        "invoice_number": "81467",
+        "n_line_items": 3,
+        "po": "PO-4917",
+        "vendor_name": "Don Mills Chemical Supply"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$1,076.68 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-26T16:45:39.339603-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 1076.68,
+      "vendor_canonical": "Don Mills Chemical Supply",
+      "vendor_id": "V013"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B047",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "USD",
+        "header_total": 209.38,
+        "invoice_date": "2026-10-18",
+        "invoice_number": "67095",
+        "n_line_items": 11,
+        "po": "PO-3017",
+        "vendor_name": "Pacific Rim Components"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$295.23 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-30T08:15:48.740724-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 295.23,
+      "vendor_canonical": "Pacific Rim Components",
+      "vendor_id": "V038"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B048",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "USD",
+        "header_total": 1437.1,
+        "invoice_date": "2026-10-14",
+        "invoice_number": "INV-54835",
+        "n_line_items": 24,
+        "po": "PO-6417",
+        "vendor_name": "Great Lakes Freight"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$2,026.31 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-28T12:13:20.241499-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 2026.31,
+      "vendor_canonical": "Great Lakes Freight",
+      "vendor_id": "V037"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B049",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 308.46,
+        "invoice_date": "2026-10-08",
+        "invoice_number": "18607",
+        "n_line_items": 11,
+        "po": null,
+        "vendor_name": "Bayview Stationery Co"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$308.46 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-28T00:53:18.336743-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 308.46,
+      "vendor_canonical": "Bayview Stationery Co",
+      "vendor_id": "V025"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B050",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 867.51,
+        "invoice_date": "2026-10-25",
+        "invoice_number": "INV-54783",
+        "n_line_items": 12,
+        "po": "PO-1020",
+        "vendor_name": "Don Mills Chemical Supply"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$867.51 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-29T16:28:14.331071-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 867.51,
+      "vendor_canonical": "Don Mills Chemical Supply",
+      "vendor_id": "V013"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B051",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 7732.78,
+        "invoice_date": "2026-10-16",
+        "invoice_number": "79545",
+        "n_line_items": 3,
+        "po": "PO-5421",
+        "vendor_name": "Maple Packaging Ltd."
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$7,732.78 over $5,000; director approval.",
+      "received_at": "2026-10-26T17:40:56.035877-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "DIRECTOR",
+      "total_cad": 7732.78,
+      "vendor_canonical": "Maple Packaging Ltd.",
+      "vendor_id": "V001"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B052",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1778.74,
+        "invoice_date": "2026-10-25",
+        "invoice_number": "74564",
+        "n_line_items": 10,
+        "po": "PO-6901",
+        "vendor_name": "Richmond Hill Rigging Supply"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$1,778.74 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-29T09:33:40.950899-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 1778.74,
+      "vendor_canonical": "Richmond Hill Rigging Supply",
+      "vendor_id": "V033"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B053",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 625.91,
+        "invoice_date": "2026-10-22",
+        "invoice_number": "14734",
+        "n_line_items": 15,
+        "po": "PO-3541",
+        "vendor_name": "Vaughan Valve & Fitting"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$625.91 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-31T10:20:54.330344-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 625.91,
+      "vendor_canonical": "Vaughan Valve & Fitting",
+      "vendor_id": "V032"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B054",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1092.88,
+        "invoice_date": "2026-11-01",
+        "invoice_number": "14392",
+        "n_line_items": 24,
+        "po": null,
+        "vendor_name": "GTA Paper & Board Corp"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$1,092.88 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-11-02T04:55:01.176184-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 1092.88,
+      "vendor_canonical": "GTA Paper & Board Corp",
+      "vendor_id": "V004"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B055",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 2086.79,
+        "invoice_date": "2026-10-24",
+        "invoice_number": "49322",
+        "n_line_items": 9,
+        "po": null,
+        "vendor_name": "Northline Industrial Tools"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$2,086.79 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-11-02T03:00:59.269297-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 2086.79,
+      "vendor_canonical": "Northline Industrial Tools",
+      "vendor_id": "V003"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B056",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 356.84,
+        "invoice_date": "2026-10-23",
+        "invoice_number": "61151",
+        "n_line_items": 10,
+        "po": null,
+        "vendor_name": "GTA Paper & Board Corp"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$356.84 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-27T17:14:45.377168-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 356.84,
+      "vendor_canonical": "GTA Paper & Board Corp",
+      "vendor_id": "V004"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B057",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 571.5,
+        "invoice_date": "2026-10-29",
+        "invoice_number": "39931",
+        "n_line_items": 21,
+        "po": "PO-7979",
+        "vendor_name": "Oakville Oils & Lubricants"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$571.50 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-11-01T03:29:57.934027-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 571.5,
+      "vendor_canonical": "Oakville Oils & Lubricants",
+      "vendor_id": "V034"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B058",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 898.52,
+        "invoice_date": "2026-10-27",
+        "invoice_number": "29158",
+        "n_line_items": 5,
+        "po": null,
+        "vendor_name": "High Park Landscaping Supply"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$898.52 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-31T12:55:23.236128-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 898.52,
+      "vendor_canonical": "High Park Landscaping Supply",
+      "vendor_id": "V015"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B059",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 12597.24,
+        "invoice_date": "2026-10-08",
+        "invoice_number": "29516",
+        "n_line_items": 13,
+        "po": "PO-4022",
+        "vendor_name": "Eglinton Paint Supply"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$12,597.24 over $5,000; director approval.",
+      "received_at": "2026-10-28T15:30:56.363916-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "DIRECTOR",
+      "total_cad": 12597.24,
+      "vendor_canonical": "Eglinton Paint Supply",
+      "vendor_id": "V026"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B060",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "USD",
+        "header_total": 1659.42,
+        "invoice_date": "2026-10-22",
+        "invoice_number": "99539",
+        "n_line_items": 9,
+        "po": null,
+        "vendor_name": "Pacific Rim Components"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$2,339.78 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-11-01T09:41:58.876898-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 2339.78,
+      "vendor_canonical": "Pacific Rim Components",
+      "vendor_id": "V038"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B061",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 2188.11,
+        "invoice_date": "2026-10-23",
+        "invoice_number": "INV-27540",
+        "n_line_items": 17,
+        "po": null,
+        "vendor_name": "Danforth Deli Provisions"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$2,188.11 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-27T20:49:04.159451-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 2188.11,
+      "vendor_canonical": "Danforth Deli Provisions",
+      "vendor_id": "V020"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B062",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 2049.05,
+        "invoice_date": "2026-10-18",
+        "invoice_number": "94975",
+        "n_line_items": 3,
+        "po": null,
+        "vendor_name": "High Park Landscaping Supply"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$2,049.05 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-26T16:42:47.404997-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 2049.05,
+      "vendor_canonical": "High Park Landscaping Supply",
+      "vendor_id": "V015"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B063",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 10302.81,
+        "invoice_date": "2026-10-08",
+        "invoice_number": "92965",
+        "n_line_items": 19,
+        "po": "PO-1980",
+        "vendor_name": "Yorkdale Uniforms Ltd"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$10,302.81 over $5,000; director approval.",
+      "received_at": "2026-10-27T13:17:40.771329-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "DIRECTOR",
+      "total_cad": 10302.81,
+      "vendor_canonical": "Yorkdale Uniforms Ltd",
+      "vendor_id": "V014"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B064",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1810.07,
+        "invoice_date": "2026-10-20",
+        "invoice_number": "73964",
+        "n_line_items": 10,
+        "po": "PO-9336",
+        "vendor_name": "Hamilton Heavy Haulage"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$1,810.07 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-31T16:49:49.328152-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 1810.07,
+      "vendor_canonical": "Hamilton Heavy Haulage",
+      "vendor_id": "V036"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B065",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 399.32,
+        "invoice_date": "2026-10-20",
+        "invoice_number": "62553",
+        "n_line_items": 9,
+        "po": "PO-6625",
+        "vendor_name": "Scarborough Steel Supply"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$399.32 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-31T17:19:48.285144-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 399.32,
+      "vendor_canonical": "Scarborough Steel Supply",
+      "vendor_id": "V011"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B066",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 674.23,
+        "invoice_date": "2026-10-15",
+        "invoice_number": "81496",
+        "n_line_items": 15,
+        "po": "PO-9119",
+        "vendor_name": "Oakville Oils & Lubricants"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$674.23 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-11-01T14:38:31.490199-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 674.23,
+      "vendor_canonical": "Oakville Oils & Lubricants",
+      "vendor_id": "V034"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B067",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 3880.96,
+        "invoice_date": "2026-10-07",
+        "invoice_number": "98250",
+        "n_line_items": 9,
+        "po": "PO-5799",
+        "vendor_name": "Scarborough Steel Supply"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$3,880.96 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-27T13:17:22.471005-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 3880.96,
+      "vendor_canonical": "Scarborough Steel Supply",
+      "vendor_id": "V011"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B068",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1004.8,
+        "invoice_date": "2026-10-17",
+        "invoice_number": "INV-62938",
+        "n_line_items": 17,
+        "po": "PO-3865",
+        "vendor_name": "Eglinton Paint Supply"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$1,004.80 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-11-01T11:23:09.781796-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 1004.8,
+      "vendor_canonical": "Eglinton Paint Supply",
+      "vendor_id": "V026"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B069",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1479.78,
+        "invoice_date": "2026-10-24",
+        "invoice_number": "97112",
+        "n_line_items": 17,
+        "po": "PO-2508",
+        "vendor_name": "Markham Machine Works"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$1,479.78 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-28T13:59:50.789683-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 1479.78,
+      "vendor_canonical": "Markham Machine Works",
+      "vendor_id": "V031"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B070",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1381.63,
+        "invoice_date": "2026-10-21",
+        "invoice_number": "20052",
+        "n_line_items": 7,
+        "po": "PO-9837",
+        "vendor_name": "Warden Hill Logistics Services"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$1,381.63 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-29T05:13:40.732342-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 1381.63,
+      "vendor_canonical": "Warden Hill Logistics Services",
+      "vendor_id": "V028"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B071",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 13176.33,
+        "invoice_date": "2026-10-22",
+        "invoice_number": "45143",
+        "n_line_items": 12,
+        "po": null,
+        "vendor_name": "Etobicoke Electrical Distributors"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$13,176.33 over $5,000; director approval.",
+      "received_at": "2026-10-31T08:27:10.244522-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "DIRECTOR",
+      "total_cad": 13176.33,
+      "vendor_canonical": "Etobicoke Electrical Distributors",
+      "vendor_id": "V007"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B072",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 6730.7,
+        "invoice_date": "2026-10-21",
+        "invoice_number": "INV-80215",
+        "n_line_items": 11,
+        "po": "PO-4095",
+        "vendor_name": "Weston Road Auto Parts"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$6,730.70 over $5,000; director approval.",
+      "received_at": "2026-10-29T06:05:38.599406-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "DIRECTOR",
+      "total_cad": 6730.7,
+      "vendor_canonical": "Weston Road Auto Parts",
+      "vendor_id": "V023"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B073",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 902.42,
+        "invoice_date": "2026-10-19",
+        "invoice_number": "91912",
+        "n_line_items": 2,
+        "po": null,
+        "vendor_name": "Portlands Fasteners Co."
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$902.42 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-28T19:14:02.471258-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 902.42,
+      "vendor_canonical": "Portlands Fasteners Co.",
+      "vendor_id": "V008"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B074",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 283.01,
+        "invoice_date": "2026-10-12",
+        "invoice_number": "70918",
+        "n_line_items": 12,
+        "po": "PO-4200",
+        "vendor_name": "Beaver Lumber Wholesale"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$283.01 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-26T18:16:08.701179-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 283.01,
+      "vendor_canonical": "Beaver Lumber Wholesale",
+      "vendor_id": "V006"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B075",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 724.74,
+        "invoice_date": "2026-10-12",
+        "invoice_number": "INV-82862",
+        "n_line_items": 18,
+        "po": "PO-7293",
+        "vendor_name": "Beaver Lumber Wholesale"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$724.74 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-27T03:18:34.138033-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 724.74,
+      "vendor_canonical": "Beaver Lumber Wholesale",
+      "vendor_id": "V006"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B076",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 2829.94,
+        "invoice_date": "2026-10-13",
+        "invoice_number": "64010",
+        "n_line_items": 12,
+        "po": null,
+        "vendor_name": "Eglinton Paint Supply"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$2,829.94 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-11-01T11:30:37.303914-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 2829.94,
+      "vendor_canonical": "Eglinton Paint Supply",
+      "vendor_id": "V026"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B077",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 11682.22,
+        "invoice_date": "2026-10-15",
+        "invoice_number": "50506",
+        "n_line_items": 2,
+        "po": "PO-7418",
+        "vendor_name": "Maple Packaging Ltd."
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$11,682.22 over $5,000; director approval.",
+      "received_at": "2026-10-31T02:55:27.048174-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "DIRECTOR",
+      "total_cad": 11682.22,
+      "vendor_canonical": "Maple Packaging Ltd.",
+      "vendor_id": "V001"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B078",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 3959.78,
+        "invoice_date": "2026-10-16",
+        "invoice_number": "29374",
+        "n_line_items": 25,
+        "po": null,
+        "vendor_name": "Lakeshore Janitorial Supply"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$3,959.78 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-11-01T04:38:54.803878-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 3959.78,
+      "vendor_canonical": "Lakeshore Janitorial Supply",
+      "vendor_id": "V005"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B079",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 9692.45,
+        "invoice_date": "2026-10-24",
+        "invoice_number": "76332",
+        "n_line_items": 2,
+        "po": null,
+        "vendor_name": "Leslieville Lighting Co"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$9,692.45 over $5,000; director approval.",
+      "received_at": "2026-10-30T18:29:57.051882-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "DIRECTOR",
+      "total_cad": 9692.45,
+      "vendor_canonical": "Leslieville Lighting Co",
+      "vendor_id": "V018"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B080",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 12489.55,
+        "invoice_date": "2026-10-18",
+        "invoice_number": "77970",
+        "n_line_items": 17,
+        "po": "PO-9323",
+        "vendor_name": "Liberty Village Print Services"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$12,489.55 over $5,000; director approval.",
+      "received_at": "2026-11-01T12:32:11.488222-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "DIRECTOR",
+      "total_cad": 12489.55,
+      "vendor_canonical": "Liberty Village Print Services",
+      "vendor_id": "V010"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B081",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 10946.17,
+        "invoice_date": "2026-10-19",
+        "invoice_number": "39213",
+        "n_line_items": 4,
+        "po": null,
+        "vendor_name": "Portlands Fasteners Co."
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$10,946.17 over $5,000; director approval.",
+      "received_at": "2026-10-31T19:18:32.551983-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "DIRECTOR",
+      "total_cad": 10946.17,
+      "vendor_canonical": "Portlands Fasteners Co.",
+      "vendor_id": "V008"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B082",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 12264.33,
+        "invoice_date": "2026-10-17",
+        "invoice_number": "97114",
+        "n_line_items": 7,
+        "po": "PO-5227",
+        "vendor_name": "GTA Paper & Board Corp"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$12,264.33 over $5,000; director approval.",
+      "received_at": "2026-11-01T11:38:06.464622-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "DIRECTOR",
+      "total_cad": 12264.33,
+      "vendor_canonical": "GTA Paper & Board Corp",
+      "vendor_id": "V004"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B083",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 470.81,
+        "invoice_date": "2026-10-20",
+        "invoice_number": "31783",
+        "n_line_items": 2,
+        "po": "PO-2579",
+        "vendor_name": "St. Lawrence Produce Wholesale"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$470.81 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-29T18:47:20.247773-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 470.81,
+      "vendor_canonical": "St. Lawrence Produce Wholesale",
+      "vendor_id": "V021"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B084",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 3199.83,
+        "invoice_date": "2026-10-10",
+        "invoice_number": "64033",
+        "n_line_items": 16,
+        "po": "PO-9725",
+        "vendor_name": "Mississauga Plastics Inc"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$3,199.83 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-29T02:42:24.411087-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 3199.83,
+      "vendor_canonical": "Mississauga Plastics Inc",
+      "vendor_id": "V012"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B085",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 4256.98,
+        "invoice_date": "2026-10-22",
+        "invoice_number": "78520",
+        "n_line_items": 23,
+        "po": null,
+        "vendor_name": "Lakeshore Janitorial Supply"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$4,256.98 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-31T22:58:15.782934-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 4256.98,
+      "vendor_canonical": "Lakeshore Janitorial Supply",
+      "vendor_id": "V005"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B086",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1102.46,
+        "invoice_date": "2026-10-20",
+        "invoice_number": "INV-26215",
+        "n_line_items": 11,
+        "po": null,
+        "vendor_name": "Kennedy Road Tire Depot"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$1,102.46 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-11-01T00:26:06.185485-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 1102.46,
+      "vendor_canonical": "Kennedy Road Tire Depot",
+      "vendor_id": "V029"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B087",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1896.15,
+        "invoice_date": "2026-10-15",
+        "invoice_number": "33540",
+        "n_line_items": 18,
+        "po": "PO-2206",
+        "vendor_name": "Burlington Battery Supply"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$1,896.15 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-26T13:34:22.417695-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 1896.15,
+      "vendor_canonical": "Burlington Battery Supply",
+      "vendor_id": "V035"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B088",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 300.07,
+        "invoice_date": "2026-11-01",
+        "invoice_number": "INV-71878",
+        "n_line_items": 14,
+        "po": "PO-8614",
+        "vendor_name": "Birchmount Bearing Company"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$300.07 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-11-02T07:50:25.743371-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 300.07,
+      "vendor_canonical": "Birchmount Bearing Company",
+      "vendor_id": "V030"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B089",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 11800.24,
+        "invoice_date": "2026-10-08",
+        "invoice_number": "36635",
+        "n_line_items": 13,
+        "po": "PO-2550",
+        "vendor_name": "Finch Corridor IT Hardware"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$11,800.24 over $5,000; director approval.",
+      "received_at": "2026-10-26T22:38:08.052907-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "DIRECTOR",
+      "total_cad": 11800.24,
+      "vendor_canonical": "Finch Corridor IT Hardware",
+      "vendor_id": "V024"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B090",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 776.73,
+        "invoice_date": "2026-10-19",
+        "invoice_number": "INV-96283",
+        "n_line_items": 5,
+        "po": null,
+        "vendor_name": "St. Lawrence Produce Wholesale"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$776.73 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-29T03:56:07.320821-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 776.73,
+      "vendor_canonical": "St. Lawrence Produce Wholesale",
+      "vendor_id": "V021"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B091",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 3303.32,
+        "invoice_date": "2026-10-11",
+        "invoice_number": "41973",
+        "n_line_items": 22,
+        "po": "PO-6458",
+        "vendor_name": "Scarborough Steel Supply"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$3,303.32 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-27T20:40:03.530859-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 3303.32,
+      "vendor_canonical": "Scarborough Steel Supply",
+      "vendor_id": "V011"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B092",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 235.94,
+        "invoice_date": "2026-10-19",
+        "invoice_number": "55427",
+        "n_line_items": 2,
+        "po": "PO-3805",
+        "vendor_name": "St. Lawrence Produce Wholesale"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$235.94 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-27T09:17:46.157031-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 235.94,
+      "vendor_canonical": "St. Lawrence Produce Wholesale",
+      "vendor_id": "V021"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B093",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 10185.59,
+        "invoice_date": "2026-10-17",
+        "invoice_number": "18962",
+        "n_line_items": 2,
+        "po": null,
+        "vendor_name": "Danforth Deli Provisions"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$10,185.59 over $5,000; director approval.",
+      "received_at": "2026-10-29T08:24:35.279451-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "DIRECTOR",
+      "total_cad": 10185.59,
+      "vendor_canonical": "Danforth Deli Provisions",
+      "vendor_id": "V020"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B094",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 240.84,
+        "invoice_date": "2026-10-10",
+        "invoice_number": "INV-86953",
+        "n_line_items": 7,
+        "po": "PO-7905",
+        "vendor_name": "Portlands Fasteners Co."
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$240.84 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-29T01:49:32.456136-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 240.84,
+      "vendor_canonical": "Portlands Fasteners Co.",
+      "vendor_id": "V008"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B095",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 6629.98,
+        "invoice_date": "2026-10-18",
+        "invoice_number": "INV-15192",
+        "n_line_items": 7,
+        "po": "PO-6720",
+        "vendor_name": "Mississauga Plastics Inc"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$6,629.98 over $5,000; director approval.",
+      "received_at": "2026-10-31T12:59:42.168618-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "DIRECTOR",
+      "total_cad": 6629.98,
+      "vendor_canonical": "Mississauga Plastics Inc",
+      "vendor_id": "V012"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B096",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 448.89,
+        "invoice_date": "2026-10-26",
+        "invoice_number": "42633",
+        "n_line_items": 6,
+        "po": null,
+        "vendor_name": "Roncesvalles Refrigeration"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$448.89 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-11-01T03:41:35.063525-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 448.89,
+      "vendor_canonical": "Roncesvalles Refrigeration",
+      "vendor_id": "V019"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B097",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 3987.62,
+        "invoice_date": "2026-10-20",
+        "invoice_number": "INV-66270",
+        "n_line_items": 11,
+        "po": null,
+        "vendor_name": "King West Coffee Roasters"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$3,987.62 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-29T07:16:46.526907-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 3987.62,
+      "vendor_canonical": "King West Coffee Roasters",
+      "vendor_id": "V016"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B098",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 2993.75,
+        "invoice_date": "2026-10-22",
+        "invoice_number": "INV-66965",
+        "n_line_items": 7,
+        "po": "PO-1965",
+        "vendor_name": "Birchmount Bearing Company"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$2,993.75 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-11-01T12:02:48.792761-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 2993.75,
+      "vendor_canonical": "Birchmount Bearing Company",
+      "vendor_id": "V030"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B099",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 259.28,
+        "invoice_date": "2026-10-13",
+        "invoice_number": "32225",
+        "n_line_items": 7,
+        "po": "PO-2383",
+        "vendor_name": "Etobicoke Electrical Distributors"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$259.28 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-30T09:50:21.403066-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 259.28,
+      "vendor_canonical": "Etobicoke Electrical Distributors",
+      "vendor_id": "V007"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B100",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 5806.09,
+        "invoice_date": "2026-10-22",
+        "invoice_number": "41524",
+        "n_line_items": 18,
+        "po": "PO-5383",
+        "vendor_name": "Sheppard Glass & Mirror"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$5,806.09 over $5,000; director approval.",
+      "received_at": "2026-11-01T14:56:17.068528-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "DIRECTOR",
+      "total_cad": 5806.09,
+      "vendor_canonical": "Sheppard Glass & Mirror",
+      "vendor_id": "V027"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B101",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 2322.25,
+        "invoice_date": "2026-10-28",
+        "invoice_number": "78136",
+        "n_line_items": 2,
+        "po": "PO-7031",
+        "vendor_name": "St. Lawrence Produce Wholesale"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$2,322.25 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-31T09:55:48.019979-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 2322.25,
+      "vendor_canonical": "St. Lawrence Produce Wholesale",
+      "vendor_id": "V021"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B102",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 3410.01,
+        "invoice_date": "2026-10-29",
+        "invoice_number": "86605",
+        "n_line_items": 3,
+        "po": "PO-4836",
+        "vendor_name": "Roncesvalles Refrigeration"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$3,410.01 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-11-01T18:26:01.992301-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 3410.01,
+      "vendor_canonical": "Roncesvalles Refrigeration",
+      "vendor_id": "V019"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B103",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 4195.34,
+        "invoice_date": "2026-10-14",
+        "invoice_number": "69635",
+        "n_line_items": 9,
+        "po": "PO-8562",
+        "vendor_name": "Don Mills Chemical Supply"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$4,195.34 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-28T13:45:58.081845-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 4195.34,
+      "vendor_canonical": "Don Mills Chemical Supply",
+      "vendor_id": "V013"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B104",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 295.13,
+        "invoice_date": "2026-10-11",
+        "invoice_number": "INV-96793",
+        "n_line_items": 3,
+        "po": "PO-6939",
+        "vendor_name": "Oakville Oils & Lubricants"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$295.13 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-28T19:54:52.731627-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 295.13,
+      "vendor_canonical": "Oakville Oils & Lubricants",
+      "vendor_id": "V034"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B105",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 246.35,
+        "invoice_date": "2026-10-16",
+        "invoice_number": "40159",
+        "n_line_items": 5,
+        "po": null,
+        "vendor_name": "Danforth Deli Provisions"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$246.35 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-11-01T13:31:26.301744-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 246.35,
+      "vendor_canonical": "Danforth Deli Provisions",
+      "vendor_id": "V020"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B106",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "GBP",
+        "header_total": 2091.91,
+        "invoice_date": "2026-10-14",
+        "invoice_number": "24525",
+        "n_line_items": 6,
+        "po": "PO-6373",
+        "vendor_name": "Thames Engineering Supplies"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$3,744.52 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-29T02:08:36.499589-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 3744.52,
+      "vendor_canonical": "Thames Engineering Supplies",
+      "vendor_id": "V040"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B107",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1501.76,
+        "invoice_date": "2026-10-23",
+        "invoice_number": "96416",
+        "n_line_items": 9,
+        "po": null,
+        "vendor_name": "Liberty Village Print Services"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$1,501.76 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-31T00:26:03.784277-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 1501.76,
+      "vendor_canonical": "Liberty Village Print Services",
+      "vendor_id": "V010"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B108",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 11128.56,
+        "invoice_date": "2026-10-11",
+        "invoice_number": "INV-33728",
+        "n_line_items": 18,
+        "po": "PO-9580",
+        "vendor_name": "Leslieville Lighting Co"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$11,128.56 over $5,000; director approval.",
+      "received_at": "2026-10-27T05:18:56.224994-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "DIRECTOR",
+      "total_cad": 11128.56,
+      "vendor_canonical": "Leslieville Lighting Co",
+      "vendor_id": "V018"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B109",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 7815.51,
+        "invoice_date": "2026-10-20",
+        "invoice_number": "INV-65668",
+        "n_line_items": 10,
+        "po": null,
+        "vendor_name": "Liberty Village Print Services"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$7,815.51 over $5,000; director approval.",
+      "received_at": "2026-10-30T12:25:07.000848-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "DIRECTOR",
+      "total_cad": 7815.51,
+      "vendor_canonical": "Liberty Village Print Services",
+      "vendor_id": "V010"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B110",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 1077.12,
+        "invoice_date": "2026-10-14",
+        "invoice_number": "46786",
+        "n_line_items": 12,
+        "po": null,
+        "vendor_name": "Liberty Village Print Services"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$1,077.12 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-29T06:42:57.741285-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 1077.12,
+      "vendor_canonical": "Liberty Village Print Services",
+      "vendor_id": "V010"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B111",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 10174.47,
+        "invoice_date": "2026-10-25",
+        "invoice_number": "INV-70276",
+        "n_line_items": 16,
+        "po": "PO-5505",
+        "vendor_name": "Don Mills Chemical Supply"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$10,174.47 over $5,000; director approval.",
+      "received_at": "2026-10-28T16:26:42.097811-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "DIRECTOR",
+      "total_cad": 10174.47,
+      "vendor_canonical": "Don Mills Chemical Supply",
+      "vendor_id": "V013"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B112",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 800.1,
+        "invoice_date": "2026-10-08",
+        "invoice_number": "72055",
+        "n_line_items": 2,
+        "po": "PO-5151",
+        "vendor_name": "Kennedy Road Tire Depot"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$800.10 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-26T09:55:41.989699-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 800.1,
+      "vendor_canonical": "Kennedy Road Tire Depot",
+      "vendor_id": "V029"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B113",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 787.52,
+        "invoice_date": "2026-10-22",
+        "invoice_number": "51805",
+        "n_line_items": 20,
+        "po": null,
+        "vendor_name": "Humber HVAC Parts"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$787.52 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-29T20:37:24.155545-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 787.52,
+      "vendor_canonical": "Humber HVAC Parts",
+      "vendor_id": "V022"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B114",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 832.56,
+        "invoice_date": "2026-10-16",
+        "invoice_number": "INV-10909",
+        "n_line_items": 11,
+        "po": null,
+        "vendor_name": "Roncesvalles Refrigeration"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$832.56 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-27T09:04:07.665645-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 832.56,
+      "vendor_canonical": "Roncesvalles Refrigeration",
+      "vendor_id": "V019"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B115",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 2863.52,
+        "invoice_date": "2026-10-25",
+        "invoice_number": "INV-93902",
+        "n_line_items": 10,
+        "po": "PO-6438",
+        "vendor_name": "Weston Road Auto Parts"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$2,863.52 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-30T19:59:11.915335-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 2863.52,
+      "vendor_canonical": "Weston Road Auto Parts",
+      "vendor_id": "V023"
+    },
+    {
+      "action": "SEND_TO_DIRECTOR",
+      "bill_id": "B116",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 12762.63,
+        "invoice_date": "2026-10-14",
+        "invoice_number": "65952",
+        "n_line_items": 2,
+        "po": "PO-6690",
+        "vendor_name": "Hamilton Heavy Haulage"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$12,762.63 over $5,000; director approval.",
+      "received_at": "2026-10-29T00:14:59.438517-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "DIRECTOR",
+      "total_cad": 12762.63,
+      "vendor_canonical": "Hamilton Heavy Haulage",
+      "vendor_id": "V036"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B117",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 2539.37,
+        "invoice_date": "2026-10-20",
+        "invoice_number": "INV-52177",
+        "n_line_items": 22,
+        "po": "PO-5896",
+        "vendor_name": "Mississauga Plastics Inc"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$2,539.37 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-10-31T19:29:53.315890-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 2539.37,
+      "vendor_canonical": "Mississauga Plastics Inc",
+      "vendor_id": "V012"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B118",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 790.24,
+        "invoice_date": "2026-10-14",
+        "invoice_number": "89634",
+        "n_line_items": 11,
+        "po": null,
+        "vendor_name": "Harbour Office Supplies Inc"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$790.24 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-30T02:07:58.185908-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 790.24,
+      "vendor_canonical": "Harbour Office Supplies Inc",
+      "vendor_id": "V002"
+    },
+    {
+      "action": "SEND_TO_MANAGER",
+      "bill_id": "B119",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 2911.91,
+        "invoice_date": "2026-10-16",
+        "invoice_number": "61806",
+        "n_line_items": 14,
+        "po": null,
+        "vendor_name": "Portlands Fasteners Co."
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$2,911.91 in the $1,000-$5,000 band; manager approval.",
+      "received_at": "2026-11-01T10:12:08.330085-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "MANAGER",
+      "total_cad": 2911.91,
+      "vendor_canonical": "Portlands Fasteners Co.",
+      "vendor_id": "V008"
+    },
+    {
+      "action": "AUTO_POST",
+      "bill_id": "B120",
+      "dedupe": "OK",
+      "dedupe_detail": {
+        "action": null,
+        "date_diff_days": null,
+        "dedupe": "OK",
+        "is_duplicate": false,
+        "likely_duplicate": false,
+        "match_type": null,
+        "matched_posted": null,
+        "total_diff_pct": null
+      },
+      "extracted": {
+        "currency": "CAD",
+        "header_total": 273.77,
+        "invoice_date": "2026-10-14",
+        "invoice_number": "INV-33777",
+        "n_line_items": 3,
+        "po": "PO-7186",
+        "vendor_name": "Weston Road Auto Parts"
+      },
+      "flag_details": [],
+      "flags": [],
+      "reasoning": "$273.77 under $1,000 with no flags; auto-intake ready.",
+      "received_at": "2026-10-26T14:30:52.069250-04:00",
+      "seed_flags": [
+        "clean"
+      ],
+      "tier": "AUTO-INTAKE",
+      "total_cad": 273.77,
+      "vendor_canonical": "Weston Road Auto Parts",
+      "vendor_id": "V023"
+    }
+  ],
+  "generated_at": "2026-11-02T14:05:03.356599+00:00",
+  "replay_date": "2026-11-02",
+  "summary": {
+    "auto_intake_ready": 32,
+    "by_action": {
+      "AUTO_POST": 32,
+      "CORRECT_TOTAL": 2,
+      "HOLD_DUPLICATE": 8,
+      "REQUEST_PO": 3,
+      "SEND_TO_DIRECTOR": 25,
+      "SEND_TO_MANAGER": 50
+    },
+    "by_tier": {
+      "AUTO-INTAKE": 32,
+      "DIRECTOR": 21,
+      "MANAGER": 47,
+      "REVIEW": 20
+    },
+    "duplicates_caught": 8,
+    "intake_value_cad": 16952.82,
+    "missing_po_holds": 3,
+    "replay_date": "2026-11-02",
+    "split_dodges": 4,
+    "total_bills": 120
+  },
+  "vendors": {
+    "UNRESOLVED": {
+      "bill_count": 1,
+      "canonical_name": null,
+      "variant_spellings": [
+        "Lakeshore Janitorial Supplies"
+      ]
+    },
+    "V001": {
+      "bill_count": 5,
+      "canonical_name": "Maple Packaging Ltd.",
+      "variant_spellings": [
+        "Maple Packaging Ltd Toronto",
+        "Maple Packaging Ltd."
+      ]
+    },
+    "V002": {
+      "bill_count": 3,
+      "canonical_name": "Harbour Office Supplies Inc",
+      "variant_spellings": [
+        "Harbour Office Supply Inc",
+        "Harbour Office Supplies Inc"
+      ]
+    },
+    "V003": {
+      "bill_count": 3,
+      "canonical_name": "Northline Industrial Tools",
+      "variant_spellings": [
+        "Northline Industrial Tools Ltd",
+        "Northline Industrial Tools"
+      ]
+    },
+    "V004": {
+      "bill_count": 4,
+      "canonical_name": "GTA Paper & Board Corp",
+      "variant_spellings": [
+        "GTA Paper and Board Corp",
+        "GTA Paper & Board Corp"
+      ]
+    },
+    "V005": {
+      "bill_count": 2,
+      "canonical_name": "Lakeshore Janitorial Supply",
+      "variant_spellings": [
+        "Lakeshore Janitorial Supply"
+      ]
+    },
+    "V006": {
+      "bill_count": 4,
+      "canonical_name": "Beaver Lumber Wholesale",
+      "variant_spellings": [
+        "Beaver Lumber Wholesale Ltd",
+        "Beaver Lumber Wholesale"
+      ]
+    },
+    "V007": {
+      "bill_count": 3,
+      "canonical_name": "Etobicoke Electrical Distributors",
+      "variant_spellings": [
+        "Etobicoke Electrical Distributors"
+      ]
+    },
+    "V008": {
+      "bill_count": 4,
+      "canonical_name": "Portlands Fasteners Co.",
+      "variant_spellings": [
+        "Portlands Fasteners Co."
+      ]
+    },
+    "V009": {
+      "bill_count": 2,
+      "canonical_name": "Dufferin Safety Equipment",
+      "variant_spellings": [
+        "Dufferin Safety Equipment"
+      ]
+    },
+    "V010": {
+      "bill_count": 4,
+      "canonical_name": "Liberty Village Print Services",
+      "variant_spellings": [
+        "Liberty Village Print Services"
+      ]
+    },
+    "V011": {
+      "bill_count": 4,
+      "canonical_name": "Scarborough Steel Supply",
+      "variant_spellings": [
+        "Scarborough Steel Supply"
+      ]
+    },
+    "V012": {
+      "bill_count": 3,
+      "canonical_name": "Mississauga Plastics Inc",
+      "variant_spellings": [
+        "Mississauga Plastics Inc"
+      ]
+    },
+    "V013": {
+      "bill_count": 7,
+      "canonical_name": "Don Mills Chemical Supply",
+      "variant_spellings": [
+        "Don Mills Chemical Supply"
+      ]
+    },
+    "V014": {
+      "bill_count": 3,
+      "canonical_name": "Yorkdale Uniforms Ltd",
+      "variant_spellings": [
+        "Yorkdale Uniforms Ltd"
+      ]
+    },
+    "V015": {
+      "bill_count": 3,
+      "canonical_name": "High Park Landscaping Supply",
+      "variant_spellings": [
+        "High Park Landscaping Supply"
+      ]
+    },
+    "V016": {
+      "bill_count": 2,
+      "canonical_name": "King West Coffee Roasters",
+      "variant_spellings": [
+        "King West Coffee Roasters"
+      ]
+    },
+    "V017": {
+      "bill_count": 1,
+      "canonical_name": "Junction Textile Mills",
+      "variant_spellings": [
+        "Junction Textile Mills"
+      ]
+    },
+    "V018": {
+      "bill_count": 2,
+      "canonical_name": "Leslieville Lighting Co",
+      "variant_spellings": [
+        "Leslieville Lighting Co"
+      ]
+    },
+    "V019": {
+      "bill_count": 3,
+      "canonical_name": "Roncesvalles Refrigeration",
+      "variant_spellings": [
+        "Roncesvalles Refrigeration"
+      ]
+    },
+    "V020": {
+      "bill_count": 4,
+      "canonical_name": "Danforth Deli Provisions",
+      "variant_spellings": [
+        "Danforth Deli Provisions"
+      ]
+    },
+    "V021": {
+      "bill_count": 5,
+      "canonical_name": "St. Lawrence Produce Wholesale",
+      "variant_spellings": [
+        "St. Lawrence Produce Wholesale"
+      ]
+    },
+    "V022": {
+      "bill_count": 1,
+      "canonical_name": "Humber HVAC Parts",
+      "variant_spellings": [
+        "Humber HVAC Parts"
+      ]
+    },
+    "V023": {
+      "bill_count": 3,
+      "canonical_name": "Weston Road Auto Parts",
+      "variant_spellings": [
+        "Weston Road Auto Parts"
+      ]
+    },
+    "V024": {
+      "bill_count": 3,
+      "canonical_name": "Finch Corridor IT Hardware",
+      "variant_spellings": [
+        "Finch Corridor IT Hardware"
+      ]
+    },
+    "V025": {
+      "bill_count": 2,
+      "canonical_name": "Bayview Stationery Co",
+      "variant_spellings": [
+        "Bayview Stationery Co"
+      ]
+    },
+    "V026": {
+      "bill_count": 3,
+      "canonical_name": "Eglinton Paint Supply",
+      "variant_spellings": [
+        "Eglinton Paint Supply"
+      ]
+    },
+    "V027": {
+      "bill_count": 1,
+      "canonical_name": "Sheppard Glass & Mirror",
+      "variant_spellings": [
+        "Sheppard Glass & Mirror"
+      ]
+    },
+    "V028": {
+      "bill_count": 1,
+      "canonical_name": "Warden Hill Logistics Services",
+      "variant_spellings": [
+        "Warden Hill Logistics Services"
+      ]
+    },
+    "V029": {
+      "bill_count": 2,
+      "canonical_name": "Kennedy Road Tire Depot",
+      "variant_spellings": [
+        "Kennedy Road Tire Depot"
+      ]
+    },
+    "V030": {
+      "bill_count": 2,
+      "canonical_name": "Birchmount Bearing Company",
+      "variant_spellings": [
+        "Birchmount Bearing Company"
+      ]
+    },
+    "V031": {
+      "bill_count": 6,
+      "canonical_name": "Markham Machine Works",
+      "variant_spellings": [
+        "Markham Machine Works"
+      ]
+    },
+    "V032": {
+      "bill_count": 1,
+      "canonical_name": "Vaughan Valve & Fitting",
+      "variant_spellings": [
+        "Vaughan Valve & Fitting"
+      ]
+    },
+    "V033": {
+      "bill_count": 1,
+      "canonical_name": "Richmond Hill Rigging Supply",
+      "variant_spellings": [
+        "Richmond Hill Rigging Supply"
+      ]
+    },
+    "V034": {
+      "bill_count": 5,
+      "canonical_name": "Oakville Oils & Lubricants",
+      "variant_spellings": [
+        "Oakville Oils & Lubricants"
+      ]
+    },
+    "V035": {
+      "bill_count": 1,
+      "canonical_name": "Burlington Battery Supply",
+      "variant_spellings": [
+        "Burlington Battery Supply"
+      ]
+    },
+    "V036": {
+      "bill_count": 5,
+      "canonical_name": "Hamilton Heavy Haulage",
+      "variant_spellings": [
+        "Hamilton Heavy Haulage"
+      ]
+    },
+    "V037": {
+      "bill_count": 3,
+      "canonical_name": "Great Lakes Freight",
+      "variant_spellings": [
+        "Great Lakes Freight"
+      ]
+    },
+    "V038": {
+      "bill_count": 3,
+      "canonical_name": "Pacific Rim Components",
+      "variant_spellings": [
+        "Pacific Rim Components"
+      ]
+    },
+    "V039": {
+      "bill_count": 3,
+      "canonical_name": "Rotterdam Maritime Parts",
+      "variant_spellings": [
+        "Rotterdam Maritime Parts"
+      ]
+    },
+    "V040": {
+      "bill_count": 2,
+      "canonical_name": "Thames Engineering Supplies",
+      "variant_spellings": [
+        "Thames Engineering Supplies"
+      ]
+    }
+  }
+}
