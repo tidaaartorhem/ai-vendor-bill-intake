@@ -7,3 +7,4 @@ web/node_modules/
 
 *.tsbuildinfo
 web/*.d.ts
+web/vite.config.js
