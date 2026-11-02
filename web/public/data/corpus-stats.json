@@ -1,0 +1,40 @@
+{
+  "busiest_month": "2011-11",
+  "cancelled_invoice_numbers_c_prefixed": 3836,
+  "duplicate_invoice_number_rate": 0.8205,
+  "duplicate_invoice_numbers": 20059,
+  "duplicate_resubmission_rows_extra": 516009,
+  "file": "data/raw/Online Retail.xlsx",
+  "invoice_total_all_invoices_p50": 229.5,
+  "invoice_total_all_invoices_p90": 815.0,
+  "invoice_total_non_cancelled_p50": 303.84,
+  "invoice_total_non_cancelled_p90": 940.89,
+  "invoices_per_month": {
+    "2010-12": 1900,
+    "2011-01": 1362,
+    "2011-02": 1328,
+    "2011-03": 1818,
+    "2011-04": 1518,
+    "2011-05": 2024,
+    "2011-06": 1921,
+    "2011-07": 1772,
+    "2011-08": 1655,
+    "2011-09": 2228,
+    "2011-10": 2533,
+    "2011-11": 3387,
+    "2011-12": 1000
+  },
+  "lines_per_invoice_p50": 11.0,
+  "lines_per_invoice_p90": 48.0,
+  "median_unit_price": 2.08,
+  "most_common_unit_price_decile_p1_p99": [
+    0.29,
+    2.06
+  ],
+  "most_common_unit_price_decile_share": 0.4688,
+  "raw_rows": 541909,
+  "rows_with_description": 540455,
+  "share_invoices_any_line_qty_gt_12": 0.5858,
+  "source": "UCI Online Retail (Dec 2010 - Dec 2011), Chen/Clement/Das, CC BY 4.0",
+  "total_invoices_distinct_invoiceno": 24446
+}

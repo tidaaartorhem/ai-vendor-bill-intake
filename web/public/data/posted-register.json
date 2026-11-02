@@ -1,0 +1,100 @@
+[
+  {
+    "invoice_date": "2026-10-14",
+    "invoice_number": "48291",
+    "posted_at": "2026-10-16T00:00:00-04:00",
+    "total_cad": 812.44,
+    "vendor_id": "V001"
+  },
+  {
+    "invoice_date": "2026-10-16",
+    "invoice_number": "55017",
+    "posted_at": "2026-10-18T00:00:00-04:00",
+    "total_cad": 2340.11,
+    "vendor_id": "V013"
+  },
+  {
+    "invoice_date": "2026-10-12",
+    "invoice_number": "90312",
+    "posted_at": "2026-10-14T00:00:00-04:00",
+    "total_cad": 415.75,
+    "vendor_id": "V024"
+  },
+  {
+    "invoice_date": "2026-10-19",
+    "invoice_number": "77120",
+    "posted_at": "2026-10-21T00:00:00-04:00",
+    "total_cad": 1875.0,
+    "vendor_id": "V031"
+  },
+  {
+    "invoice_date": "2026-10-26",
+    "invoice_number": "98770",
+    "posted_at": "2026-10-28T00:00:00-04:00",
+    "total_cad": 1235.0,
+    "vendor_id": "V013"
+  },
+  {
+    "invoice_date": "2026-10-24",
+    "invoice_number": "33041",
+    "posted_at": "2026-10-26T00:00:00-04:00",
+    "total_cad": 2870.55,
+    "vendor_id": "V006"
+  },
+  {
+    "invoice_date": "2026-10-25",
+    "invoice_number": "61882",
+    "posted_at": "2026-10-27T00:00:00-04:00",
+    "total_cad": 640.2,
+    "vendor_id": "V002"
+  },
+  {
+    "invoice_date": "2026-10-23",
+    "invoice_number": "71509",
+    "posted_at": "2026-10-25T00:00:00-04:00",
+    "total_cad": 4125.8,
+    "vendor_id": "V034"
+  },
+  {
+    "invoice_date": "2026-10-10",
+    "invoice_number": "92953",
+    "posted_at": "2026-10-13T00:00:00-04:00",
+    "total_cad": 1396.47,
+    "vendor_id": "V005"
+  },
+  {
+    "invoice_date": "2026-10-12",
+    "invoice_number": "55581",
+    "posted_at": "2026-10-15T00:00:00-04:00",
+    "total_cad": 1993.97,
+    "vendor_id": "V009"
+  },
+  {
+    "invoice_date": "2026-10-14",
+    "invoice_number": "22308",
+    "posted_at": "2026-10-17T00:00:00-04:00",
+    "total_cad": 1283.77,
+    "vendor_id": "V017"
+  },
+  {
+    "invoice_date": "2026-10-16",
+    "invoice_number": "55030",
+    "posted_at": "2026-10-19T00:00:00-04:00",
+    "total_cad": 1919.12,
+    "vendor_id": "V022"
+  },
+  {
+    "invoice_date": "2026-10-18",
+    "invoice_number": "26032",
+    "posted_at": "2026-10-21T00:00:00-04:00",
+    "total_cad": 2563.81,
+    "vendor_id": "V027"
+  },
+  {
+    "invoice_date": "2026-10-20",
+    "invoice_number": "33010",
+    "posted_at": "2026-10-23T00:00:00-04:00",
+    "total_cad": 2199.95,
+    "vendor_id": "V039"
+  }
+]
